@@ -50,7 +50,7 @@
 - [臥龍小三 OLS3 的 Shell 站](http://bash.freesf.tw/)
 - [Shell 設計入門](http://tech.ols3.net/techdoc/old/shell/book1.html)
 - [Bash 程式設計網路管理應用 awk 篇](http://tech.ols3.net/techdoc/old/awk_intro/)
-- [網路管理語言 Perl 入門與實作](http://tech.ols3.net/techdoc/old/perl_intro/)[^1]
+- [網路管理語言 Perl 入門與實作](http://tech.ols3.net/techdoc/old/perl_intro/)
 
 
 
