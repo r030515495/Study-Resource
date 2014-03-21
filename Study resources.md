@@ -39,7 +39,7 @@
 
 ### JMETER
 
-- [blazemeter.com Jmeter-tutorial-video](http://blazemeter.com/blog/jmeter-tutorial-video-series)
+- [blazemeter.com Jmeter-tutorial	](http://community.blazemeter.com/knowledgebase/topics/10018-jmeter-tutorials)
 
 ## System 
 ========
