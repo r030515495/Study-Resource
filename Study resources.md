@@ -10,6 +10,12 @@
 
 - [Color Scheme Designer 3](http://colorschemedesigner.com/)
 
+### JavaScript
+
+- [JavaScript 庭院](http://bonsaiden.github.io/JavaScript-Garden/zhtw/)
+
+
+
 
 ## 後端
 ========
@@ -35,14 +41,36 @@
 
 - [blazemeter.com Jmeter-tutorial-video](http://blazemeter.com/blog/jmeter-tutorial-video-series)
 
-## Linux 
+## System 
 ========
+
+## Linux
 
 - [dotfiles 設定檔配置](http://dotfiles.github.io/)
 - [臥龍小三 OLS3 的 Shell 站](http://bash.freesf.tw/)
 - [Shell 設計入門](http://tech.ols3.net/techdoc/old/shell/book1.html)
 - [Bash 程式設計網路管理應用 awk 篇](http://tech.ols3.net/techdoc/old/awk_intro/)
 - [網路管理語言 Perl 入門與實作](http://tech.ols3.net/techdoc/old/perl_intro/)[^1]
+
+
+
+## IDE
+========
+
+### Sublime text
+
+- [Tuts+ Premium Course: Perfect Workflow in Sublime Text 2  ](https://tutsplus.com/course/improve-workflow-in-sublime-text-2/)
+- [Sublime Text 手冊](http://docs.sublimetext.tw/)
+
+### VIM
+
+- [Vim Hacks](http://www.slideshare.net/c9s/vim-hacks)
+
+
+
+
+
+
 
 
 ## 理念
@@ -52,6 +80,10 @@
 
 
 
+
+## Other
+========
+- [Pandoc’s Markdown 語法中文翻譯](http://pages.tzengyuxio.me/pandoc/#pandocs-markdown)
 
 
 
