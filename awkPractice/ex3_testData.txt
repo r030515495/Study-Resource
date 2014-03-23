@@ -1,0 +1,25 @@
+所在鄉鎮	學校名稱  學校網址	                 校長姓名	學校電話  VOIP前三碼 	學校地址
+佳里鎮	佳里國中	http://www.jl1jh.tnc.edu.tw	NOP	06-7222244	116	佳里鎮安南路523號
+新營市	新營國小	http://www.sy3es.tnc.edu.tw	DEF	06-6322136	142	新營市中正路4號
+
+新營市	新東國中	http://www.sdjh.tnc.edu.tw	GHI	06-6322954	102	新營市民治東路30號
+七股鄉	竹橋國中	http://www.jcjh.tnc.edu.tw	BXY	06-7891733	121	七股鄉義合村74之2號
+新營市	新民國小	http://www.smes.tnc.edu.tw	JKL	06-6562152	143	新營市公園路一段136號
+
+佳里鎮	佳里國小	http://www.jl1es.tnc.edu.tw	QRS	06-7222031	216	佳里鎮安西里公園路445號
+新營市	新進國小	http://www.sj1es.tnc.edu.tw	MNO	06-6322378	144	新營市中正路41號
+佳里鎮	仁愛國小	http://www.raes.tnc.edu.tw	WXY	06-7222227	217	佳里鎮仁愛路307號
+新營市	新橋國小	http://www.sc1es.tnc.edu.tw	BCD	06-6581343	149	新營市鐵線里1號
+七股鄉	後港國中	http://www.hgjh.tnc.edu.tw	STU	06-7941357	120	七股鄉大潭村93號
+
+新營市	太子國中	http://www.ttjh.tnc.edu.tw	HIJ	06-6524762	103	新營市太北里140之21號
+新營市	新泰國小	http://www.htes.tnc.edu.tw	KLM	06-6330496	323	新營市東學路77號
+佳里鎮	佳興國中	http://www.jsjh.tnc.edu.tw	TUV	06-7260291	117	佳里鎮民安里新宅34之1號
+
+七股鄉	七股國小	http://www.cg2es.tnc.edu.tw	AYZ	06-7872076	235	七股鄉大埕村395號
+
+佳里鎮	佳興國小	http://www.js2es.tnc.edu.tw	ZAB	06-7260311	218	佳里鎮佳化里214號
+新營市	新生國小	http://www.ss7es.tnc.edu.tw	EFG	06-6552524	150	新營市姑爺里52號
+
+佳里鎮	通興國小	http://www.ts2es.tnc.edu.tw	LMN	06-7873531	222	佳里鎮通興里5之1號
+佳里鎮	信義國小	http://www.sy2es.tnc.edu.tw	OPQ	06-7211918	223	佳里鎮忠仁里信義一街336號

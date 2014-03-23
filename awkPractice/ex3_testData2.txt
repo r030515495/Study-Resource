@@ -1,0 +1,9 @@
+
+
+
+   ABCDEFG XYZ   IJK  中文 CDEF
+    DEFG XYZ   IJK  中文 CDEF
+        G XYZ   I EFG CDEF
+          JK  中文 BCDEFG XYZ
+             中文 BCDEFG XYZ
+   KIL NMO QPR STUV JJJ KKK
