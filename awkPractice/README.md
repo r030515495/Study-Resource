@@ -21,6 +21,14 @@
 
 ## AWK function
 - systime()  : 系統時間
+- tolower(str) : 把字串轉成小寫
+- toupper(str) : 把字串轉成大寫
+- length(str) : 傳回變數的長度
+- split(str, arr) : 把字串以 FS 分隔符號做分割，把各分割結果存入陣列 arrr 中。
+- split(str, arr, sep) : 同上，但改用 sep 這個指定的分隔符號做分割。
+
+
+
 
 ## 跳脫符號
 
