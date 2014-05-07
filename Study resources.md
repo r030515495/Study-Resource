@@ -2,9 +2,14 @@
 ## 前端
 ========
 
+### UX
+- [ux-crash-course-31](http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals)
+
 ### CSS
 
 - [Mozilla CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+- [學習 CSS 版面配置](https://doggy8088.github.io/csslayoutsite/index.html)
+
 
 ### Color 
 
@@ -23,6 +28,8 @@
 ### Rbuy
 
 - [Learn Ruby The Hard Way — Learn Ruby The Hard Way](http://ruby.learncodethehardway.org/book/)
+- [railsbridge-docs-zh-tw](http://railsbridge-docs-zh-tw.herokuapp.com/)
+
 
 ### Python
 
