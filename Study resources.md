@@ -41,6 +41,8 @@
 - [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
 - [nodejs-tw/nodejs-book-beginner-guide · GitHub](https://github.com/nodejs-tw/nodejs-book-beginner-guide/)
 
+### 
+- [詳細的 Maven介紹](https://code.google.com/p/javawiki/wiki/StarupMaven?wl=zh-Hant)
 
 
 ## 測試
