@@ -48,6 +48,10 @@
 ### JAVA
 - [詳細的 Maven介紹](https://code.google.com/p/javawiki/wiki/StarupMaven?wl=zh-Hant)
 - [Java SWING](http://docs.oracle.com/javase/tutorial/uiswing/examples/components/index.html#table)
+- [ Java Tutorial  ](http://www.java2s.com/Tutorial/Java/CatalogJava.htm)
+- [Java PDF Generation with IText](http://tutorials.jenkov.com/java-itext/index.html)
+
+
 
 
 ## 測試
