@@ -20,6 +20,13 @@
 - [Gallery · mbostock/d3 Wiki · GitHub](https://github.com/mbostock/d3/wiki/Gallery)
 - [D3 簡介](http://bost.ocks.org/mike/d3/workshop/)
 
+### AngularJs
+- [johnpapa/angularjs-styleguide · GitHub](https://github.com/johnpapa/angularjs-styleguide)
+- [A Better Way to Learn AngularJS
+ | Thinkster](http://www.thinkster.io/angularjs/GtaQ0oMGIl/a-better-way-to-learn-angularjs)
+- [The Angular Course](http://www.angularcourse.com/#/)
+
+
 
 
 
