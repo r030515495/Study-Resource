@@ -8,6 +8,7 @@
 
 - [Mozilla CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 - [學習 CSS 版面配置](https://doggy8088.github.io/csslayoutsite/index.html)
+- [UIweek](http://uiweek.com/)
 
 
 ### Color 
@@ -56,7 +57,7 @@
 - [Java SWING](http://docs.oracle.com/javase/tutorial/uiswing/examples/components/index.html#table)
 - [ Java Tutorial  ](http://www.java2s.com/Tutorial/Java/CatalogJava.htm)
 - [Java PDF Generation with IText](http://tutorials.jenkov.com/java-itext/index.html)
-
+- [Java - Multithreading Programming Tutorial](http://www.tutorialspoint.com/java/java_multithreading.htm)
 
 
 
@@ -115,9 +116,7 @@
 ## Other
 ========
 - [Pandoc’s Markdown 語法中文翻譯](http://pages.tzengyuxio.me/pandoc/#pandocs-markdown)
-
-
-
+- [IT eBooks - Free Download - Big Library 免費電子書](http://it-ebooks.info/)
 
 
 
