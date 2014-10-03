@@ -27,7 +27,8 @@
  | Thinkster](http://www.thinkster.io/angularjs/GtaQ0oMGIl/a-better-way-to-learn-angularjs)
 - [The Angular Course](http://www.angularcourse.com/#/)
 
-
+### HTML5
+- [The Web Platform: Browser technologies](https://platform.html5.org/)
 
 
 
@@ -81,7 +82,6 @@
 - [網路管理語言 Perl 入門與實作](http://tech.ols3.net/techdoc/old/perl_intro/)
 
 
-### OSX
 
 
 
