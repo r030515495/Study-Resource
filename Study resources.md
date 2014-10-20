@@ -20,6 +20,7 @@
 - [JavaScript 庭院](http://bonsaiden.github.io/JavaScript-Garden/zhtw/)
 - [Gallery · mbostock/d3 Wiki · GitHub](https://github.com/mbostock/d3/wiki/Gallery)
 - [D3 簡介](http://bost.ocks.org/mike/d3/workshop/)
+- [Mastering Javascript: Prototypal Inheritance - Francisco Méndez Vilas](http://fmvilas.github.io/Mastering-Javascript-Prototypal-Inheritance/#/)
 
 ### AngularJs
 - [johnpapa/angularjs-styleguide · GitHub](https://github.com/johnpapa/angularjs-styleguide)
@@ -45,7 +46,11 @@
 
 ### Python
 
-- [Learn Python The Hard Way, 3rd Edition](http://learnpythonthehardway.org/book/)
+- [Programming with Python - Basic](http://www.slideshare.net/moskytw/programming-with-python-basic)
+- [Programming with Python - Adv.](http://www.slideshare.net/moskytw/programming-with-python-adv)
+- [Learn Python the Hard Way](http://learnpythonthehardway.org/book/)
+- [Dive Into Python](http://www.diveintopython.net/toc/index.html)
+- [Full Stack Python](http://www.fullstackpython.com/table-of-contents.html)
 
 
 ### NoteJs 
