@@ -21,6 +21,7 @@
 - [Gallery · mbostock/d3 Wiki · GitHub](https://github.com/mbostock/d3/wiki/Gallery)
 - [D3 簡介](http://bost.ocks.org/mike/d3/workshop/)
 - [Mastering Javascript: Prototypal Inheritance - Francisco Méndez Vilas](http://fmvilas.github.io/Mastering-Javascript-Prototypal-Inheritance/#/)
+- [ECMAScript 6入门](http://es6.ruanyifeng.com/)
 
 ### AngularJs
 - [johnpapa/angularjs-styleguide · GitHub](https://github.com/johnpapa/angularjs-styleguide)
