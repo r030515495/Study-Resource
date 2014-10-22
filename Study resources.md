@@ -65,6 +65,7 @@
 - [ Java Tutorial  ](http://www.java2s.com/Tutorial/Java/CatalogJava.htm)
 - [Java PDF Generation with IText](http://tutorials.jenkov.com/java-itext/index.html)
 - [Java - Multithreading Programming Tutorial](http://www.tutorialspoint.com/java/java_multithreading.htm)
+- [Java Programming Tutorials](http://www.javabeat.net/)
 
 
 
