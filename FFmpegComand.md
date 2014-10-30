@@ -17,7 +17,7 @@
 	-ss 開始時間
 	-t 擷取秒數
 	-c:v 擷取影像
-	-c:a 擷取聲音
+   -acodec 擷取聲音
 	
 	ffmpeg -i in.mkv -ss 80 -t 80 -c:v copy -c:a copy out.mp4
 	```

@@ -66,6 +66,12 @@
 - [Java PDF Generation with IText](http://tutorials.jenkov.com/java-itext/index.html)
 - [Java - Multithreading Programming Tutorial](http://www.tutorialspoint.com/java/java_multithreading.htm)
 - [Java Programming Tutorials](http://www.javabeat.net/)
+- [Java for Beginners, Java Programming Examples | Java Code Geeks](http://examples.javacodegeeks.com/) 
+- [Core Java Tutorials | Java Code Geeks](http://www.javacodegeeks.com/tutorials/java-tutorials/core-java-tutorials/)
+- [Enterprise Java Tutorials | Java Code Geeks](http://www.javacodegeeks.com/tutorials/java-tutorials/enterprise-java-tutorials/)
+
+### JAVA Template
+- [JHipster home page Maven + Spring + AngularJS](http://jhipster.github.io/)
 
 
 
@@ -125,6 +131,7 @@
 ========
 - [Pandoc’s Markdown 語法中文翻譯](http://pages.tzengyuxio.me/pandoc/#pandocs-markdown)
 - [IT eBooks - Free Download - Big Library 免費電子書](http://it-ebooks.info/)
+- [Free Usenet Tools - Online Base64 Encoder and Decoder. Usenet newsgroups binaries.](http://www.webutils.pl/index.php?idx=base64)
 
 
 
