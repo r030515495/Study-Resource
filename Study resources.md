@@ -28,6 +28,7 @@
 - [A Better Way to Learn AngularJS
  | Thinkster](http://www.thinkster.io/angularjs/GtaQ0oMGIl/a-better-way-to-learn-angularjs)
 - [The Angular Course](http://www.angularcourse.com/#/)
+- [AngularJS Tutorial | Learn Angular by Building a Gmail Clone](http://www.thinkful.com/learn/angularjs-tutorial-build-a-gmail-clone/Complete-Project)
 
 ### HTML5
 - [The Web Platform: Browser technologies](https://platform.html5.org/)
@@ -52,6 +53,7 @@
 - [Learn Python the Hard Way](http://learnpythonthehardway.org/book/)
 - [Dive Into Python](http://www.diveintopython.net/toc/index.html)
 - [Full Stack Python](http://www.fullstackpython.com/table-of-contents.html)
+- [Python 慣用語 « Python Life](http://seanlin.logdown.com/posts/239883-python-idioms)
 
 
 ### NoteJs
@@ -69,6 +71,7 @@
 - [Java for Beginners, Java Programming Examples | Java Code Geeks](http://examples.javacodegeeks.com/) 
 - [Core Java Tutorials | Java Code Geeks](http://www.javacodegeeks.com/tutorials/java-tutorials/core-java-tutorials/)
 - [Enterprise Java Tutorials | Java Code Geeks](http://www.javacodegeeks.com/tutorials/java-tutorials/enterprise-java-tutorials/)
+- [Java Code Example](http://www.programcreek.com/java-api-examples/?action=index)
 
 ### JAVA Template
 - [JHipster home page Maven + Spring + AngularJS](http://jhipster.github.io/)
@@ -95,8 +98,8 @@
 - [網路管理語言 Perl 入門與實作](http://tech.ols3.net/techdoc/old/perl_intro/)
 
 ### OSX
--[java6ForOSX](http://support.apple.com/kb/dl1572)
-
+- [java6ForOSX](http://support.apple.com/kb/dl1572)
+- [dtinth/JavaScript for Automation Cookbook · GitHub](https://github.com/dtinth/JXA-Cookbook)
 
 
 
@@ -132,7 +135,7 @@
 - [Pandoc’s Markdown 語法中文翻譯](http://pages.tzengyuxio.me/pandoc/#pandocs-markdown)
 - [IT eBooks - Free Download - Big Library 免費電子書](http://it-ebooks.info/)
 - [Free Usenet Tools - Online Base64 Encoder and Decoder. Usenet newsgroups binaries.](http://www.webutils.pl/index.php?idx=base64)
-
+- [Problems | LeetCode OJ](https://oj.leetcode.com/problems/)
 
 
 

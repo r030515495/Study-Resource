@@ -32,3 +32,8 @@
 	
 	ffmpeg -i input.avi -y -b:a 56 -b:v 200 -ar 44100 -qscale 8 -f flv
 	```
+	
+- 合併 DVD 檔案 to mp4
+	```
+	ffmpeg -i "concat:01.VOB|02.VOB|03.VOB|04.VOB" -f mpeg -c copy output.mp4
+	```
