@@ -1,0 +1,21 @@
+# Linux command By CentOS
+
+
+- 查看防火牆狀態
+
+	```
+	/etc/init.d/iptables status
+	```
+- 停止防火牆
+
+	```
+	/etc/init.d/iptables stop 
+	```
+- 修改系統時區
+
+	```
+	sudo rm -rf /etc/localtime
+	sudo cp /usr/share/zoneinfo/Asia/Taipei /etc/localtime
+	```
+	
+	
