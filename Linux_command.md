@@ -18,4 +18,11 @@
 	sudo cp /usr/share/zoneinfo/Asia/Taipei /etc/localtime
 	```
 	
-	
+- 查詢網卡
+	```
+	ip addr
+	```
+- 網路封包統計
+ ```
+ ip -s link
+ ```

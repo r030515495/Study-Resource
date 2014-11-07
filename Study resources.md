@@ -96,6 +96,8 @@
 - [Shell 設計入門](http://tech.ols3.net/techdoc/old/shell/book1.html)
 - [Bash 程式設計網路管理應用 awk 篇](http://tech.ols3.net/techdoc/old/awk_intro/)
 - [網路管理語言 Perl 入門與實作](http://tech.ols3.net/techdoc/old/perl_intro/)
+- [Linux Shell Scripting Tutorial - A Beginner's handbook](http://www.freeos.com/guides/lsst/)
+- [Bash Shell Script教學與心得](https://sites.google.com/site/tiger2000/)
 
 ### OSX
 - [java6ForOSX](http://support.apple.com/kb/dl1572)
@@ -136,8 +138,7 @@
 - [IT eBooks - Free Download - Big Library 免費電子書](http://it-ebooks.info/)
 - [Free Usenet Tools - Online Base64 Encoder and Decoder. Usenet newsgroups binaries.](http://www.webutils.pl/index.php?idx=base64)
 - [Problems | LeetCode OJ](https://oj.leetcode.com/problems/)
-
-
+- [打造專屬於你的 Git 工作流程 — Alias、Commands、Hooks | Mozilla Tech | 謀智台客](http://tech.mozilla.com.tw/posts/5306/%E6%89%93%E9%80%A0%E5%B0%88%E5%B1%AC%E6%96%BC%E4%BD%A0%E7%9A%84-git-%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%A8%8B-alias%E3%80%81commands%E3%80%81hooks)
 
 
 
