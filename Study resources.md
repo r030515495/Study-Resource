@@ -33,10 +33,6 @@
 ### HTML5
 - [The Web Platform: Browser technologies](https://platform.html5.org/)
 
-
-
-
-
 ## 後端
 ========
 
@@ -54,12 +50,14 @@
 - [Dive Into Python](http://www.diveintopython.net/toc/index.html)
 - [Full Stack Python](http://www.fullstackpython.com/table-of-contents.html)
 - [Python 慣用語 « Python Life](http://seanlin.logdown.com/posts/239883-python-idioms)
+- [Scrapy 0.24 網頁抓取](http://doc.scrapy.org/en/latest/index.html)
 
 
 ### NoteJs
 
 - [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
 - [nodejs-tw/nodejs-book-beginner-guide · GitHub](https://github.com/nodejs-tw/nodejs-book-beginner-guide/)
+- [Node.js 包教不包会 · GitHub](https://github.com/alsotang/node-lessons)
 
 ### JAVA
 - [詳細的 Maven介紹](https://code.google.com/p/javawiki/wiki/StarupMaven?wl=zh-Hant)
@@ -97,7 +95,8 @@
 - [Bash 程式設計網路管理應用 awk 篇](http://tech.ols3.net/techdoc/old/awk_intro/)
 - [網路管理語言 Perl 入門與實作](http://tech.ols3.net/techdoc/old/perl_intro/)
 - [Linux Shell Scripting Tutorial - A Beginner's handbook](http://www.freeos.com/guides/lsst/)
-- [Bash Shell Script教學與心得](https://sites.google.com/site/tiger2000/)
+- [Bash Shell Script教學與心得](https://sites.google.com/site/tiger2000/) 
+- [explainshell.com - match command-line arguments to their help text](http://explainshell.com/)
 
 ### OSX
 - [java6ForOSX](http://support.apple.com/kb/dl1572)
@@ -115,14 +114,13 @@
 
 ### VIM
 
+- [vi指令說明(完整版)](http://www2.nsysu.edu.tw/csmlab/unix/vi_command.htm)
 - [Vim Hacks](http://www.slideshare.net/c9s/vim-hacks)
+- [給程式設計師的Vim入門圖解說明 | vgod's blog](http://blog.vgod.tw/2009/12/08/vim-cheat-sheet-for-programmers/)
+- [鳥哥的 Linux 私房菜 -- vim 程式編輯器](http://linux.vbird.org/linux_basic/0310vi.php)
 
-
-
-
-
-
-
+### other
+- [sachet - Handcraft your development environment](http://yoursachet.com/)
 
 ## 理念
 ========
@@ -139,7 +137,10 @@
 - [Free Usenet Tools - Online Base64 Encoder and Decoder. Usenet newsgroups binaries.](http://www.webutils.pl/index.php?idx=base64)
 - [Problems | LeetCode OJ](https://oj.leetcode.com/problems/)
 - [打造專屬於你的 Git 工作流程 — Alias、Commands、Hooks | Mozilla Tech | 謀智台客](http://tech.mozilla.com.tw/posts/5306/%E6%89%93%E9%80%A0%E5%B0%88%E5%B1%AC%E6%96%BC%E4%BD%A0%E7%9A%84-git-%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%A8%8B-alias%E3%80%81commands%E3%80%81hooks)
-
+- [How to Install Asterisk 11 on CentOS 6 | Inside the Asterisk](http://blogs.digium.com/2012/11/05/how-to-install-asterisk-11-on-centos-6/)
+- [Haskell趣學指南 (Learn You a Haskell for Great Good! 繁體中文版)](http://learnyouahaskell-zh-tw.csie.org/zh-tw/chapters.html)
+- [Facebook](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2F)
+- [Awesome Docker](http://www.m3webware.com/tips-tricks/awesome-docker.html)
 
 
 
