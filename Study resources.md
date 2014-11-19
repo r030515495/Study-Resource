@@ -70,6 +70,7 @@
 - [Core Java Tutorials | Java Code Geeks](http://www.javacodegeeks.com/tutorials/java-tutorials/core-java-tutorials/)
 - [Enterprise Java Tutorials | Java Code Geeks](http://www.javacodegeeks.com/tutorials/java-tutorials/enterprise-java-tutorials/)
 - [Java Code Example](http://www.programcreek.com/java-api-examples/?action=index)
+- [Gradle User Guide 簡中](http://pkaq.github.io/gradledoc/docs/userguide/userguide.html)
 
 ### JAVA Template
 - [JHipster home page Maven + Spring + AngularJS](http://jhipster.github.io/)
@@ -129,6 +130,8 @@
 
 
 
+## 虛擬化
+- [Awesome Docker](http://www.m3webware.com/tips-tricks/awesome-docker.html)
 
 ## Other
 ========
@@ -140,7 +143,8 @@
 - [How to Install Asterisk 11 on CentOS 6 | Inside the Asterisk](http://blogs.digium.com/2012/11/05/how-to-install-asterisk-11-on-centos-6/)
 - [Haskell趣學指南 (Learn You a Haskell for Great Good! 繁體中文版)](http://learnyouahaskell-zh-tw.csie.org/zh-tw/chapters.html)
 - [Facebook](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2F)
-- [Awesome Docker](http://www.m3webware.com/tips-tricks/awesome-docker.html)
+- [MkDocs 用 markdown 做線上文件](http://www.mkdocs.org/)
+
 
 
 
