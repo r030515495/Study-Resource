@@ -98,6 +98,7 @@
 - [Linux Shell Scripting Tutorial - A Beginner's handbook](http://www.freeos.com/guides/lsst/)
 - [Bash Shell Script教學與心得](https://sites.google.com/site/tiger2000/) 
 - [explainshell.com - match command-line arguments to their help text](http://explainshell.com/)
+- [Linux/Unix 程式設計](http://dywang.csie.cyut.edu.tw/moodle23/dywang/linuxProgram/linuxProgram.html)
 
 ### OSX
 - [java6ForOSX](http://support.apple.com/kb/dl1572)
@@ -133,15 +134,22 @@
 ## 虛擬化
 - [Awesome Docker](http://www.m3webware.com/tips-tricks/awesome-docker.html)
 
+## 版本控制
+- [猴子都能懂的GIT入门 | 贝格乐（Backlog）](http://backlogtool.com/git-guide/cn/)
+- [打造專屬於你的 Git 工作流程 — Alias、Commands、Hooks | Mozilla Tech | 謀智台客](http://tech.mozilla.com.tw/posts/5306/%E6%89%93%E9%80%A0%E5%B0%88%E5%B1%AC%E6%96%BC%E4%BD%A0%E7%9A%84-git-%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%A8%8B-alias%E3%80%81commands%E3%80%81hooks)
+
+## Regulex
+- [Regulex : JavaScript Regular Expression Visualizer.](http://jex.im/regulex/)
+- 
 ## Other
 ========
 - [Pandoc’s Markdown 語法中文翻譯](http://pages.tzengyuxio.me/pandoc/#pandocs-markdown)
 - [IT eBooks - Free Download - Big Library 免費電子書](http://it-ebooks.info/)
 - [Free Usenet Tools - Online Base64 Encoder and Decoder. Usenet newsgroups binaries.](http://www.webutils.pl/index.php?idx=base64)
 - [Problems | LeetCode OJ](https://oj.leetcode.com/problems/)
-- [打造專屬於你的 Git 工作流程 — Alias、Commands、Hooks | Mozilla Tech | 謀智台客](http://tech.mozilla.com.tw/posts/5306/%E6%89%93%E9%80%A0%E5%B0%88%E5%B1%AC%E6%96%BC%E4%BD%A0%E7%9A%84-git-%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%A8%8B-alias%E3%80%81commands%E3%80%81hooks)
+
 - [How to Install Asterisk 11 on CentOS 6 | Inside the Asterisk](http://blogs.digium.com/2012/11/05/how-to-install-asterisk-11-on-centos-6/)
 - [Haskell趣學指南 (Learn You a Haskell for Great Good! 繁體中文版)](http://learnyouahaskell-zh-tw.csie.org/zh-tw/chapters.html)
 - [Facebook](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2F)
 - [MkDocs 用 markdown 做線上文件](http://www.mkdocs.org/)
-- [猴子都能懂的GIT入门 | 贝格乐（Backlog）](http://backlogtool.com/git-guide/cn/)
+
