@@ -32,6 +32,7 @@
 
 ### HTML5
 - [The Web Platform: Browser technologies](https://platform.html5.org/)
+- [第七屆iT邦幫忙鐵人賽 - 「30 天學會 Web 前端效能優化」系列文章整理 « 攝理生活記](http://blog.cgmlife.net/posts/2014/11/30/ironman-seventh-it-states-help-30-days-to-learn-web-front-end-performance-optimization)
 
 ## 後端
 ========
@@ -124,6 +125,10 @@
 ### other
 - [sachet - Handcraft your development environment](http://yoursachet.com/)
 
+## Mobile
+========
+- [Best practices in Android development · GitHub](https://github.com/futurice/android-best-practices)
+
 ## 理念
 ========
 
@@ -140,7 +145,8 @@
 
 ## Regulex
 - [Regulex : JavaScript Regular Expression Visualizer.](http://jex.im/regulex/)
-- 
+- [Online Regex Tester](http://regexpal.com/)
+
 ## Other
 ========
 - [Pandoc’s Markdown 語法中文翻譯](http://pages.tzengyuxio.me/pandoc/#pandocs-markdown)
@@ -152,4 +158,4 @@
 - [Haskell趣學指南 (Learn You a Haskell for Great Good! 繁體中文版)](http://learnyouahaskell-zh-tw.csie.org/zh-tw/chapters.html)
 - [Facebook](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2F)
 - [MkDocs 用 markdown 做線上文件](http://www.mkdocs.org/)
-
+- [The Joel on Software Translation Project:萬國碼 - The Joel on Software Translation Project](http://local.joelonsoftware.com/wiki/The_Joel_on_Software_Translation_Project:%E8%90%AC%E5%9C%8B%E7%A2%BC)
