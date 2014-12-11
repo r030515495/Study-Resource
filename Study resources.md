@@ -72,6 +72,7 @@
 - [Enterprise Java Tutorials | Java Code Geeks](http://www.javacodegeeks.com/tutorials/java-tutorials/enterprise-java-tutorials/)
 - [Java Code Example](http://www.programcreek.com/java-api-examples/?action=index)
 - [Gradle User Guide 簡中](http://pkaq.github.io/gradledoc/docs/userguide/userguide.html)
+- [JBoss tutorials - JBoss training courses - WildFly - Java EE](http://www.mastertheboss.com/)
 
 ### JAVA Template
 - [JHipster home page Maven + Spring + AngularJS](http://jhipster.github.io/)
@@ -147,6 +148,10 @@
 - [Regulex : JavaScript Regular Expression Visualizer.](http://jex.im/regulex/)
 - [Online Regex Tester](http://regexpal.com/)
 
+## 資料分析
+- [Python Data Analysis Library — pandas: Python Data Analysis Library](http://pandas.pydata.org/)
+- [Scrapy | A Fast and Powerful Scraping and Web Crawling Framework](http://scrapy.org/)
+
 ## Other
 ========
 - [Pandoc’s Markdown 語法中文翻譯](http://pages.tzengyuxio.me/pandoc/#pandocs-markdown)
@@ -159,3 +164,6 @@
 - [Facebook](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2F)
 - [MkDocs 用 markdown 做線上文件](http://www.mkdocs.org/)
 - [The Joel on Software Translation Project:萬國碼 - The Joel on Software Translation Project](http://local.joelonsoftware.com/wiki/The_Joel_on_Software_Translation_Project:%E8%90%AC%E5%9C%8B%E7%A2%BC)
+- [Coursera startup engineering](https://www.coursera.org/course/startup)
+- [SSD Cloud Server, VPS Server, Simple Cloud Hosting | DigitalOcean](https://www.digitalocean.com/)
+- [Deploy applications to a remote WildFly Server using Eclipse](http://www.mastertheboss.com/eclipse/jboss-tools/deploy-applications-to-a-remote-wildfly-server-using-eclipse)
