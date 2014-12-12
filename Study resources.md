@@ -139,6 +139,7 @@
 
 ## 虛擬化
 - [Awesome Docker](http://www.m3webware.com/tips-tricks/awesome-docker.html)
+- [Discover Vagrant Boxes | Atlas by HashiCorp](https://vagrantcloud.com/boxes/search)
 
 ## 版本控制
 - [猴子都能懂的GIT入门 | 贝格乐（Backlog）](http://backlogtool.com/git-guide/cn/)
@@ -161,7 +162,7 @@
 
 - [How to Install Asterisk 11 on CentOS 6 | Inside the Asterisk](http://blogs.digium.com/2012/11/05/how-to-install-asterisk-11-on-centos-6/)
 - [Haskell趣學指南 (Learn You a Haskell for Great Good! 繁體中文版)](http://learnyouahaskell-zh-tw.csie.org/zh-tw/chapters.html)
-- [Facebook](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2F)
+- [Facebook get webpage title](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2F)
 - [MkDocs 用 markdown 做線上文件](http://www.mkdocs.org/)
 - [The Joel on Software Translation Project:萬國碼 - The Joel on Software Translation Project](http://local.joelonsoftware.com/wiki/The_Joel_on_Software_Translation_Project:%E8%90%AC%E5%9C%8B%E7%A2%BC)
 - [Coursera startup engineering](https://www.coursera.org/course/startup)
