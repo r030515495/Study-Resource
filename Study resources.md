@@ -73,6 +73,7 @@
 - [Java Code Example](http://www.programcreek.com/java-api-examples/?action=index)
 - [Gradle User Guide 簡中](http://pkaq.github.io/gradledoc/docs/userguide/userguide.html)
 - [JBoss tutorials - JBoss training courses - WildFly - Java EE](http://www.mastertheboss.com/)
+- [Java Servlet Tutorial – The ULTIMATE Guide | Java Code Geeks](http://www.javacodegeeks.com/2014/12/java-servlet-tutorial.html)
 
 ### JAVA Template
 - [JHipster home page Maven + Spring + AngularJS](http://jhipster.github.io/)
@@ -129,6 +130,8 @@
 ## Mobile
 ========
 - [Best practices in Android development · GitHub](https://github.com/futurice/android-best-practices)
+- [Android Core Tutorials | Java Code Geeks](http://www.javacodegeeks.com/tutorials/android-tutorials/android-core-tutorials/)
+- [Android Game Tutorials | Java Code Geeks](http://www.javacodegeeks.com/tutorials/android-tutorials/android-game-tutorials/)
 
 ## 理念
 ========
