@@ -37,3 +37,9 @@
 	```
 	ffmpeg -i "concat:01.VOB|02.VOB|03.VOB|04.VOB" -f mpeg -c copy output.mp4
 	```
+	
+- 轉換FLV to mp4
+
+	```
+	ffmpeg -i tmp.flv -ar 22050 output.avi
+	```
