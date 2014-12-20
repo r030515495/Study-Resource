@@ -74,6 +74,9 @@
 - [Gradle User Guide 簡中](http://pkaq.github.io/gradledoc/docs/userguide/userguide.html)
 - [JBoss tutorials - JBoss training courses - WildFly - Java EE](http://www.mastertheboss.com/)
 - [Java Servlet Tutorial – The ULTIMATE Guide | Java Code Geeks](http://www.javacodegeeks.com/2014/12/java-servlet-tutorial.html)
+- [Spark Framework - A tiny Java web framework](http://sparkjava.com/)
+- [Home | Dropwizard Framework](http://dropwizard.io/)
+- [Tears of a Unicorn: Deploying a Dropwizard application to OpenShift](http://www.tearsofaunicorn.com/articles/2013/11/24/deploying-dropwizard-to-openshift.html)
 
 ### JAVA Template
 - [JHipster home page Maven + Spring + AngularJS](http://jhipster.github.io/)
@@ -132,6 +135,7 @@
 - [Best practices in Android development · GitHub](https://github.com/futurice/android-best-practices)
 - [Android Core Tutorials | Java Code Geeks](http://www.javacodegeeks.com/tutorials/android-tutorials/android-core-tutorials/)
 - [Android Game Tutorials | Java Code Geeks](http://www.javacodegeeks.com/tutorials/android-tutorials/android-game-tutorials/)
+- [Android Studio系列教程](http://stormzhang.com/posts.html#AndroidStudio)
 
 ## 理念
 ========
