@@ -136,6 +136,8 @@
 - [Android Core Tutorials | Java Code Geeks](http://www.javacodegeeks.com/tutorials/android-tutorials/android-core-tutorials/)
 - [Android Game Tutorials | Java Code Geeks](http://www.javacodegeeks.com/tutorials/android-tutorials/android-game-tutorials/)
 - [Android Studio系列教程](http://stormzhang.com/posts.html#AndroidStudio)
+- [How To Make An iPhone App - Start Here](http://codewithchris.com/how-to-make-an-iphone-app/)
+- [How To Make an Ap](https://www.youtube.com/watch?v=DtaBa6G5a_E&index=1&list=PLMRqhzcHGw1Z0S7hpE30r2lwnovSHMntI)
 
 ## 理念
 ========
@@ -176,3 +178,5 @@
 - [SSD Cloud Server, VPS Server, Simple Cloud Hosting | DigitalOcean](https://www.digitalocean.com/)
 - [Deploy applications to a remote WildFly Server using Eclipse](http://www.mastertheboss.com/eclipse/jboss-tools/deploy-applications-to-a-remote-wildfly-server-using-eclipse)
 - [慕课网-免费的IT技能学习平台](http://www.imooc.com/)
+- [Icovia® Space Planner 線上化室內設計圖](http://urbanbarn.icovia.com/icovia.aspx)
+- [第七屆iT邦幫忙鐵人賽 - 「30 天學會 Web 前端效能優化」系列文章整理 « 攝理生活記](http://blog.cgmlife.net/posts/2014/11/30/ironman-seventh-it-states-help-30-days-to-learn-web-front-end-performance-optimization)
