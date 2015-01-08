@@ -9,7 +9,8 @@
 - [Mozilla CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 - [學習 CSS 版面配置](https://doggy8088.github.io/csslayoutsite/index.html)
 - [UIweek](http://uiweek.com/)
-
+- [TEMPLATED - CSS, HTML5 and Responsive Site Templates](http://templated.co/)
+- [re:splashed | Free, do whatever you want, hi-resolution photos  免費高解析度相片圖庫](http://www.resplashed.com/)
 
 ### Color
 
@@ -22,6 +23,7 @@
 - [D3 簡介](http://bost.ocks.org/mike/d3/workshop/)
 - [Mastering Javascript: Prototypal Inheritance - Francisco Méndez Vilas](http://fmvilas.github.io/Mastering-Javascript-Prototypal-Inheritance/#/)
 - [ECMAScript 6入门](http://es6.ruanyifeng.com/)
+- [React 8.5 小時心得 — Medium](https://medium.com/@devpoga/react-8-5-3cabfb69bb6d)
 
 ### AngularJs
 - [johnpapa/angularjs-styleguide · GitHub](https://github.com/johnpapa/angularjs-styleguide)
@@ -138,7 +140,7 @@
 - [Android Studio系列教程](http://stormzhang.com/posts.html#AndroidStudio)
 - [How To Make An iPhone App - Start Here](http://codewithchris.com/how-to-make-an-iphone-app/)
 - [How To Make an Ap](https://www.youtube.com/watch?v=DtaBa6G5a_E&index=1&list=PLMRqhzcHGw1Z0S7hpE30r2lwnovSHMntI)
-
+- [Simple code sample for iOS XMPP Chat (via QuickBlox SDK + API)](http://quickblox.com/developers/SimpleSample-chat_users-ios)
 ## 理念
 ========
 
@@ -180,3 +182,4 @@
 - [慕课网-免费的IT技能学习平台](http://www.imooc.com/)
 - [Icovia® Space Planner 線上化室內設計圖](http://urbanbarn.icovia.com/icovia.aspx)
 - [第七屆iT邦幫忙鐵人賽 - 「30 天學會 Web 前端效能優化」系列文章整理 « 攝理生活記](http://blog.cgmlife.net/posts/2014/11/30/ironman-seventh-it-states-help-30-days-to-learn-web-front-end-performance-optimization)
+- [由12306.cn谈谈网站性能技术 | 酷 壳 - CoolShell.cn](http://coolshell.cn/articles/6470.html)
