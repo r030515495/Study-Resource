@@ -183,3 +183,5 @@
 - [Icovia® Space Planner 線上化室內設計圖](http://urbanbarn.icovia.com/icovia.aspx)
 - [第七屆iT邦幫忙鐵人賽 - 「30 天學會 Web 前端效能優化」系列文章整理 « 攝理生活記](http://blog.cgmlife.net/posts/2014/11/30/ironman-seventh-it-states-help-30-days-to-learn-web-front-end-performance-optimization)
 - [由12306.cn谈谈网站性能技术 | 酷 壳 - CoolShell.cn](http://coolshell.cn/articles/6470.html)
+- [searchcode | source code search engine](https://searchcode.com/)
+- [ImageMagick使用心得](http://www.charry.org/docs/linux/ImageMagick/ImageMagick.html)
