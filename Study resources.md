@@ -12,6 +12,7 @@
 - [TEMPLATED - CSS, HTML5 and Responsive Site Templates](http://templated.co/)
 - [re:splashed | Free, do whatever you want, hi-resolution photos  免費高解析度相片圖庫](http://www.resplashed.com/)
 - [2012 第五屆iT邦幫忙鐵人賽](http://ithelp.ithome.com.tw/ironman5/player/chibc/alll/1)
+- [前端工程日誌: Sass & Susy教學手冊](http://sam0512.blogspot.tw/2013/10/sass.html)
 
 ### Color
 
@@ -136,14 +137,25 @@
 
 ## Mobile
 ========
+
+
+### Android
+
 - [Best practices in Android development · GitHub](https://github.com/futurice/android-best-practices)
 - [Android Core Tutorials | Java Code Geeks](http://www.javacodegeeks.com/tutorials/android-tutorials/android-core-tutorials/)
 - [Android Game Tutorials | Java Code Geeks](http://www.javacodegeeks.com/tutorials/android-tutorials/android-game-tutorials/)
 - [Android Studio系列教程](http://stormzhang.com/posts.html#AndroidStudio)
-- [How To Make An iPhone App - Start Here](http://codewithchris.com/how-to-make-an-iphone-app/)
 - [How To Make an Ap](https://www.youtube.com/watch?v=DtaBa6G5a_E&index=1&list=PLMRqhzcHGw1Z0S7hpE30r2lwnovSHMntI)
+- [Learn Android SDK From Scratch - Tuts+ Code Tutorials](http://code.tutsplus.com/series/learn-android-sdk-from-scratch--mobile-21677?view=list)
+- [Final 勇者逗(?) Android fantasy | 莫希爾(Mosil)手札](http://blog.mosil.biz/2012/09/android-beginning/)
+
+### IOS 
+
 - [Simple code sample for iOS XMPP Chat (via QuickBlox SDK + API)](http://quickblox.com/developers/SimpleSample-chat_users-ios)
 - [iOS 学习资料整理 - SegmentFault](http://segmentfault.com/blog/paul_king/1190000002473595)
+- [How To Make An iPhone App - Start Here](http://codewithchris.com/how-to-make-an-iphone-app/)
+
+### Other 
 
 
 ## 理念
