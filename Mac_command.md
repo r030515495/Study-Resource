@@ -21,3 +21,8 @@
 	```
 	sudo tcpdump -i en0 -s 0 -B 524288 -w ~/Desktop/DumpFile01.pcap
 	```
+- 顯示系統訊息
+
+ 	```
+ 	 osascript -e 'tell app "System Events" to display dialog "Game Stop"'
+	```

@@ -11,6 +11,7 @@
 - [UIweek](http://uiweek.com/)
 - [TEMPLATED - CSS, HTML5 and Responsive Site Templates](http://templated.co/)
 - [re:splashed | Free, do whatever you want, hi-resolution photos  免費高解析度相片圖庫](http://www.resplashed.com/)
+- [2012 第五屆iT邦幫忙鐵人賽](http://ithelp.ithome.com.tw/ironman5/player/chibc/alll/1)
 
 ### Color
 
@@ -79,6 +80,7 @@
 - [Spark Framework - A tiny Java web framework](http://sparkjava.com/)
 - [Home | Dropwizard Framework](http://dropwizard.io/)
 - [Tears of a Unicorn: Deploying a Dropwizard application to OpenShift](http://www.tearsofaunicorn.com/articles/2013/11/24/deploying-dropwizard-to-openshift.html)
+- [国外程序员整理的Java资源大全 - SegmentFault](http://segmentfault.com/blog/hellocode/1190000002471482)
 
 ### JAVA Template
 - [JHipster home page Maven + Spring + AngularJS](http://jhipster.github.io/)
@@ -141,6 +143,9 @@
 - [How To Make An iPhone App - Start Here](http://codewithchris.com/how-to-make-an-iphone-app/)
 - [How To Make an Ap](https://www.youtube.com/watch?v=DtaBa6G5a_E&index=1&list=PLMRqhzcHGw1Z0S7hpE30r2lwnovSHMntI)
 - [Simple code sample for iOS XMPP Chat (via QuickBlox SDK + API)](http://quickblox.com/developers/SimpleSample-chat_users-ios)
+- [iOS 学习资料整理 - SegmentFault](http://segmentfault.com/blog/paul_king/1190000002473595)
+
+
 ## 理念
 ========
 
@@ -149,20 +154,30 @@
 
 
 ## 虛擬化
+
 - [Awesome Docker](http://www.m3webware.com/tips-tricks/awesome-docker.html)
 - [Discover Vagrant Boxes | Atlas by HashiCorp](https://vagrantcloud.com/boxes/search)
 
 ## 版本控制
+
 - [猴子都能懂的GIT入门 | 贝格乐（Backlog）](http://backlogtool.com/git-guide/cn/)
 - [打造專屬於你的 Git 工作流程 — Alias、Commands、Hooks | Mozilla Tech | 謀智台客](http://tech.mozilla.com.tw/posts/5306/%E6%89%93%E9%80%A0%E5%B0%88%E5%B1%AC%E6%96%BC%E4%BD%A0%E7%9A%84-git-%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%A8%8B-alias%E3%80%81commands%E3%80%81hooks)
 
 ## Regulex
+
 - [Regulex : JavaScript Regular Expression Visualizer.](http://jex.im/regulex/)
 - [Online Regex Tester](http://regexpal.com/)
 
 ## 資料分析
+
 - [Python Data Analysis Library — pandas: Python Data Analysis Library](http://pandas.pydata.org/)
 - [Scrapy | A Fast and Powerful Scraping and Web Crawling Framework](http://scrapy.org/)
+
+## 安全性
+
+- [prompt(1) to win - 0x0](http://prompt.ml/0)
+- [XSS Filter Evasion Cheat Sheet - OWASP](https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet)
+- [Spring MVC防御CSRF、XSS和SQL注入攻击 - Mainz - 博客园](http://www.cnblogs.com/Mainz/archive/2012/11/01/2749874.html)
 
 ## Other
 ========
@@ -170,7 +185,6 @@
 - [IT eBooks - Free Download - Big Library 免費電子書](http://it-ebooks.info/)
 - [Free Usenet Tools - Online Base64 Encoder and Decoder. Usenet newsgroups binaries.](http://www.webutils.pl/index.php?idx=base64)
 - [Problems | LeetCode OJ](https://oj.leetcode.com/problems/)
-
 - [How to Install Asterisk 11 on CentOS 6 | Inside the Asterisk](http://blogs.digium.com/2012/11/05/how-to-install-asterisk-11-on-centos-6/)
 - [Haskell趣學指南 (Learn You a Haskell for Great Good! 繁體中文版)](http://learnyouahaskell-zh-tw.csie.org/zh-tw/chapters.html)
 - [Facebook get webpage title](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2F)
