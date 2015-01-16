@@ -34,3 +34,32 @@
 	如果將圖片放到不對的解析度資料夾，圖片會被放大
 	
 	```
+	
+- 取消視窗的 APP 名稱
+
+	```
+	    //一定要在 setContentView 之前
+		getWindow().requestFeature(Window.FEATURE_NO_TITLE);
+		setContentView(R.layout.filemanage);
+	```
+- android.os.NetworkOnMainThreadException
+
+	```
+	 //Android 4.0 之後不能在主線程中請求HTTP請求，所以要在 thread 內執行動作
+	 new Thread(new Runnable(){
+                @Override
+                public void run() {
+                    cachedImage = asyncImageLoader.loadDrawable(imageUrl, position);
+                    imageView.setImageDrawable(cachedImage);
+                }
+            }).start();
+	```
+- java.lang.UnsupportedOperationException
+
+	```
+   拿用 Arrays.asList() 轉換過的陣列來操作 add or remove 發生的問題
+   改用以下方法就沒有問題
+	List<FileManage> asList = new ArrayList<FileManage>(Arrays.asList(fileList));
+   
+	```
+
