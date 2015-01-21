@@ -83,6 +83,8 @@
 - [Tears of a Unicorn: Deploying a Dropwizard application to OpenShift](http://www.tearsofaunicorn.com/articles/2013/11/24/deploying-dropwizard-to-openshift.html)
 - [国外程序员整理的Java资源大全 - SegmentFault](http://segmentfault.com/blog/hellocode/1190000002471482)
 
+
+
 ### JAVA Template
 - [JHipster home page Maven + Spring + AngularJS](http://jhipster.github.io/)
 
@@ -114,8 +116,6 @@
 ### OSX
 - [java6ForOSX](http://support.apple.com/kb/dl1572)
 - [dtinth/JavaScript for Automation Cookbook · GitHub](https://github.com/dtinth/JXA-Cookbook)
-
-
 
 ## IDE
 ========
@@ -162,6 +162,7 @@
 ========
 
 - [優秀網站開發者的十個特徵 - Inside 硬塞的網路趨勢觀察](http://www.inside.com.tw/2014/02/19/10-signs-that-you-are-an-awesome-web-developer)
+- [留给编程迷茫时的自己 - SegmentFault](http://segmentfault.com/bookmark/1230000002456274)
 
 
 
