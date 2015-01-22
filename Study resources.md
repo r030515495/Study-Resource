@@ -25,9 +25,16 @@
 - [D3 簡介](http://bost.ocks.org/mike/d3/workshop/)
 - [Mastering Javascript: Prototypal Inheritance - Francisco Méndez Vilas](http://fmvilas.github.io/Mastering-Javascript-Prototypal-Inheritance/#/)
 - [ECMAScript 6入门](http://es6.ruanyifeng.com/)
-- [React 8.5 小時心得 — Medium](https://medium.com/@devpoga/react-8-5-3cabfb69bb6d)
 
-### AngularJs
+
+#### ReactJS
+
+- [React 8.5 小時心得 — Medium](https://medium.com/@devpoga/react-8-5-3cabfb69bb6d)
+- [6to5 · Turn ES6+ code into readable vanilla ES5](https://6to5.org/)
+- [petehunt/webpack-howto · GitHub](https://github.com/petehunt/webpack-howto)
+
+ 
+#### AngularJs
 - [johnpapa/angularjs-styleguide · GitHub](https://github.com/johnpapa/angularjs-styleguide)
 - [A Better Way to Learn AngularJS
  | Thinkster](http://www.thinkster.io/angularjs/GtaQ0oMGIl/a-better-way-to-learn-angularjs)
@@ -148,12 +155,14 @@
 - [How To Make an Ap](https://www.youtube.com/watch?v=DtaBa6G5a_E&index=1&list=PLMRqhzcHGw1Z0S7hpE30r2lwnovSHMntI)
 - [Learn Android SDK From Scratch - Tuts+ Code Tutorials](http://code.tutsplus.com/series/learn-android-sdk-from-scratch--mobile-21677?view=list)
 - [Final 勇者逗(?) Android fantasy | 莫希爾(Mosil)手札](http://blog.mosil.biz/2012/09/android-beginning/)
+- [AndroidHive | Tutorials, Games, Apps, Tips |](http://www.androidhive.info/)
 
 ### IOS 
 
 - [Simple code sample for iOS XMPP Chat (via QuickBlox SDK + API)](http://quickblox.com/developers/SimpleSample-chat_users-ios)
 - [iOS 学习资料整理 - SegmentFault](http://segmentfault.com/blog/paul_king/1190000002473595)
 - [How To Make An iPhone App - Start Here](http://codewithchris.com/how-to-make-an-iphone-app/)
+- [iOS Human Interface Guidelines: Designing for iOS](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html#//apple_ref/doc/uid/TP40006556-CH66-SW1)
 
 ### Other 
 
@@ -212,3 +221,4 @@
 - [由12306.cn谈谈网站性能技术 | 酷 壳 - CoolShell.cn](http://coolshell.cn/articles/6470.html)
 - [searchcode | source code search engine](https://searchcode.com/)
 - [ImageMagick使用心得](http://www.charry.org/docs/linux/ImageMagick/ImageMagick.html)
+- [CI Server 30 - Jenkins總回顧 - iT邦幫忙::IT知識分享社群](http://ithelp.ithome.com.tw/question/10109773)
