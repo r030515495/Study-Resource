@@ -156,6 +156,7 @@
 - [Learn Android SDK From Scratch - Tuts+ Code Tutorials](http://code.tutsplus.com/series/learn-android-sdk-from-scratch--mobile-21677?view=list)
 - [Final 勇者逗(?) Android fantasy | 莫希爾(Mosil)手札](http://blog.mosil.biz/2012/09/android-beginning/)
 - [AndroidHive | Tutorials, Games, Apps, Tips |](http://www.androidhive.info/)
+- [[Android] Android Studio « Big O(1)](http://enginebai.logdown.com/posts/250110/android-studio)
 
 ### IOS 
 
