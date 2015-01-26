@@ -13,6 +13,7 @@
 - [re:splashed | Free, do whatever you want, hi-resolution photos  免費高解析度相片圖庫](http://www.resplashed.com/)
 - [2012 第五屆iT邦幫忙鐵人賽](http://ithelp.ithome.com.tw/ironman5/player/chibc/alll/1)
 - [前端工程日誌: Sass & Susy教學手冊](http://sam0512.blogspot.tw/2013/10/sass.html)
+- [blasting-off-with-bootstrap - Code School](http://campus.codeschool.com/courses/blasting-off-with-bootstrap/contents)
 
 ### Color
 
@@ -89,6 +90,7 @@
 - [Home | Dropwizard Framework](http://dropwizard.io/)
 - [Tears of a Unicorn: Deploying a Dropwizard application to OpenShift](http://www.tearsofaunicorn.com/articles/2013/11/24/deploying-dropwizard-to-openshift.html)
 - [国外程序员整理的Java资源大全 - SegmentFault](http://segmentfault.com/blog/hellocode/1190000002471482)
+- [JavaOne 2014 Video](https://www.parleys.com/channel/54254c82e4b0b39c12e10bf9)
 
 
 
@@ -157,6 +159,8 @@
 - [Final 勇者逗(?) Android fantasy | 莫希爾(Mosil)手札](http://blog.mosil.biz/2012/09/android-beginning/)
 - [AndroidHive | Tutorials, Games, Apps, Tips |](http://www.androidhive.info/)
 - [[Android] Android Studio « Big O(1)](http://enginebai.logdown.com/posts/250110/android-studio)
+- [How to build MuPDF for Android](http://www.mupdf.com/doc/how-to-build-mupdf-for-android)
+- [Free Android Icons - 1000+ icons for your App](http://www.icons4android.com/)
 
 ### IOS 
 
