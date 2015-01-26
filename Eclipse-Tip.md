@@ -15,7 +15,7 @@ Kepler
 可以用英文名去搜尋快速鍵名稱後，
 調整適合成自己的快速鍵。
 
-apple key image 
+Mac key image 
 
  icon | command 
  ---  | ---
