@@ -227,3 +227,4 @@
 - [searchcode | source code search engine](https://searchcode.com/)
 - [ImageMagick使用心得](http://www.charry.org/docs/linux/ImageMagick/ImageMagick.html)
 - [CI Server 30 - Jenkins總回顧 - iT邦幫忙::IT知識分享社群](http://ithelp.ithome.com.tw/question/10109773)
+- [開源10大兵器排行榜 | iThome](http://www.ithome.com.tw/voice/93580)
