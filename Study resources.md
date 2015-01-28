@@ -13,7 +13,8 @@
 - [re:splashed | Free, do whatever you want, hi-resolution photos  免費高解析度相片圖庫](http://www.resplashed.com/)
 - [2012 第五屆iT邦幫忙鐵人賽](http://ithelp.ithome.com.tw/ironman5/player/chibc/alll/1)
 - [前端工程日誌: Sass & Susy教學手冊](http://sam0512.blogspot.tw/2013/10/sass.html)
-- [blasting-off-with-bootstrap - Code School](http://campus.codeschool.com/courses/blasting-off-with-bootstrap/contents)
+- [blasting-off-with-bootstrap - Code School](http://campus.codeschool.com/courses/blasting-off-with-bootstrap/contents) 
+- [Documentation - Materialize](http://materializecss.com/)
 
 ### Color
 
@@ -228,3 +229,4 @@
 - [ImageMagick使用心得](http://www.charry.org/docs/linux/ImageMagick/ImageMagick.html)
 - [CI Server 30 - Jenkins總回顧 - iT邦幫忙::IT知識分享社群](http://ithelp.ithome.com.tw/question/10109773)
 - [開源10大兵器排行榜 | iThome](http://www.ithome.com.tw/voice/93580)
+- [Home - Mackenzie ChildMackenzie Child](https://mackenziechild.me/)

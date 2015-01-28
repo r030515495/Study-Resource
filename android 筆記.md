@@ -62,4 +62,42 @@
 	List<FileManage> asList = new ArrayList<FileManage>(Arrays.asList(fileList));
    
 	```
+- 指令列安裝 Apk
 
+	```
+	adb -s 裝置名稱 install ScaleImageView.apk
+	```
+	
+- 取一個 static 的 applicationContext
+
+	```
+	//MainApplication.java
+	public class MainApplication extends Application {
+
+	private static Context context;
+
+		@Override
+		public void onCreate() {
+			super.onCreate();
+			this.context = getApplicationContext();
+		}
+
+		public static Context getAppContext() {
+			return context;
+			}
+	}
+	```
+	
+	```
+	AndroidManifest.xml
+	<application
+        android:name="com.example.pdfviewer.MainApplication"
+			>
+	 </application>
+	```
+	
+	```
+		Context appContext = MainApplication.getAppContext();
+	```
+	
+	
