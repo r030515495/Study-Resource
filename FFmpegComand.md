@@ -43,3 +43,12 @@
 	```
 	ffmpeg -i tmp.flv -ar 22050 output.avi
 	```
+	
+
+
+
+- ISO to mp4
+
+	```
+	HandBrakeCLI -Z "High Profile" -i a_movie.iso -o a_movie.mp4
+	```

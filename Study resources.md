@@ -15,6 +15,7 @@
 - [前端工程日誌: Sass & Susy教學手冊](http://sam0512.blogspot.tw/2013/10/sass.html)
 - [blasting-off-with-bootstrap - Code School](http://campus.codeschool.com/courses/blasting-off-with-bootstrap/contents) 
 - [Documentation - Materialize](http://materializecss.com/)
+- [BrandColors 收錄世界知名品牌「顏色」色碼，可快速下載、獲取色票資訊](http://free.com.tw/brandcolors/)
 
 ### Color
 

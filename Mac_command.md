@@ -16,13 +16,25 @@
 	```
 	sudo ifconfig en4 ether 00:00:00:00:00:00
 	```
+	
 -  記錄特定網卡封包
 
 	```
 	sudo tcpdump -i en0 -s 0 -B 524288 -w ~/Desktop/DumpFile01.pcap
 	```
+	
 - 顯示系統訊息
 
  	```
  	 osascript -e 'tell app "System Events" to display dialog "Game Stop"'
 	```
+	
+- 擴大 VirtualBox 硬碟
+
+	```
+	# 先將 vmdk 的 類型 複製成 vdi 類型
+	VBoxManage clonehd box-disk1.vmdk out.vdi --format VDI
+	# 修改大小為 80GB
+	VBoxManage modifyhd out.vdi --resize 81920
+	# 在圖型介面掛載新磁碟
+ ```
