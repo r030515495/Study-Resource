@@ -164,6 +164,7 @@
 - [[Android] Android Studio « Big O(1)](http://enginebai.logdown.com/posts/250110/android-studio)
 - [How to build MuPDF for Android](http://www.mupdf.com/doc/how-to-build-mupdf-for-android)
 - [Free Android Icons - 1000+ icons for your App](http://www.icons4android.com/)
+- [Android Cookbook: Home](http://androidcookbook.com/home.seam)
 
 ### IOS 
 
@@ -171,6 +172,8 @@
 - [iOS 学习资料整理 - SegmentFault](http://segmentfault.com/blog/paul_king/1190000002473595)
 - [How To Make An iPhone App - Start Here](http://codewithchris.com/how-to-make-an-iphone-app/)
 - [iOS Human Interface Guidelines: Designing for iOS](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html#//apple_ref/doc/uid/TP40006556-CH66-SW1)
+- [Android精华教程 - 郭霖的专栏
+        - 博客频道 - CSDN.NET](http://blog.csdn.net/sinyu890807/article/category/1369150)
 
 ### Other 
 

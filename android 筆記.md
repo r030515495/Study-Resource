@@ -100,4 +100,12 @@
 		Context appContext = MainApplication.getAppContext();
 	```
 	
+- 取得螢幕長寬
+
+	```
+	DisplayMetrics dm = new DisplayMetrics();
+	getWindowManager().getDefaultDisplay().getMetrics(dm);    
+	int width = dm.widthPixels;    
+	int height = dm.heightPixels;  
+	```
 	
