@@ -17,6 +17,7 @@
 - [Documentation - Materialize](http://materializecss.com/)
 - [BrandColors 收錄世界知名品牌「顏色」色碼，可快速下載、獲取色票資訊](http://free.com.tw/brandcolors/)
 - [CSS Reference | Codrops](http://tympanus.net/codrops/css_reference/)
+- [CSS3 Patterns Gallery](http://lea.verou.me/css3patterns/)
 
 ### Color
 
@@ -176,6 +177,8 @@
         - 博客频道 - CSDN.NET](http://blog.csdn.net/sinyu890807/article/category/1369150)
 
 ### Other 
+- [GapReload Cordova/PhoneGap plugin demo on Vimeo](http://vimeo.com/81192559)
+- [rensanning的博客 - Cordova分类文章列表 - ITeye技术网站](http://rensanning.iteye.com/category/305123)
 
 
 ## 理念
@@ -235,3 +238,8 @@
 - [CI Server 30 - Jenkins總回顧 - iT邦幫忙::IT知識分享社群](http://ithelp.ithome.com.tw/question/10109773)
 - [開源10大兵器排行榜 | iThome](http://www.ithome.com.tw/voice/93580)
 - [Home - Mackenzie ChildMackenzie Child](https://mackenziechild.me/)
+- [Watch people code](http://www.watchpeoplecode.com/)
+- [HadoopCon 2014 YouTube](https://www.youtube.com/playlist?list=PL5QDUc5gluoS5WglgXmZg6yX5p6X8OTrN)
+- [網路爬蟲 網站 API 化 Kimono : Turn websites into structured APIs from your browser in seconds](https://www.kimonolabs.com/)
+- [Polaris Office](https://www.polarisoffice.com/)
+- [英中繁簡編程術語對照](http://jjhou.boolan.com/terms.htm)
