@@ -18,6 +18,11 @@
 - [BrandColors 收錄世界知名品牌「顏色」色碼，可快速下載、獲取色票資訊](http://free.com.tw/brandcolors/)
 - [CSS Reference | Codrops](http://tympanus.net/codrops/css_reference/)
 - [CSS3 Patterns Gallery](http://lea.verou.me/css3patterns/)
+- [Free vectors, +70,600 files in .AI, .EPS, .SVG format.](http://www.freepik.com/popular-vectors)
+- [Free vector icons - SVG, PSD, PNG, EPS & Icon Font - Thousands of Free Icons](http://www.flaticon.com/)
+- [Download Free Vector Art, Stock Graphics & Images](http://www.vecteezy.com/)
+- [Free Vector Art, Images & Graphics for Free Download](http://vector4free.com/)
+- [Free Vectors, Stock Vector Images, Art and Graphics - Vectorportal](http://www.vectorportal.com/)
 
 ### Color
 
@@ -95,6 +100,7 @@
 - [Tears of a Unicorn: Deploying a Dropwizard application to OpenShift](http://www.tearsofaunicorn.com/articles/2013/11/24/deploying-dropwizard-to-openshift.html)
 - [国外程序员整理的Java资源大全 - SegmentFault](http://segmentfault.com/blog/hellocode/1190000002471482)
 - [JavaOne 2014 Video](https://www.parleys.com/channel/54254c82e4b0b39c12e10bf9)
+- [Java development tools for a programming boost ! | Java Code Geeks](http://www.javacodegeeks.com/2015/02/java-development-tools-programming-boost.html)
 
 
 
@@ -179,6 +185,7 @@
 ### Other 
 - [GapReload Cordova/PhoneGap plugin demo on Vimeo](http://vimeo.com/81192559)
 - [rensanning的博客 - Cordova分类文章列表 - ITeye技术网站](http://rensanning.iteye.com/category/305123)
+- [Sample Cordova Apps, developed with AppBuiler Mobile Development Platform](http://www.telerik.com/appbuilder/sample-apps)
 
 
 ## 理念
@@ -242,4 +249,5 @@
 - [HadoopCon 2014 YouTube](https://www.youtube.com/playlist?list=PL5QDUc5gluoS5WglgXmZg6yX5p6X8OTrN)
 - [網路爬蟲 網站 API 化 Kimono : Turn websites into structured APIs from your browser in seconds](https://www.kimonolabs.com/)
 - [Polaris Office](https://www.polarisoffice.com/)
-- [英中繁簡編程術語對照](http://jjhou.boolan.com/terms.htm)
+- [英中繁簡編程術語對照](http://jjhou.boolan.com/terms.htm) 
+- [2014 第7屆iT邦幫忙鐵人賽](http://ithelp.ithome.com.tw/ironman7/app/index)
