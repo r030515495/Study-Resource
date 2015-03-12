@@ -23,6 +23,7 @@
 - [Download Free Vector Art, Stock Graphics & Images](http://www.vecteezy.com/)
 - [Free Vector Art, Images & Graphics for Free Download](http://vector4free.com/)
 - [Free Vectors, Stock Vector Images, Art and Graphics - Vectorportal](http://www.vectorportal.com/)
+- [Pixabay - Free Images](http://pixabay.com/)
 
 ### Color
 
@@ -35,6 +36,7 @@
 - [D3 簡介](http://bost.ocks.org/mike/d3/workshop/)
 - [Mastering Javascript: Prototypal Inheritance - Francisco Méndez Vilas](http://fmvilas.github.io/Mastering-Javascript-Prototypal-Inheritance/#/)
 - [ECMAScript 6入门](http://es6.ruanyifeng.com/)
+- [jQuery Mobile - 移动web开发](http://www.lampweb.org/jquerymobile/)
 
 
 #### ReactJS
@@ -80,6 +82,7 @@
 - [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
 - [nodejs-tw/nodejs-book-beginner-guide · GitHub](https://github.com/nodejs-tw/nodejs-book-beginner-guide/)
 - [Node.js 包教不包会 · GitHub](https://github.com/alsotang/node-lessons)
+- [Express.js 4, Node.js and MongoDB REST API Tutorial](http://webapplog.com/express-js-4-node-js-and-mongodb-rest-api-tutorial/)
 
 ### JAVA
 - [詳細的 Maven介紹](https://code.google.com/p/javawiki/wiki/StarupMaven?wl=zh-Hant)
@@ -101,6 +104,7 @@
 - [国外程序员整理的Java资源大全 - SegmentFault](http://segmentfault.com/blog/hellocode/1190000002471482)
 - [JavaOne 2014 Video](https://www.parleys.com/channel/54254c82e4b0b39c12e10bf9)
 - [Java development tools for a programming boost ! | Java Code Geeks](http://www.javacodegeeks.com/2015/02/java-development-tools-programming-boost.html)
+- [Parleys.com | Courses | Training | Presentations](https://www.parleys.com/talk/50-ejb-3-best-practices-50-minutes)
 
 
 
@@ -172,6 +176,8 @@
 - [How to build MuPDF for Android](http://www.mupdf.com/doc/how-to-build-mupdf-for-android)
 - [Free Android Icons - 1000+ icons for your App](http://www.icons4android.com/)
 - [Android Cookbook: Home](http://androidcookbook.com/home.seam)
+- [Android精华教程 - 郭霖的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/sinyu890807/article/category/1369150)
+- [小鰻的Android學習筆記: Android Push Notification推播機制(1)-簡介篇](http://lp43.blogspot.tw/2012/02/android-push-notification.html)
 
 ### IOS 
 
@@ -179,8 +185,7 @@
 - [iOS 学习资料整理 - SegmentFault](http://segmentfault.com/blog/paul_king/1190000002473595)
 - [How To Make An iPhone App - Start Here](http://codewithchris.com/how-to-make-an-iphone-app/)
 - [iOS Human Interface Guidelines: Designing for iOS](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html#//apple_ref/doc/uid/TP40006556-CH66-SW1)
-- [Android精华教程 - 郭霖的专栏
-        - 博客频道 - CSDN.NET](http://blog.csdn.net/sinyu890807/article/category/1369150)
+- [[APP開發] Xcode透過Ad-Hoc發佈App給其它裝置測試使用 | ♣梅問題‧教學網【Minwt】♣](http://www.minwt.com/ios/4457.html)
 
 ### Other 
 - [GapReload Cordova/PhoneGap plugin demo on Vimeo](http://vimeo.com/81192559)
@@ -251,3 +256,11 @@
 - [Polaris Office](https://www.polarisoffice.com/)
 - [英中繁簡編程術語對照](http://jjhou.boolan.com/terms.htm) 
 - [2014 第7屆iT邦幫忙鐵人賽](http://ithelp.ithome.com.tw/ironman7/app/index)
+- [Get Code | Wickedly Smart](http://wickedlysmart.com/get-code/)
+- [Convert an AVCHD / MTS file to MP4 using ffmpeg - PvdMWiki](http://pvdm.xs4all.nl/wiki/index.php/Convert_an_AVCHD_/_MTS_file_to_MP4_using_ffmpeg)
+
+## 股票投資
+=========
+
+- [不看盤的投資術 - 股魚網](http://stocksardine.com/)
+- [雷浩斯價值投資 部落格 | 價值投資者、基本面財報分析、Seth Klarman卡拉曼 & 費雪 體系 經典閱讀書摘、價值思考](http://redhouse.statementdog.com/)
