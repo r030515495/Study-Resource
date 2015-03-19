@@ -179,6 +179,7 @@
 - [Android Cookbook: Home](http://androidcookbook.com/home.seam)
 - [Android精华教程 - 郭霖的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/sinyu890807/article/category/1369150)
 - [小鰻的Android學習筆記: Android Push Notification推播機制(1)-簡介篇](http://lp43.blogspot.tw/2012/02/android-push-notification.html)
+- [[閒聊] 那些我從 android app 學到的事情 - 看板 AndroidDev - 批踢踢實業坊](https://www.ptt.cc/bbs/AndroidDev/M.1370641609.A.1BF.html)
 
 ### IOS 
 
