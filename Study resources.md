@@ -44,6 +44,7 @@
 - [React 8.5 小時心得 — Medium](https://medium.com/@devpoga/react-8-5-3cabfb69bb6d)
 - [6to5 · Turn ES6+ code into readable vanilla ES5](https://6to5.org/)
 - [petehunt/webpack-howto · GitHub](https://github.com/petehunt/webpack-howto)
+- [iT邦檔案 Reactjs-30 Day ](http://ithelp.ithome.com.tw/profile/share?id=20059915)
 
  
 #### AngularJs
