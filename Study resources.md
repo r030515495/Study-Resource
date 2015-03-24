@@ -261,6 +261,7 @@
 - [2014 第7屆iT邦幫忙鐵人賽](http://ithelp.ithome.com.tw/ironman7/app/index)
 - [Get Code | Wickedly Smart](http://wickedlysmart.com/get-code/)
 - [Convert an AVCHD / MTS file to MP4 using ffmpeg - PvdMWiki](http://pvdm.xs4all.nl/wiki/index.php/Convert_an_AVCHD_/_MTS_file_to_MP4_using_ffmpeg)
+- [[Windows 8.1](測試用)如何在Windows 8.1上裝Mac OS X - Michael的學習屋- 點部落](http://www.dotblogs.com.tw/michael80321/archive/2015/01/22/148226.aspx)
 
 ## 股票投資
 =========
