@@ -37,6 +37,7 @@
 - [Mastering Javascript: Prototypal Inheritance - Francisco Méndez Vilas](http://fmvilas.github.io/Mastering-Javascript-Prototypal-Inheritance/#/)
 - [ECMAScript 6入门](http://es6.ruanyifeng.com/)
 - [jQuery Mobile - 移动web开发](http://www.lampweb.org/jquerymobile/)
+- [網頁視覺化利器 － D3JS 入門簡介](http://blog.infographics.tw/2015/03/d3js-the-introduction/)
 
 
 #### ReactJS
@@ -190,11 +191,16 @@
 - [iOS Human Interface Guidelines: Designing for iOS](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html#//apple_ref/doc/uid/TP40006556-CH66-SW1)
 - [[APP開發] Xcode透過Ad-Hoc發佈App給其它裝置測試使用 | ♣梅問題‧教學網【Minwt】♣](http://www.minwt.com/ios/4457.html)
 
+### Windows Phone
+- [Sending push notifications with WNS (XAML) (Windows)](https://msdn.microsoft.com/en-us/library/windows/apps/xaml/hh868244.aspx)
+- [Windows Push Notification Server Side Helper Library](http://blogs.windows.com/buildingapps/2011/01/14/windows-push-notification-server-side-helper-library/)
+
 ### Other 
 - [GapReload Cordova/PhoneGap plugin demo on Vimeo](http://vimeo.com/81192559)
 - [rensanning的博客 - Cordova分类文章列表 - ITeye技术网站](http://rensanning.iteye.com/category/305123)
 - [Sample Cordova Apps, developed with AppBuiler Mobile Development Platform](http://www.telerik.com/appbuilder/sample-apps)
-
+- [Redth/PushSharp · GitHub](https://github.com/Redth/PushSharp)
+- [rs/pushd · GitHub](https://github.com/rs/pushd)
 
 ## 理念
 ========
@@ -262,6 +268,7 @@
 - [Get Code | Wickedly Smart](http://wickedlysmart.com/get-code/)
 - [Convert an AVCHD / MTS file to MP4 using ffmpeg - PvdMWiki](http://pvdm.xs4all.nl/wiki/index.php/Convert_an_AVCHD_/_MTS_file_to_MP4_using_ffmpeg)
 - [[Windows 8.1](測試用)如何在Windows 8.1上裝Mac OS X - Michael的學習屋- 點部落](http://www.dotblogs.com.tw/michael80321/archive/2015/01/22/148226.aspx)
+- [LeanCloud 文档](https://leancloud.cn/docs/realtime_v2.html)
 
 ## 股票投資
 =========
