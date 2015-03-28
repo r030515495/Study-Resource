@@ -46,8 +46,8 @@
 - [6to5 · Turn ES6+ code into readable vanilla ES5](https://6to5.org/)
 - [petehunt/webpack-howto · GitHub](https://github.com/petehunt/webpack-howto)
 - [iT邦檔案 Reactjs-30 Day ](http://ithelp.ithome.com.tw/profile/share?id=20059915)
-
- 
+- [React Native | A framework for building native apps using React](http://facebook.github.io/react-native/)
+- 
 #### AngularJs
 - [johnpapa/angularjs-styleguide · GitHub](https://github.com/johnpapa/angularjs-styleguide)
 - [A Better Way to Learn AngularJS
@@ -182,6 +182,7 @@
 - [Android精华教程 - 郭霖的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/sinyu890807/article/category/1369150)
 - [小鰻的Android學習筆記: Android Push Notification推播機制(1)-簡介篇](http://lp43.blogspot.tw/2012/02/android-push-notification.html)
 - [[閒聊] 那些我從 android app 學到的事情 - 看板 AndroidDev - 批踢踢實業坊](https://www.ptt.cc/bbs/AndroidDev/M.1370641609.A.1BF.html)
+- [android轮询最佳实践service+AlarmManager+Thread - 泡在网上的日子](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2014/0401/1609.html)
 
 ### IOS 
 
@@ -269,6 +270,7 @@
 - [Convert an AVCHD / MTS file to MP4 using ffmpeg - PvdMWiki](http://pvdm.xs4all.nl/wiki/index.php/Convert_an_AVCHD_/_MTS_file_to_MP4_using_ffmpeg)
 - [[Windows 8.1](測試用)如何在Windows 8.1上裝Mac OS X - Michael的學習屋- 點部落](http://www.dotblogs.com.tw/michael80321/archive/2015/01/22/148226.aspx)
 - [LeanCloud 文档](https://leancloud.cn/docs/realtime_v2.html)
+- [15 Must-Know Chrome DevTools Tips and Tricks | Tutorialzine](http://tutorialzine.com/2015/03/15-must-know-chrome-devtools-tips-tricks/)
 
 ## 股票投資
 =========
