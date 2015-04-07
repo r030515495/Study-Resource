@@ -47,7 +47,8 @@
 - [petehunt/webpack-howto · GitHub](https://github.com/petehunt/webpack-howto)
 - [iT邦檔案 Reactjs-30 Day ](http://ithelp.ithome.com.tw/profile/share?id=20059915)
 - [React Native | A framework for building native apps using React](http://facebook.github.io/react-native/)
-- 
+- [React.parts - A catalog of React Native components](http://react.parts/)
+
 #### AngularJs
 - [johnpapa/angularjs-styleguide · GitHub](https://github.com/johnpapa/angularjs-styleguide)
 - [A Better Way to Learn AngularJS
