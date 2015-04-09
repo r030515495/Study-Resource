@@ -38,6 +38,7 @@
 - [ECMAScript 6入门](http://es6.ruanyifeng.com/)
 - [jQuery Mobile - 移动web开发](http://www.lampweb.org/jquerymobile/)
 - [網頁視覺化利器 － D3JS 入門簡介](http://blog.infographics.tw/2015/03/d3js-the-introduction/)
+- [aShare - D3.js 鐵人賽的結束](http://wcc723.github.io/d3js/2014/10/29/Ironman-30-days-30/)
 
 
 #### ReactJS
