@@ -24,6 +24,7 @@
 - [Free Vector Art, Images & Graphics for Free Download](http://vector4free.com/)
 - [Free Vectors, Stock Vector Images, Art and Graphics - Vectorportal](http://www.vectorportal.com/)
 - [Pixabay - Free Images](http://pixabay.com/)
+- [Bootstrap中文网](http://www.bootcss.com/)
 
 ### Color
 
@@ -185,6 +186,8 @@
 - [小鰻的Android學習筆記: Android Push Notification推播機制(1)-簡介篇](http://lp43.blogspot.tw/2012/02/android-push-notification.html)
 - [[閒聊] 那些我從 android app 學到的事情 - 看板 AndroidDev - 批踢踢實業坊](https://www.ptt.cc/bbs/AndroidDev/M.1370641609.A.1BF.html)
 - [android轮询最佳实践service+AlarmManager+Thread - 泡在网上的日子](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2014/0401/1609.html)
+- [Material Design 引領的設計趨勢 - Inside 硬塞的網路趨勢觀察](http://www.inside.com.tw/2014/08/15/material-design-trend)
+- [Android Design](http://mirrors.segmentfault.com/adchs/index.html)
 
 ### IOS 
 
@@ -275,6 +278,7 @@
 - [15 Must-Know Chrome DevTools Tips and Tricks | Tutorialzine](http://tutorialzine.com/2015/03/15-must-know-chrome-devtools-tips-tricks/)
 - [I code it](http://icodeit.org/) 
 - [Create LaTeX tables online](http://www.tablesgenerator.com/)
+- [Wes Bos | Designer, Developer & Entrepreneur making the web an awesome place.](http://wesbos.com/)
 
 ## 股票投資
 =========
