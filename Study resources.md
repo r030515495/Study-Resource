@@ -279,6 +279,7 @@
 - [I code it](http://icodeit.org/) 
 - [Create LaTeX tables online](http://www.tablesgenerator.com/)
 - [Wes Bos | Designer, Developer & Entrepreneur making the web an awesome place.](http://wesbos.com/)
+- [wesbos (Wes Bos) · GitHub](https://github.com/wesbos)
 
 ## 股票投資
 =========
