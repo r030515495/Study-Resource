@@ -40,6 +40,7 @@
 - [jQuery Mobile - 移动web开发](http://www.lampweb.org/jquerymobile/)
 - [網頁視覺化利器 － D3JS 入門簡介](http://blog.infographics.tw/2015/03/d3js-the-introduction/)
 - [aShare - D3.js 鐵人賽的結束](http://wcc723.github.io/d3js/2014/10/29/Ironman-30-days-30/)
+- [Babel · The compiler for writing next generation JavaScript](https://babeljs.io/)
 
 
 #### ReactJS
@@ -280,6 +281,7 @@
 - [Create LaTeX tables online](http://www.tablesgenerator.com/)
 - [Wes Bos | Designer, Developer & Entrepreneur making the web an awesome place.](http://wesbos.com/)
 - [wesbos (Wes Bos) · GitHub](https://github.com/wesbos)
+- [Video Tutorials on Web Development Negotiation Bargaining](http://www.newthinktank.com/)
 
 ## 股票投資
 =========
