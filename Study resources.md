@@ -282,6 +282,7 @@
 - [Wes Bos | Designer, Developer & Entrepreneur making the web an awesome place.](http://wesbos.com/)
 - [wesbos (Wes Bos) · GitHub](https://github.com/wesbos)
 - [Video Tutorials on Web Development Negotiation Bargaining](http://www.newthinktank.com/)
+- [Recordit: Record screencasts fast & free! with GIF Support!](http://recordit.co/)
 
 ## 股票投資
 =========
