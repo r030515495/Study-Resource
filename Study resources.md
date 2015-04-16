@@ -112,6 +112,7 @@
 - [JavaOne 2014 Video](https://www.parleys.com/channel/54254c82e4b0b39c12e10bf9)
 - [Java development tools for a programming boost ! | Java Code Geeks](http://www.javacodegeeks.com/2015/02/java-development-tools-programming-boost.html)
 - [Parleys.com | Courses | Training | Presentations](https://www.parleys.com/talk/50-ejb-3-best-practices-50-minutes)
+- [大型网站技术架构的演进_IT新闻_博客园](http://news.cnblogs.com/n/518851/)
 
 
 
