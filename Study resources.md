@@ -1,10 +1,55 @@
-## 前端
+# Study Resources
+
+## About 
+
+蒐集自己想要學的技術。
+
+## Table of content
+
+* [前端](#前端)
+    * [UX](#UX)
+    * [CSS](#CSS)
+    * [Color](#Color)
+    * [JavaScript](#JavaScript)
+    * [ReactJS](#ReactJS)
+    * [AngularJs](#AngularJs)
+    * [HTML5](#HTML5)
+* [後端](#後端)
+    * [Rbuy](#Rbuy)
+    * [Python](#Python)
+    * [NoteJs](#NoteJs)
+    * [JAVA](#JAVA)
+    * [JAVA Template](#JAVA Template)
+* [測試](#測試)
+    * [JMETER](#JMETER)
+* [System](#System)
+    * [Linux](#Linux)
+    * [OSX](#OSX)
+* [IDE](#IDE)
+    * [Sublime text](#Sublime text)
+    * [VIM](#VIM)
+    * [other](#other)
+* [Mobile](#Mobile)
+    * [Android](#Android)
+    * [IOS](#IOS)
+    * [Windows Phone](#Windows Phone)
+    * [Other](#Other)
+* [理念](#理念)
+* [虛擬化](#虛擬化)
+* [版本控制](#版本控制)
+* [Regulex](#Regulex)
+* [資料分析](#資料分析)
+* [安全性](#安全性)
+* [Other](#Other)
+* [股票投資](#股票投資)
+
+## <A NAME="前端"></A>前端
 ========
 
-### UX
+### <A NAME="UX"></A>UX
 - [ux-crash-course-31](http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals)
 
-### CSS
+### <A NAME="CSS"></A>CSS
 
 - [Mozilla CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 - [學習 CSS 版面配置](https://doggy8088.github.io/csslayoutsite/index.html)
@@ -26,11 +71,11 @@
 - [Pixabay - Free Images](http://pixabay.com/)
 - [Bootstrap中文网](http://www.bootcss.com/)
 
-### Color
+### <A NAME="Color"></A>Color
 
 - [Color Scheme Designer 3](http://colorschemedesigner.com/)
 
-### JavaScript
+### <A NAME="JavaScript"></A>JavaScript
 
 - [JavaScript 庭院](http://bonsaiden.github.io/JavaScript-Garden/zhtw/)
 - [Gallery · mbostock/d3 Wiki · GitHub](https://github.com/mbostock/d3/wiki/Gallery)
@@ -43,7 +88,7 @@
 - [Babel · The compiler for writing next generation JavaScript](https://babeljs.io/)
 
 
-#### ReactJS
+#### <A NAME="ReactJS"></A>ReactJS
 
 - [React 8.5 小時心得 — Medium](https://medium.com/@devpoga/react-8-5-3cabfb69bb6d)
 - [6to5 · Turn ES6+ code into readable vanilla ES5](https://6to5.org/)
@@ -52,28 +97,27 @@
 - [React Native | A framework for building native apps using React](http://facebook.github.io/react-native/)
 - [React.parts - A catalog of React Native components](http://react.parts/)
 
-#### AngularJs
+#### <A NAME="AngularJs"></A>AngularJs
 - [johnpapa/angularjs-styleguide · GitHub](https://github.com/johnpapa/angularjs-styleguide)
-- [A Better Way to Learn AngularJS
- | Thinkster](http://www.thinkster.io/angularjs/GtaQ0oMGIl/a-better-way-to-learn-angularjs)
+- [A Better Way to Learn AngularJS| Thinkster](http://www.thinkster.io/angularjs/GtaQ0oMGIl/a-better-way-to-learn-angularjs)
 - [The Angular Course](http://www.angularcourse.com/#/)
 - [AngularJS Tutorial | Learn Angular by Building a Gmail Clone](http://www.thinkful.com/learn/angularjs-tutorial-build-a-gmail-clone/Complete-Project)
 
-### HTML5
+### <A NAME="HTML5"></A>HTML5
 - [The Web Platform: Browser technologies](https://platform.html5.org/)
 - [第七屆iT邦幫忙鐵人賽 - 「30 天學會 Web 前端效能優化」系列文章整理 « 攝理生活記](http://blog.cgmlife.net/posts/2014/11/30/ironman-seventh-it-states-help-30-days-to-learn-web-front-end-performance-optimization)
 - [Your First Multi-device Site — Web Fundamentals](https://developers.google.com/web/fundamentals/getting-started/your-first-multi-screen-site/)
 
-## 後端
+## <A NAME="後端"></A>後端
 ========
 
-### Rbuy
+### <A NAME="Rbuy"></A>Rbuy
 
 - [Learn Ruby The Hard Way — Learn Ruby The Hard Way](http://ruby.learncodethehardway.org/book/)
 - [railsbridge-docs-zh-tw](http://railsbridge-docs-zh-tw.herokuapp.com/)
 
 
-### Python
+### <A NAME="Python"></A>Python
 
 - [Programming with Python - Basic](http://www.slideshare.net/moskytw/programming-with-python-basic)
 - [Programming with Python - Adv.](http://www.slideshare.net/moskytw/programming-with-python-adv)
@@ -84,14 +128,14 @@
 - [Scrapy 0.24 網頁抓取](http://doc.scrapy.org/en/latest/index.html)
 
 
-### NoteJs
+### <A NAME="NoteJs"></A>NoteJs
 
 - [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
 - [nodejs-tw/nodejs-book-beginner-guide · GitHub](https://github.com/nodejs-tw/nodejs-book-beginner-guide/)
 - [Node.js 包教不包会 · GitHub](https://github.com/alsotang/node-lessons)
 - [Express.js 4, Node.js and MongoDB REST API Tutorial](http://webapplog.com/express-js-4-node-js-and-mongodb-rest-api-tutorial/)
 
-### JAVA
+### <A NAME="JAVA"></A>JAVA
 - [詳細的 Maven介紹](https://code.google.com/p/javawiki/wiki/StarupMaven?wl=zh-Hant)
 - [Java SWING](http://docs.oracle.com/javase/tutorial/uiswing/examples/components/index.html#table)
 - [ Java Tutorial  ](http://www.java2s.com/Tutorial/Java/CatalogJava.htm)
@@ -116,23 +160,23 @@
 
 
 
-### JAVA Template
+### <A NAME="JAVA Template"></A>JAVA Template
 - [JHipster home page Maven + Spring + AngularJS](http://jhipster.github.io/)
 
 
 
-## 測試
+## <A NAME="測試"></A>測試
 ========
 
-### JMETER
+### <A NAME="JMETER"></A>JMETER
 
-- [blazemeter.com knowledgebase	](http://community.blazemeter.com/knowledgebase/)
+- [blazemeter.com knowledgebase ](http://community.blazemeter.com/knowledgebase/)
 
 
-## System
+## <A NAME="System"></A>System
 ========
 
-### Linux
+### <A NAME="Linux"></A>Linux
 
 - [dotfiles 設定檔配置](http://dotfiles.github.io/)
 - [臥龍小三 OLS3 的 Shell 站](http://bash.freesf.tw/)
@@ -144,33 +188,34 @@
 - [explainshell.com - match command-line arguments to their help text](http://explainshell.com/)
 - [Linux/Unix 程式設計](http://dywang.csie.cyut.edu.tw/moodle23/dywang/linuxProgram/linuxProgram.html)
 
-### OSX
+### <A NAME="OSX"></A>OSX
 - [java6ForOSX](http://support.apple.com/kb/dl1572)
 - [dtinth/JavaScript for Automation Cookbook · GitHub](https://github.com/dtinth/JXA-Cookbook)
+- [Top 20 OS X command-line secrets for power users | InfoWorld](http://www.infoworld.com/article/2614879/mac-os-x/top-20-os-x-command-line-secrets-for-power-users.html)
 
-## IDE
+## <A NAME="IDE"></A>IDE
 ========
 
-### Sublime text
+### <A NAME="Sublime text"></A>Sublime text
 
 - [Tuts+ Premium Course: Perfect Workflow in Sublime Text 2  ](https://tutsplus.com/course/improve-workflow-in-sublime-text-2/)
 - [Sublime Text 手冊](http://docs.sublimetext.tw/)
 
-### VIM
+### <A NAME="VIM"></A>VIM
 
 - [vi指令說明(完整版)](http://www2.nsysu.edu.tw/csmlab/unix/vi_command.htm)
 - [Vim Hacks](http://www.slideshare.net/c9s/vim-hacks)
 - [給程式設計師的Vim入門圖解說明 | vgod's blog](http://blog.vgod.tw/2009/12/08/vim-cheat-sheet-for-programmers/)
 - [鳥哥的 Linux 私房菜 -- vim 程式編輯器](http://linux.vbird.org/linux_basic/0310vi.php)
 
-### other
+### <A NAME="other"></A>other
 - [sachet - Handcraft your development environment](http://yoursachet.com/)
 
-## Mobile
+## <A NAME="Mobile"></A>Mobile
 ========
 
 
-### Android
+### <A NAME="Android"></A>Android
 
 - [Best practices in Android development · GitHub](https://github.com/futurice/android-best-practices)
 - [Android Core Tutorials | Java Code Geeks](http://www.javacodegeeks.com/tutorials/android-tutorials/android-core-tutorials/)
@@ -191,7 +236,7 @@
 - [Material Design 引領的設計趨勢 - Inside 硬塞的網路趨勢觀察](http://www.inside.com.tw/2014/08/15/material-design-trend)
 - [Android Design](http://mirrors.segmentfault.com/adchs/index.html)
 
-### IOS 
+### <A NAME="IOS "></A>IOS 
 
 - [Simple code sample for iOS XMPP Chat (via QuickBlox SDK + API)](http://quickblox.com/developers/SimpleSample-chat_users-ios)
 - [iOS 学习资料整理 - SegmentFault](http://segmentfault.com/blog/paul_king/1190000002473595)
@@ -199,18 +244,18 @@
 - [iOS Human Interface Guidelines: Designing for iOS](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html#//apple_ref/doc/uid/TP40006556-CH66-SW1)
 - [[APP開發] Xcode透過Ad-Hoc發佈App給其它裝置測試使用 | ♣梅問題‧教學網【Minwt】♣](http://www.minwt.com/ios/4457.html)
 
-### Windows Phone
+### <A NAME="Windows Phone"></A>Windows Phone
 - [Sending push notifications with WNS (XAML) (Windows)](https://msdn.microsoft.com/en-us/library/windows/apps/xaml/hh868244.aspx)
 - [Windows Push Notification Server Side Helper Library](http://blogs.windows.com/buildingapps/2011/01/14/windows-push-notification-server-side-helper-library/)
 
-### Other 
+### <A NAME="Other "></A>Other 
 - [GapReload Cordova/PhoneGap plugin demo on Vimeo](http://vimeo.com/81192559)
 - [rensanning的博客 - Cordova分类文章列表 - ITeye技术网站](http://rensanning.iteye.com/category/305123)
 - [Sample Cordova Apps, developed with AppBuiler Mobile Development Platform](http://www.telerik.com/appbuilder/sample-apps)
 - [Redth/PushSharp · GitHub](https://github.com/Redth/PushSharp)
 - [rs/pushd · GitHub](https://github.com/rs/pushd)
 
-## 理念
+## <A NAME="理念"></A>理念
 ========
 
 - [優秀網站開發者的十個特徵 - Inside 硬塞的網路趨勢觀察](http://www.inside.com.tw/2014/02/19/10-signs-that-you-are-an-awesome-web-developer)
@@ -218,34 +263,34 @@
 
 
 
-## 虛擬化
+## <A NAME="虛擬化"></A>虛擬化
 
 - [Awesome Docker](http://www.m3webware.com/tips-tricks/awesome-docker.html)
 - [Discover Vagrant Boxes | Atlas by HashiCorp](https://vagrantcloud.com/boxes/search)
 
-## 版本控制
+## <A NAME="版本控制"></A>版本控制
 
 - [猴子都能懂的GIT入门 | 贝格乐（Backlog）](http://backlogtool.com/git-guide/cn/)
 - [打造專屬於你的 Git 工作流程 — Alias、Commands、Hooks | Mozilla Tech | 謀智台客](http://tech.mozilla.com.tw/posts/5306/%E6%89%93%E9%80%A0%E5%B0%88%E5%B1%AC%E6%96%BC%E4%BD%A0%E7%9A%84-git-%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%A8%8B-alias%E3%80%81commands%E3%80%81hooks)
 - [Most common git screwups/questions and solutions - 41J Blog](http://41j.com/blog/2015/02/common-git-screwupsquestions-solutions/)
 
-## Regulex
+## <A NAME="Regulex"></A>Regulex
 
 - [Regulex : JavaScript Regular Expression Visualizer.](http://jex.im/regulex/)
 - [Online Regex Tester](http://regexpal.com/)
 
-## 資料分析
+## <A NAME="資料分析"></A>資料分析
 
 - [Python Data Analysis Library — pandas: Python Data Analysis Library](http://pandas.pydata.org/)
 - [Scrapy | A Fast and Powerful Scraping and Web Crawling Framework](http://scrapy.org/)
 
-## 安全性
+## <A NAME="安全性"></A>安全性
 
 - [prompt(1) to win - 0x0](http://prompt.ml/0)
 - [XSS Filter Evasion Cheat Sheet - OWASP](https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet)
 - [Spring MVC防御CSRF、XSS和SQL注入攻击 - Mainz - 博客园](http://www.cnblogs.com/Mainz/archive/2012/11/01/2749874.html)
 
-## Other
+## <A NAME="Other"></A>Other
 ========
 - [Pandoc’s Markdown 語法中文翻譯](http://pages.tzengyuxio.me/pandoc/#pandocs-markdown)
 - [IT eBooks - Free Download - Big Library 免費電子書](http://it-ebooks.info/)
@@ -286,7 +331,7 @@
 - [Video Tutorials on Web Development Negotiation Bargaining](http://www.newthinktank.com/)
 - [Recordit: Record screencasts fast & free! with GIF Support!](http://recordit.co/)
 
-## 股票投資
+## <A NAME="股票投資"></A>股票投資
 =========
 
 - [不看盤的投資術 - 股魚網](http://stocksardine.com/)
