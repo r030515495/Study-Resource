@@ -109,7 +109,7 @@
 - [Your First Multi-device Site — Web Fundamentals](https://developers.google.com/web/fundamentals/getting-started/your-first-multi-screen-site/)
 
 ## <A NAME="後端"></A>後端
-========
+
 
 ### <A NAME="Rbuy"></A>Rbuy
 
@@ -158,15 +158,13 @@
 - [Parleys.com | Courses | Training | Presentations](https://www.parleys.com/talk/50-ejb-3-best-practices-50-minutes)
 - [大型网站技术架构的演进_IT新闻_博客园](http://news.cnblogs.com/n/518851/)
 
-
-
 ### <A NAME="JAVA Template"></A>JAVA Template
 - [JHipster home page Maven + Spring + AngularJS](http://jhipster.github.io/)
 
 
 
 ## <A NAME="測試"></A>測試
-========
+
 
 ### <A NAME="JMETER"></A>JMETER
 
@@ -174,7 +172,6 @@
 
 
 ## <A NAME="System"></A>System
-========
 
 ### <A NAME="Linux"></A>Linux
 
@@ -194,7 +191,6 @@
 - [Top 20 OS X command-line secrets for power users | InfoWorld](http://www.infoworld.com/article/2614879/mac-os-x/top-20-os-x-command-line-secrets-for-power-users.html)
 
 ## <A NAME="IDE"></A>IDE
-========
 
 ### <A NAME="Sublime text"></A>Sublime text
 
@@ -212,7 +208,6 @@
 - [sachet - Handcraft your development environment](http://yoursachet.com/)
 
 ## <A NAME="Mobile"></A>Mobile
-========
 
 
 ### <A NAME="Android"></A>Android
@@ -256,12 +251,9 @@
 - [rs/pushd · GitHub](https://github.com/rs/pushd)
 
 ## <A NAME="理念"></A>理念
-========
 
 - [優秀網站開發者的十個特徵 - Inside 硬塞的網路趨勢觀察](http://www.inside.com.tw/2014/02/19/10-signs-that-you-are-an-awesome-web-developer)
 - [留给编程迷茫时的自己 - SegmentFault](http://segmentfault.com/bookmark/1230000002456274)
-
-
 
 ## <A NAME="虛擬化"></A>虛擬化
 
@@ -291,7 +283,7 @@
 - [Spring MVC防御CSRF、XSS和SQL注入攻击 - Mainz - 博客园](http://www.cnblogs.com/Mainz/archive/2012/11/01/2749874.html)
 
 ## <A NAME="Other"></A>Other
-========
+
 - [Pandoc’s Markdown 語法中文翻譯](http://pages.tzengyuxio.me/pandoc/#pandocs-markdown)
 - [IT eBooks - Free Download - Big Library 免費電子書](http://it-ebooks.info/)
 - [Free Usenet Tools - Online Base64 Encoder and Decoder. Usenet newsgroups binaries.](http://www.webutils.pl/index.php?idx=base64)
@@ -321,7 +313,7 @@
 - [2014 第7屆iT邦幫忙鐵人賽](http://ithelp.ithome.com.tw/ironman7/app/index)
 - [Get Code | Wickedly Smart](http://wickedlysmart.com/get-code/)
 - [Convert an AVCHD / MTS file to MP4 using ffmpeg - PvdMWiki](http://pvdm.xs4all.nl/wiki/index.php/Convert_an_AVCHD_/_MTS_file_to_MP4_using_ffmpeg)
-- [[Windows 8.1](測試用)如何在Windows 8.1上裝Mac OS X - Michael的學習屋- 點部落](http://www.dotblogs.com.tw/michael80321/archive/2015/01/22/148226.aspx)
+- [Windows 8.1 測試用如何在Windows 8.1上裝Mac OS X - Michael的學習屋- 點部落](http://www.dotblogs.com.tw/michael80321/archive/2015/01/22/148226.aspx)
 - [LeanCloud 文档](https://leancloud.cn/docs/realtime_v2.html)
 - [15 Must-Know Chrome DevTools Tips and Tricks | Tutorialzine](http://tutorialzine.com/2015/03/15-must-know-chrome-devtools-tips-tricks/)
 - [I code it](http://icodeit.org/) 
@@ -332,7 +324,6 @@
 - [Recordit: Record screencasts fast & free! with GIF Support!](http://recordit.co/)
 
 ## <A NAME="股票投資"></A>股票投資
-=========
 
 - [不看盤的投資術 - 股魚網](http://stocksardine.com/)
 - [雷浩斯價值投資 部落格 | 價值投資者、基本面財報分析、Seth Klarman卡拉曼 & 費雪 體系 經典閱讀書摘、價值思考](http://redhouse.statementdog.com/)
