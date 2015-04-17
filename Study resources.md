@@ -227,6 +227,7 @@
 
 - [猴子都能懂的GIT入门 | 贝格乐（Backlog）](http://backlogtool.com/git-guide/cn/)
 - [打造專屬於你的 Git 工作流程 — Alias、Commands、Hooks | Mozilla Tech | 謀智台客](http://tech.mozilla.com.tw/posts/5306/%E6%89%93%E9%80%A0%E5%B0%88%E5%B1%AC%E6%96%BC%E4%BD%A0%E7%9A%84-git-%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%A8%8B-alias%E3%80%81commands%E3%80%81hooks)
+- [Most common git screwups/questions and solutions - 41J Blog](http://41j.com/blog/2015/02/common-git-screwupsquestions-solutions/)
 
 ## Regulex
 
