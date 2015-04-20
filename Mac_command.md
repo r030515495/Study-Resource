@@ -38,3 +38,9 @@
 	VBoxManage modifyhd out.vdi --resize 81920
 	# 在圖型介面掛載新磁碟
  ```
+ 
+- 取得目前 Mac 版本
+
+ ```
+ sw_vers -productVersion # 10.10.3
+ ```

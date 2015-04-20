@@ -101,6 +101,7 @@
 - [A Better Way to Learn AngularJS| Thinkster](http://www.thinkster.io/angularjs/GtaQ0oMGIl/a-better-way-to-learn-angularjs)
 - [The Angular Course](http://www.angularcourse.com/#/)
 - [AngularJS Tutorial | Learn Angular by Building a Gmail Clone](http://www.thinkful.com/learn/angularjs-tutorial-build-a-gmail-clone/Complete-Project)
+- [《面向未来的前端模块化开发与包管理》](http://segmentfault.com/a/1190000002680386?utm_source=Twitter&utm_medium=shareLink&utm_campaign=socialShare)
 
 ### <A NAME="HTML5"></A>HTML5
 - [The Web Platform: Browser technologies](https://platform.html5.org/)
@@ -253,6 +254,8 @@
 
 - [優秀網站開發者的十個特徵 - Inside 硬塞的網路趨勢觀察](http://www.inside.com.tw/2014/02/19/10-signs-that-you-are-an-awesome-web-developer)
 - [留给编程迷茫时的自己 - SegmentFault](http://segmentfault.com/bookmark/1230000002456274)
+- [學 Coding 很簡單，但想要靠它吃飯你必須經過這 4 大階段 | TechOrange](http://buzzorange.com/techorange/2015/04/07/how-youll-go-through-while-learning-coding/)
+- [Dropbox 管理學：好的公司應該告訴員工「不當主管」也沒關係 | TechOrange](http://buzzorange.com/techorange/2015/04/15/learn-from-dropbox/)
 
 ## <A NAME="虛擬化"></A>虛擬化
 
