@@ -85,6 +85,7 @@
 - [網頁視覺化利器 － D3JS 入門簡介](http://blog.infographics.tw/2015/03/d3js-the-introduction/)
 - [aShare - D3.js 鐵人賽的結束](http://wcc723.github.io/d3js/2014/10/29/Ironman-30-days-30/)
 - [Babel · The compiler for writing next generation JavaScript](https://babeljs.io/)
+- [现代JavaScript开发者的工具箱](http://www.infoq.com/cn/articles/modern-javascript-toolbox)
 
 
 #### <A NAME="ReactJS"></A>ReactJS
