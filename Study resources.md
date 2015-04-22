@@ -96,6 +96,7 @@
 - [iT邦檔案 Reactjs-30 Day ](http://ithelp.ithome.com.tw/profile/share?id=20059915)
 - [React Native | A framework for building native apps using React](http://facebook.github.io/react-native/)
 - [React.parts - A catalog of React Native components](http://react.parts/)
+- [React Native Fundamentals - Video Tutorial Series @eggheadio](https://egghead.io/series/react-native-fundamentals)
 
 #### <A NAME="AngularJs"></A>AngularJs
 - [johnpapa/angularjs-styleguide · GitHub](https://github.com/johnpapa/angularjs-styleguide)
@@ -116,6 +117,7 @@
 
 - [Learn Ruby The Hard Way — Learn Ruby The Hard Way](http://ruby.learncodethehardway.org/book/)
 - [railsbridge-docs-zh-tw](http://railsbridge-docs-zh-tw.herokuapp.com/)
+- [我是這樣學會 Ruby on Rails：12 個星期打造 12 個網頁 APP - Inside 硬塞的網路趨勢觀察](http://www.inside.com.tw/2015/01/27/how-i-finally-learned-to-build-stuff-with-rails)
 
 
 ### <A NAME="Python"></A>Python
@@ -250,6 +252,7 @@
 - [Sample Cordova Apps, developed with AppBuiler Mobile Development Platform](http://www.telerik.com/appbuilder/sample-apps)
 - [Redth/PushSharp · GitHub](https://github.com/Redth/PushSharp)
 - [rs/pushd · GitHub](https://github.com/rs/pushd)
+- [免費電子書 -- R 統計軟體 - 陳鍾誠的網站](http://ccckmit.wikidot.com/r:main)
 
 ## <A NAME="理念"></A>理念
 
@@ -257,6 +260,12 @@
 - [留给编程迷茫时的自己 - SegmentFault](http://segmentfault.com/bookmark/1230000002456274)
 - [學 Coding 很簡單，但想要靠它吃飯你必須經過這 4 大階段 | TechOrange](http://buzzorange.com/techorange/2015/04/07/how-youll-go-through-while-learning-coding/)
 - [Dropbox 管理學：好的公司應該告訴員工「不當主管」也沒關係 | TechOrange](http://buzzorange.com/techorange/2015/04/15/learn-from-dropbox/)
+- [怎样尊重一个程序员](http://www.yinwang.org/blog-cn/2015/03/03/how-to-respect-a-programmer/)
+- [我和 Google 的故事（2015 修订版）](http://www.yinwang.org/blog-cn/2014/12/31/google-story/)
+- [不妥協的河蟹之道](http://www.slideshare.net/KenKuan1/ss-47074832)
+
+
+
 
 ## <A NAME="虛擬化"></A>虛擬化
 
