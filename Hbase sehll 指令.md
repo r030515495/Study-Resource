@@ -109,5 +109,5 @@
 - 顯示該 Table 所有 qualify
 
 	```
-	echo "scan 'LEVEL1_ATTR'" | bin/hbase shell | awk -F'=' '{print $2}'
+	echo "scan 't1'" | bin/hbase shell | awk -F'=' '{print $2}'
 	```
