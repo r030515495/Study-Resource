@@ -334,6 +334,7 @@
 - [wesbos (Wes Bos) · GitHub](https://github.com/wesbos)
 - [Video Tutorials on Web Development Negotiation Bargaining](http://www.newthinktank.com/)
 - [Recordit: Record screencasts fast & free! with GIF Support!](http://recordit.co/)
+- [Top Java GitHub developers in Taiwan](http://github-awards.com/users?utf8=%E2%9C%93&type=country&language=Java&country=Taiwan)
 
 ## <A NAME="股票投資"></A>股票投資
 
