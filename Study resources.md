@@ -271,6 +271,7 @@
 
 - [Awesome Docker](http://www.m3webware.com/tips-tricks/awesome-docker.html)
 - [Discover Vagrant Boxes | Atlas by HashiCorp](https://vagrantcloud.com/boxes/search)
+- [使用 Docker 构建开发、测试环境](http://www.fanwu.me/post/dockerintro)
 
 ## <A NAME="版本控制"></A>版本控制
 

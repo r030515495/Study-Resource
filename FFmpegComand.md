@@ -43,9 +43,11 @@
 	```
 	ffmpeg -i tmp.flv -ar 22050 output.avi
 	```
-	
 
-
+- m4a to mp3
+	```
+	ffmpeg -i input.m4a -acodec libmp3lame -ab 128k output.mp3
+	```
 
 - ISO to mp4
 
