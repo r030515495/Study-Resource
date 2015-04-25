@@ -97,6 +97,7 @@
 - [React Native | A framework for building native apps using React](http://facebook.github.io/react-native/)
 - [React.parts - A catalog of React Native components](http://react.parts/)
 - [React Native Fundamentals - Video Tutorial Series @eggheadio](https://egghead.io/series/react-native-fundamentals)
+- [JSX · Babel](https://babeljs.io/docs/usage/jsx/)
 
 #### <A NAME="AngularJs"></A>AngularJs
 - [johnpapa/angularjs-styleguide · GitHub](https://github.com/johnpapa/angularjs-styleguide)
@@ -289,6 +290,7 @@
 
 - [Python Data Analysis Library — pandas: Python Data Analysis Library](http://pandas.pydata.org/)
 - [Scrapy | A Fast and Powerful Scraping and Web Crawling Framework](http://scrapy.org/)
+- [免費電子書 -- R 統計軟體 - 陳鍾誠的網站](http://ccckmit.wikidot.com/r:main)
 
 ## <A NAME="安全性"></A>安全性
 
