@@ -17,7 +17,7 @@
 * [後端](#後端)
     * [Rbuy](#Rbuy)
     * [Python](#Python)
-    * [NoteJs](#NoteJs)
+    * [NodeJs](#NodeJs)
     * [JAVA](#JAVA)
     * [JAVA Template](#JAVA Template)
 * [測試](#測試)
@@ -40,6 +40,8 @@
 * [Regulex](#Regulex)
 * [資料分析](#資料分析)
 * [安全性](#安全性)
+* [文件製作](#文件製作)
+* [企業通訊](#企業通訊)
 * [Other](#Other)
 * [股票投資](#股票投資)
 
@@ -86,6 +88,7 @@
 - [aShare - D3.js 鐵人賽的結束](http://wcc723.github.io/d3js/2014/10/29/Ironman-30-days-30/)
 - [Babel · The compiler for writing next generation JavaScript](https://babeljs.io/)
 - [现代JavaScript开发者的工具箱](http://www.infoq.com/cn/articles/modern-javascript-toolbox)
+- [Common Misconceptions About Inheritance in JavaScript — JavaScript Scene — Medium](https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a)
 
 
 #### <A NAME="ReactJS"></A>ReactJS
@@ -98,6 +101,7 @@
 - [React.parts - A catalog of React Native components](http://react.parts/)
 - [React Native Fundamentals - Video Tutorial Series @eggheadio](https://egghead.io/series/react-native-fundamentals)
 - [JSX · Babel](https://babeljs.io/docs/usage/jsx/)
+- [Creating A Simple Shopping Cart with React.js and Flux | Scotch](https://scotch.io/tutorials/creating-a-simple-shopping-cart-with-react-js-and-flux)
 
 #### <A NAME="AngularJs"></A>AngularJs
 - [johnpapa/angularjs-styleguide · GitHub](https://github.com/johnpapa/angularjs-styleguide)
@@ -132,12 +136,14 @@
 - [Scrapy 0.24 網頁抓取](http://doc.scrapy.org/en/latest/index.html)
 
 
-### <A NAME="NoteJs"></A>NoteJs
+### <A NAME="NodeJs"></A>NodeJs
 
 - [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
 - [nodejs-tw/nodejs-book-beginner-guide · GitHub](https://github.com/nodejs-tw/nodejs-book-beginner-guide/)
 - [Node.js 包教不包会 · GitHub](https://github.com/alsotang/node-lessons)
 - [Express.js 4, Node.js and MongoDB REST API Tutorial](http://webapplog.com/express-js-4-node-js-and-mongodb-rest-api-tutorial/)
+- [NW.js](http://nwjs.io/)
+- [Electron](http://electron.atom.io/)
 
 ### <A NAME="JAVA"></A>JAVA
 - [詳細的 Maven介紹](https://code.google.com/p/javawiki/wiki/StarupMaven?wl=zh-Hant)
@@ -236,7 +242,7 @@
 - [Material Design 引領的設計趨勢 - Inside 硬塞的網路趨勢觀察](http://www.inside.com.tw/2014/08/15/material-design-trend)
 - [Android Design](http://mirrors.segmentfault.com/adchs/index.html)
 
-### <A NAME="IOS "></A>IOS 
+### <A NAME="IOS"></A>IOS 
 
 - [Simple code sample for iOS XMPP Chat (via QuickBlox SDK + API)](http://quickblox.com/developers/SimpleSample-chat_users-ios)
 - [iOS 学习资料整理 - SegmentFault](http://segmentfault.com/blog/paul_king/1190000002473595)
@@ -254,7 +260,6 @@
 - [Sample Cordova Apps, developed with AppBuiler Mobile Development Platform](http://www.telerik.com/appbuilder/sample-apps)
 - [Redth/PushSharp · GitHub](https://github.com/Redth/PushSharp)
 - [rs/pushd · GitHub](https://github.com/rs/pushd)
-- [免費電子書 -- R 統計軟體 - 陳鍾誠的網站](http://ccckmit.wikidot.com/r:main)
 
 ## <A NAME="理念"></A>理念
 
@@ -291,6 +296,7 @@
 - [Python Data Analysis Library — pandas: Python Data Analysis Library](http://pandas.pydata.org/)
 - [Scrapy | A Fast and Powerful Scraping and Web Crawling Framework](http://scrapy.org/)
 - [免費電子書 -- R 統計軟體 - 陳鍾誠的網站](http://ccckmit.wikidot.com/r:main)
+- [開源BI系統- 台灣Wiki](http://www.twwiki.com/wiki/%E9%96%8B%E6%BA%90BI%E7%B3%BB%E7%B5%B1)
 
 ## <A NAME="安全性"></A>安全性
 
@@ -298,16 +304,24 @@
 - [XSS Filter Evasion Cheat Sheet - OWASP](https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet)
 - [Spring MVC防御CSRF、XSS和SQL注入攻击 - Mainz - 博客园](http://www.cnblogs.com/Mainz/archive/2012/11/01/2749874.html)
 
-## <A NAME="Other"></A>Other
+## <A NAME="文件製作"></A>文件製作
 
 - [Pandoc’s Markdown 語法中文翻譯](http://pages.tzengyuxio.me/pandoc/#pandocs-markdown)
+- [MkDocs 用 markdown 做線上文件](http://www.mkdocs.org/)
+
+## <A NAME="企業通訊"></A>企業通訊
+
+- [HipChat - Private group chat, video chat, instant messaging for teams | HipChat](https://www.hipchat.com/)
+- [Slack: Be less busy](https://slack.com/)
+
+## <A NAME="Other"></A>Other
+
 - [IT eBooks - Free Download - Big Library 免費電子書](http://it-ebooks.info/)
 - [Free Usenet Tools - Online Base64 Encoder and Decoder. Usenet newsgroups binaries.](http://www.webutils.pl/index.php?idx=base64)
 - [Problems | LeetCode OJ](https://oj.leetcode.com/problems/)
 - [How to Install Asterisk 11 on CentOS 6 | Inside the Asterisk](http://blogs.digium.com/2012/11/05/how-to-install-asterisk-11-on-centos-6/)
 - [Haskell趣學指南 (Learn You a Haskell for Great Good! 繁體中文版)](http://learnyouahaskell-zh-tw.csie.org/zh-tw/chapters.html)
 - [Facebook get webpage title](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2F)
-- [MkDocs 用 markdown 做線上文件](http://www.mkdocs.org/)
 - [The Joel on Software Translation Project:萬國碼 - The Joel on Software Translation Project](http://local.joelonsoftware.com/wiki/The_Joel_on_Software_Translation_Project:%E8%90%AC%E5%9C%8B%E7%A2%BC)
 - [Coursera startup engineering](https://www.coursera.org/course/startup)
 - [SSD Cloud Server, VPS Server, Simple Cloud Hosting | DigitalOcean](https://www.digitalocean.com/)
