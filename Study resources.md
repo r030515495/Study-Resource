@@ -270,6 +270,7 @@
 - [怎样尊重一个程序员](http://www.yinwang.org/blog-cn/2015/03/03/how-to-respect-a-programmer/)
 - [我和 Google 的故事（2015 修订版）](http://www.yinwang.org/blog-cn/2014/12/31/google-story/)
 - [不妥協的河蟹之道](http://www.slideshare.net/KenKuan1/ss-47074832)
+- [架构之重构的12条军规（上）](http://www.infoq.com/cn/articles/architect-12-rules)
 
 
 
