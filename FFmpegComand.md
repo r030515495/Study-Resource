@@ -10,7 +10,6 @@
 	ffmpeg -i in.mp4 -ss 00:00:10 -f image2 -vframes 1 out.png
 	```
 
-
 - 取得影片特定範圍
 
 	```
@@ -21,7 +20,8 @@
 	
 	ffmpeg -i in.mkv -ss 80 -t 80 -c:v copy -c:a copy out.mp4
 	```
-- 轉換影片為FLV
+
+- AVI TO FLV
 
 	```
 	-y 若檔案有存在是否要覆蓋原檔
@@ -34,17 +34,20 @@
 	```
 	
 - 合併 DVD 檔案 to mp4
+
 	```
 	ffmpeg -i "concat:01.VOB|02.VOB|03.VOB|04.VOB" -f mpeg -c copy output.mp4
 	```
 	
-- 轉換FLV to mp4
+- FLV to mp4
 
 	```
 	ffmpeg -i tmp.flv -ar 22050 output.avi
 	```
 
-- m4a to mp3
+- M4A to MP3
+
+
 	```
 	ffmpeg -i input.m4a -acodec libmp3lame -ab 128k output.mp3
 	```
