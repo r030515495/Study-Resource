@@ -34,6 +34,7 @@
     - [IOS](#IOS)
     - [Windows Phone](#Windows Phone)
     - [Other](#Other)
+- [DevOps](#DevOps)
 - [理念](#理念)
 - [虛擬化](#虛擬化)
 - [版本控制](#版本控制)
@@ -175,10 +176,8 @@
 
 ## <A NAME="測試"></A>測試
 
-
-### <A NAME="JMETER"></A>JMETER
-
-- [blazemeter.com knowledgebase ](http://community.blazemeter.com/knowledgebase/)
+- [Jmeter blazemeter.com knowledgebase ](http://community.blazemeter.com/knowledgebase/)
+- [開源框架：JUnit Gossip](http://openhome.cc/Gossip/JUnit/index.html)
 
 
 ## <A NAME="System"></A>System
@@ -262,6 +261,11 @@
 - [rs/pushd · GitHub](https://github.com/rs/pushd)
 - [Facebook React Native 中文教程 - 极客学院 Wiki](http://wiki.jikexueyuan.com/project/react-native/)
 
+## <A NAME="DevOps"></A>DevOps
+
+- [DevOps：持續整合＆持續交付（Docker、CircleCI、AWS）](http://blog.amowu.com/2015/04/devops-continuous-integration-delivery-docker-circleci-aws-beanstalk.html)
+- [CI Server 30 - Jenkins總回顧 - iT邦幫忙::IT知識分享社群](http://ithelp.ithome.com.tw/question/10109773)
+
 ## <A NAME="理念"></A>理念
 
 - [優秀網站開發者的十個特徵 - Inside 硬塞的網路趨勢觀察](http://www.inside.com.tw/2014/02/19/10-signs-that-you-are-an-awesome-web-developer)
@@ -272,9 +276,6 @@
 - [我和 Google 的故事（2015 修订版）](http://www.yinwang.org/blog-cn/2014/12/31/google-story/)
 - [不妥協的河蟹之道](http://www.slideshare.net/KenKuan1/ss-47074832)
 - [架构之重构的12条军规（上）](http://www.infoq.com/cn/articles/architect-12-rules)
-
-
-
 
 ## <A NAME="虛擬化"></A>虛擬化
 
@@ -334,7 +335,6 @@
 - [由12306.cn谈谈网站性能技术 | 酷 壳 - CoolShell.cn](http://coolshell.cn/articles/6470.html)
 - [searchcode | source code search engine](https://searchcode.com/)
 - [ImageMagick使用心得](http://www.charry.org/docs/linux/ImageMagick/ImageMagick.html)
-- [CI Server 30 - Jenkins總回顧 - iT邦幫忙::IT知識分享社群](http://ithelp.ithome.com.tw/question/10109773)
 - [開源10大兵器排行榜 | iThome](http://www.ithome.com.tw/voice/93580)
 - [Home - Mackenzie ChildMackenzie Child](https://mackenziechild.me/)
 - [Watch people code](http://www.watchpeoplecode.com/)
