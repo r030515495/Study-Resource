@@ -21,7 +21,6 @@
     - [JAVA](#JAVA)
     - [JAVA Template](#JAVA Template)
 - [測試](#測試)
-    - [JMETER](#JMETER)
 - [System](#System)
     - [Linux](#Linux)
     - [OSX](#OSX)
