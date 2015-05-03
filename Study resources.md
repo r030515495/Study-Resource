@@ -260,6 +260,7 @@
 - [Sample Cordova Apps, developed with AppBuiler Mobile Development Platform](http://www.telerik.com/appbuilder/sample-apps)
 - [Redth/PushSharp · GitHub](https://github.com/Redth/PushSharp)
 - [rs/pushd · GitHub](https://github.com/rs/pushd)
+- [Facebook React Native 中文教程 - 极客学院 Wiki](http://wiki.jikexueyuan.com/project/react-native/)
 
 ## <A NAME="理念"></A>理念
 
