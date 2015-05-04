@@ -43,6 +43,7 @@
 - [安全性](#安全性)
 - [文件製作](#文件製作)
 - [企業通訊](#企業通訊)
+- [BI](#BI)
 - [Other](#Other)
 - [股票投資](#股票投資)
 
@@ -90,6 +91,7 @@
 - [Babel · The compiler for writing next generation JavaScript](https://babeljs.io/)
 - [现代JavaScript开发者的工具箱](http://www.infoq.com/cn/articles/modern-javascript-toolbox)
 - [Common Misconceptions About Inheritance in JavaScript — JavaScript Scene — Medium](https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a)
+- [JavaScript判断IE各版本最完美解决方案 · Issue #12 · nioteam/jquery-plugins · GitHub](https://github.com/nioteam/jquery-plugins/issues/12)
 
 
 #### <A NAME="ReactJS"></A>ReactJS
@@ -173,6 +175,8 @@
 - [Parleys.com | Courses | Training | Presentations](https://www.parleys.com/talk/50-ejb-3-best-practices-50-minutes)
 - [大型网站技术架构的演进_IT新闻_博客园](http://news.cnblogs.com/n/518851/)
 - [Java "Back to Basics" Tutorial | Baeldung](http://www.baeldung.com/java-tutorial)
+- [55 New Features in Java 7](http://www.slideshare.net/boulderjug/55-things-in-java-7)
+- [55 New Features in Java SE 8](http://www.slideshare.net/SimonRitter/javase8-55thingsv2-sritter?related=1)
 
 ### <A NAME="JAVA Template"></A>JAVA Template
 - [JHipster home page Maven + Spring + AngularJS](http://jhipster.github.io/)
@@ -259,7 +263,7 @@
 - [Sending push notifications with WNS (XAML) (Windows)](https://msdn.microsoft.com/en-us/library/windows/apps/xaml/hh868244.aspx)
 - [Windows Push Notification Server Side Helper Library](http://blogs.windows.com/buildingapps/2011/01/14/windows-push-notification-server-side-helper-library/)
 
-### <A NAME="Other "></A>Other 
+### <A NAME="Other"></A>Other 
 - [GapReload Cordova/PhoneGap plugin demo on Vimeo](http://vimeo.com/81192559)
 - [rensanning的博客 - Cordova分类文章列表 - ITeye技术网站](http://rensanning.iteye.com/category/305123)
 - [Sample Cordova Apps, developed with AppBuiler Mobile Development Platform](http://www.telerik.com/appbuilder/sample-apps)
@@ -322,6 +326,15 @@
 
 - [HipChat - Private group chat, video chat, instant messaging for teams | HipChat](https://www.hipchat.com/)
 - [Slack: Be less busy](https://slack.com/)
+
+## <A NAME="BI"></A>BI
+
+- [Using Eclipse BIRT Report Libraries and Templates](http://www.theserverside.com/news/1364376/Using-Eclipse-BIRT-Report-Libraries-and-Templates)
+- [Birt Documentation](http://eclipse.org/birt/documentation/tutorial/)
+- [Overview of BIRT: an open-source reporting platform for Java - YouTube](https://www.youtube.com/watch?v=39W8-9tUiOU)
+- [Reporting with Eclipse BIRT and Java Objects (POJO's) - Tutorial](http://www.vogella.com/tutorials/EclipseBIRT/article.html)
+- [BIRT - BIRT的世界-BIRT技术漫谈 - 博客频道 - CSDN.NET](http://blog.csdn.net/birtbird/article/category/1321422)
+- [有免費軟體真好: 使用 Eclipse BIRT 寫報表_1](http://tedmyblog.blogspot.tw/search/label/%E4%BD%BF%E7%94%A8%20%20Eclipse%20BIRT%20%E5%AF%AB%E5%A0%B1%E8%A1%A8_1)
 
 ## <A NAME="Other"></A>Other
 
