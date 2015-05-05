@@ -227,6 +227,7 @@
 ### <A NAME="other"></A>other
 - [sachet - Handcraft your development environment](http://yoursachet.com/)
 - [Getting Started with Visual Studio Code | John Papa](http://www.johnpapa.net/getting-started-with-visual-studio-code/)
+- [Eclipse software repository 語言包](http://download.eclipse.org/technology/babel/update-site/R0.12.1/luna/)
 
 ## <A NAME="Mobile"></A>Mobile
 
