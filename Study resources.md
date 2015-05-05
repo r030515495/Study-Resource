@@ -44,6 +44,7 @@
 - [文件製作](#文件製作)
 - [企業通訊](#企業通訊)
 - [BI](#BI)
+- [Tutorial](#tutorial)
 - [Other](#Other)
 - [股票投資](#股票投資)
 
@@ -336,22 +337,33 @@
 - [BIRT - BIRT的世界-BIRT技术漫谈 - 博客频道 - CSDN.NET](http://blog.csdn.net/birtbird/article/category/1321422)
 - [有免費軟體真好: 使用 Eclipse BIRT 寫報表_1](http://tedmyblog.blogspot.tw/search/label/%E4%BD%BF%E7%94%A8%20%20Eclipse%20BIRT%20%E5%AF%AB%E5%A0%B1%E8%A1%A8_1)
 
+## <A NAME="tutorial"></A>Tutorial
+
+- [Eclipse, Android and Java training and support](http://www.vogella.com/)
+- [Free Online Tutorials and Courses](http://www.tutorialspoint.com/tutorialslibrary.htm)
+- [Home | getAwesomeness()](http://getawesomeness.com/)
+- [Wes Bos | Designer, Developer & Entrepreneur making the web an awesome place.](http://wesbos.com/)
+- [Video Tutorials on Web Development Negotiation Bargaining](http://www.newthinktank.com/)
+- [慕课网-免费的IT技能学习平台](http://www.imooc.com/)
+- [第七屆iT邦幫忙鐵人賽 - 「30 天學會 Web 前端效能優化」系列文章整理 « 攝理生活記](http://blog.cgmlife.net/posts/2014/11/30/ironman-seventh-it-states-help-30-days-to-learn-web-front-end-performance-optimization)
+- [由12306.cn谈谈网站性能技术 | 酷 壳 - CoolShell.cn](http://coolshell.cn/articles/6470.html)
+- [2014 第7屆iT邦幫忙鐵人賽](http://ithelp.ithome.com.tw/ironman7/app/index)
+- [LeanCloud 文档](https://leancloud.cn/docs/realtime_v2.html)
+- [15 Must-Know Chrome DevTools Tips and Tricks | Tutorialzine](http://tutorialzine.com/2015/03/15-must-know-chrome-devtools-tips-tricks/)
+- [Haskell趣學指南 (Learn You a Haskell for Great Good! 繁體中文版)](http://learnyouahaskell-zh-tw.csie.org/zh-tw/chapters.html)
+
 ## <A NAME="Other"></A>Other
 
 - [IT eBooks - Free Download - Big Library 免費電子書](http://it-ebooks.info/)
 - [Free Usenet Tools - Online Base64 Encoder and Decoder. Usenet newsgroups binaries.](http://www.webutils.pl/index.php?idx=base64)
 - [Problems | LeetCode OJ](https://oj.leetcode.com/problems/)
 - [How to Install Asterisk 11 on CentOS 6 | Inside the Asterisk](http://blogs.digium.com/2012/11/05/how-to-install-asterisk-11-on-centos-6/)
-- [Haskell趣學指南 (Learn You a Haskell for Great Good! 繁體中文版)](http://learnyouahaskell-zh-tw.csie.org/zh-tw/chapters.html)
 - [Facebook get webpage title](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2F)
 - [The Joel on Software Translation Project:萬國碼 - The Joel on Software Translation Project](http://local.joelonsoftware.com/wiki/The_Joel_on_Software_Translation_Project:%E8%90%AC%E5%9C%8B%E7%A2%BC)
 - [Coursera startup engineering](https://www.coursera.org/course/startup)
 - [SSD Cloud Server, VPS Server, Simple Cloud Hosting | DigitalOcean](https://www.digitalocean.com/)
 - [Deploy applications to a remote WildFly Server using Eclipse](http://www.mastertheboss.com/eclipse/jboss-tools/deploy-applications-to-a-remote-wildfly-server-using-eclipse)
-- [慕课网-免费的IT技能学习平台](http://www.imooc.com/)
 - [Icovia® Space Planner 線上化室內設計圖](http://urbanbarn.icovia.com/icovia.aspx)
-- [第七屆iT邦幫忙鐵人賽 - 「30 天學會 Web 前端效能優化」系列文章整理 « 攝理生活記](http://blog.cgmlife.net/posts/2014/11/30/ironman-seventh-it-states-help-30-days-to-learn-web-front-end-performance-optimization)
-- [由12306.cn谈谈网站性能技术 | 酷 壳 - CoolShell.cn](http://coolshell.cn/articles/6470.html)
 - [searchcode | source code search engine](https://searchcode.com/)
 - [ImageMagick使用心得](http://www.charry.org/docs/linux/ImageMagick/ImageMagick.html)
 - [開源10大兵器排行榜 | iThome](http://www.ithome.com.tw/voice/93580)
@@ -361,21 +373,13 @@
 - [網路爬蟲 網站 API 化 Kimono : Turn websites into structured APIs from your browser in seconds](https://www.kimonolabs.com/)
 - [Polaris Office](https://www.polarisoffice.com/)
 - [英中繁簡編程術語對照](http://jjhou.boolan.com/terms.htm) 
-- [2014 第7屆iT邦幫忙鐵人賽](http://ithelp.ithome.com.tw/ironman7/app/index)
 - [Get Code | Wickedly Smart](http://wickedlysmart.com/get-code/)
 - [Convert an AVCHD / MTS file to MP4 using ffmpeg - PvdMWiki](http://pvdm.xs4all.nl/wiki/index.php/Convert_an_AVCHD_/_MTS_file_to_MP4_using_ffmpeg)
 - [Windows 8.1 測試用如何在Windows 8.1上裝Mac OS X - Michael的學習屋- 點部落](http://www.dotblogs.com.tw/michael80321/archive/2015/01/22/148226.aspx)
-- [LeanCloud 文档](https://leancloud.cn/docs/realtime_v2.html)
-- [15 Must-Know Chrome DevTools Tips and Tricks | Tutorialzine](http://tutorialzine.com/2015/03/15-must-know-chrome-devtools-tips-tricks/)
 - [I code it](http://icodeit.org/) 
 - [Create LaTeX tables online](http://www.tablesgenerator.com/)
-- [Wes Bos | Designer, Developer & Entrepreneur making the web an awesome place.](http://wesbos.com/)
-- [wesbos (Wes Bos) · GitHub](https://github.com/wesbos)
-- [Video Tutorials on Web Development Negotiation Bargaining](http://www.newthinktank.com/)
 - [Recordit: Record screencasts fast & free! with GIF Support!](http://recordit.co/)
 - [Top Java GitHub developers in Taiwan](http://github-awards.com/users?utf8=%E2%9C%93&type=country&language=Java&country=Taiwan)
-- [Home | getAwesomeness()](http://getawesomeness.com/)
-- [Free Online Tutorials and Courses](http://www.tutorialspoint.com/tutorialslibrary.htm)
 
 ## <A NAME="股票投資"></A>股票投資
 
