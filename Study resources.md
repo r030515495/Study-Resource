@@ -113,6 +113,7 @@
 - [The Angular Course](http://www.angularcourse.com/#/)
 - [AngularJS Tutorial | Learn Angular by Building a Gmail Clone](http://www.thinkful.com/learn/angularjs-tutorial-build-a-gmail-clone/Complete-Project)
 - [《面向未来的前端模块化开发与包管理》](http://segmentfault.com/a/1190000002680386?utm_source=Twitter&utm_medium=shareLink&utm_campaign=socialShare)
+- [Java is always EExcellent: AngularJS 系列](http://programer-learn.blogspot.tw/p/angularjs.html)
 
 ### <A NAME="HTML5"></A>HTML5
 - [The Web Platform: Browser technologies](https://platform.html5.org/)
