@@ -289,6 +289,7 @@
 - [我和 Google 的故事（2015 修订版）](http://www.yinwang.org/blog-cn/2014/12/31/google-story/)
 - [不妥協的河蟹之道](http://www.slideshare.net/KenKuan1/ss-47074832)
 - [架构之重构的12条军规（上）](http://www.infoq.com/cn/articles/architect-12-rules)
+- [写给初学前端工程师的一封信 - w3ctech - 中国最大的前端技术社区](http://www.w3ctech.com/topic/983)
 
 ## <A NAME="虛擬化"></A>虛擬化
 
