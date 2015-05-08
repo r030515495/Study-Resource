@@ -155,7 +155,9 @@
 - [[Asp.Net 5]使用Mac建立Asp.Net 5的MVC網站初體驗 « 愛流浪的小風](http://kirkchen.logdown.com/posts/262832-aspnet-5-first-experience-using-mac-aspnet-mvc-sites-5)
 
 ### <A NAME="JAVA"></A>JAVA
+
 - [詳細的 Maven介紹](https://code.google.com/p/javawiki/wiki/StarupMaven?wl=zh-Hant)
+- [Maven 实战](http://www.infoq.com/cn/maven-practice)
 - [Java SWING](http://docs.oracle.com/javase/tutorial/uiswing/examples/components/index.html#table)
 - [ Java Tutorial  ](http://www.java2s.com/Tutorial/Java/CatalogJava.htm)
 - [Java PDF Generation with IText](http://tutorials.jenkov.com/java-itext/index.html)
@@ -179,6 +181,7 @@
 - [Java "Back to Basics" Tutorial | Baeldung](http://www.baeldung.com/java-tutorial)
 - [55 New Features in Java 7](http://www.slideshare.net/boulderjug/55-things-in-java-7)
 - [55 New Features in Java SE 8](http://www.slideshare.net/SimonRitter/javase8-55thingsv2-sritter?related=1)
+- [Java Tutorial - Tutorial on Java, Spring, Web Services and Open source technologies](http://javahash.com/)
 
 ### <A NAME="JAVA Template"></A>JAVA Template
 - [JHipster home page Maven + Spring + AngularJS](http://jhipster.github.io/)
@@ -253,6 +256,7 @@
 - [android轮询最佳实践service+AlarmManager+Thread - 泡在网上的日子](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2014/0401/1609.html)
 - [Material Design 引領的設計趨勢 - Inside 硬塞的網路趨勢觀察](http://www.inside.com.tw/2014/08/15/material-design-trend)
 - [Android Design](http://mirrors.segmentfault.com/adchs/index.html)
+- [推薦五個熱門 Google 材質設計框架 (Material Design Framework) « 關於網路那些事...](http://adon988.logdown.com/posts/263691-recommend-some-good-google-material-design-framework)
 
 ### <A NAME="IOS"></A>IOS 
 
@@ -354,6 +358,8 @@
 - [LeanCloud 文档](https://leancloud.cn/docs/realtime_v2.html)
 - [15 Must-Know Chrome DevTools Tips and Tricks | Tutorialzine](http://tutorialzine.com/2015/03/15-must-know-chrome-devtools-tips-tricks/)
 - [Haskell趣學指南 (Learn You a Haskell for Great Good! 繁體中文版)](http://learnyouahaskell-zh-tw.csie.org/zh-tw/chapters.html)
+- [Coursera：一流大學免費在線課程平台 | Coursera](https://zh-tw.coursera.org/)
+- [前端网址导航 - WHYCSS](http://www.whycss.com/)
 
 ## <A NAME="Other"></A>Other
 
@@ -363,7 +369,6 @@
 - [How to Install Asterisk 11 on CentOS 6 | Inside the Asterisk](http://blogs.digium.com/2012/11/05/how-to-install-asterisk-11-on-centos-6/)
 - [Facebook get webpage title](https://www.facebook.com/login.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2F)
 - [The Joel on Software Translation Project:萬國碼 - The Joel on Software Translation Project](http://local.joelonsoftware.com/wiki/The_Joel_on_Software_Translation_Project:%E8%90%AC%E5%9C%8B%E7%A2%BC)
-- [Coursera startup engineering](https://www.coursera.org/course/startup)
 - [SSD Cloud Server, VPS Server, Simple Cloud Hosting | DigitalOcean](https://www.digitalocean.com/)
 - [Deploy applications to a remote WildFly Server using Eclipse](http://www.mastertheboss.com/eclipse/jboss-tools/deploy-applications-to-a-remote-wildfly-server-using-eclipse)
 - [Icovia® Space Planner 線上化室內設計圖](http://urbanbarn.icovia.com/icovia.aspx)

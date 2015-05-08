@@ -27,7 +27,7 @@
 <plugin>
 	<groupId>org.apache.maven.plugins</groupId>
 	<artifactId>maven-antrun-plugin</artifactId>
-	<version>1.1</version>
+	<version>1.8</version>
 	<executions>
 		<execution>
 			<phase>package</phase>
@@ -60,5 +60,36 @@
 	</configuration>
 </plugin>
 ```
+
+分析 Pom.xml 的相依情形
+
+
+```
+mvn dependency:analyze
+
+Used undeclared dependencies  表示有使用但沒有定義在自己的 pom 上	
+
+Unused declared dependencies 沒有使用到的 dependencies
+```
+顯示 Maven Properties 可用的
+
+```
+mvn help:expressions
+```
+
+將 pom.xml 上的相依 jar 檔，複製到指定目錄
+
+```
+<plugin>
+	<groupId>org.apache.maven.plugins</groupId>
+	<artifactId>maven-dependency-plugin</artifactId>
+	<version>2.10</version>
+	<configuration>
+		<outputDirectory>${basedir}/lib</outputDirectory>
+	</configuration>
+</plugin>
+```
+
+
 
 
