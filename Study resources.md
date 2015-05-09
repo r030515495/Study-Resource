@@ -182,6 +182,7 @@
 - [55 New Features in Java 7](http://www.slideshare.net/boulderjug/55-things-in-java-7)
 - [55 New Features in Java SE 8](http://www.slideshare.net/SimonRitter/javase8-55thingsv2-sritter?related=1)
 - [Java Tutorial - Tutorial on Java, Spring, Web Services and Open source technologies](http://javahash.com/)
+- [Spring Security + Hibernate XML Example](http://www.mkyong.com/spring-security/spring-security-hibernate-xml-example/)
 
 ### <A NAME="JAVA Template"></A>JAVA Template
 - [JHipster home page Maven + Spring + AngularJS](http://jhipster.github.io/)
@@ -360,6 +361,7 @@
 - [Haskell趣學指南 (Learn You a Haskell for Great Good! 繁體中文版)](http://learnyouahaskell-zh-tw.csie.org/zh-tw/chapters.html)
 - [Coursera：一流大學免費在線課程平台 | Coursera](https://zh-tw.coursera.org/)
 - [前端网址导航 - WHYCSS](http://www.whycss.com/)
+- [the Open Tutorials](http://theopentutorials.com/)
 
 ## <A NAME="Other"></A>Other
 

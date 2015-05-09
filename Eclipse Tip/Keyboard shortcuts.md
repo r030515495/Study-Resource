@@ -9,7 +9,7 @@
 
 Kepler
 
-## 快速鍵（ Keyboard short ）
+## 快速鍵（ Keyboard shortcuts ）
 
 有些按鍵可能會不太一樣，
 可以用英文名去搜尋快速鍵名稱後，
