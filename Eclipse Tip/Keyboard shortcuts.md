@@ -59,4 +59,72 @@ Mac key image
  Restore Last Selection <br> 漸進還原選取 | ⇧ + ⌥ + D | Alt + Shift +  ↓
  Quick hierarchy <br> 顯示程式階層| ⌘ + T | Ctrl + T
  Open Type hierarchy<br> 顯示該 Class jar 檔位置| F4 | F4
+ 快速打開 Preferences| ⌘ + , | 未知| 這其實是 Mac 的預設，不確定 Windows 有沒有
+
+## 沒有設定快捷鍵的方法
+
+有些常用的在 key map 有方法但是沒有預設鍵值，可以自訂
+
+| command | 說明|
+| ------- | ---- |
+|Rerun JUnit Test  |重新執行上一個 Junit Test
+
+
+## 程式碼範本 (Template)
+
+在程式編輯視窗打入特定單字，並按下 altr + / 會出現程式的範本
+
+以下是常用的部份，其他可在 `Java -> Editor -> Templates` 中，查詢或自訂。
+
+System.out.println
+
+`syso`
+
+main 方法
+
+`main` 
+
+自動產生 for
+
+`for`
+
+自動產生上一個  Iterable 的迴圈
+
+`foreach`
+
+產生 junit 方法
+
+`test`
+
+產生 if 方法
+
+`if`
+
+產生 if else 方法
+
+`ifelse`
+
+
+## 建議設定 (Preferences)
+
+儲存 Java 檔案後自動格式化程式，和管理 import 
+
+`Java -> Editor -> Save Actions`
+
+儲存 JavaScript 檔案後自動格式化程式，和管理 import 
+
+`JavaScript -> Editor -> Save Actions`
+
+讓導覽列的 Run/Debug 總是執行之前的 (預設是執行當前視窗)
+
+`Run/Debug -> Launching - Lanunch Operation - Always launch the previously launched application `
+
+讓常用的 package 比較容易出現
+
+```
+Java -> Editor ->  Content Assist -> Favorites
+
+加入 org.junit.Assert
+
+```
 
