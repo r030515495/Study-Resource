@@ -2,7 +2,7 @@
 
 - 取得影片截圖 
 
-	```
+	```sh
 	-f 圖片格式
 	-ss 截圖時間
 	-vframes 影像擷取張數
@@ -12,7 +12,7 @@
 
 - 取得影片特定範圍
 
-	```
+	```sh
 	-ss 開始時間
 	-t 擷取秒數
 	-c:v 擷取影像
@@ -23,7 +23,7 @@
 
 - AVI TO FLV
 
-	```
+	```sh
 	-y 若檔案有存在是否要覆蓋原檔
 	-b:a
 	-b:v
@@ -35,25 +35,25 @@
 	
 - 合併 DVD 檔案 to mp4
 
-	```
+	```sh
 	ffmpeg -i "concat:01.VOB|02.VOB|03.VOB|04.VOB" -f mpeg -c copy output.mp4
 	```
 	
 - FLV to mp4
 
-	```
+	```sh
 	ffmpeg -i tmp.flv -ar 22050 output.avi
 	```
 
 - M4A to MP3
 
 
-	```
+	```sh
 	ffmpeg -i input.m4a -acodec libmp3lame -ab 128k output.mp3
 	```
 
 - ISO to mp4
 
-	```
+	```sh
 	HandBrakeCLI -Z "High Profile" -i a_movie.iso -o a_movie.mp4
 	```

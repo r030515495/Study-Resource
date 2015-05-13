@@ -2,7 +2,7 @@
 
 可以將相依的 jar 也包進去的
 
-```
+```xml
 <plugin>
 	<artifactId>maven-assembly-plugin</artifactId>
 		<configuration>
@@ -23,7 +23,7 @@
 
 使用 Ant 複製檔案
 
-```
+```xml
 <plugin>
 	<groupId>org.apache.maven.plugins</groupId>
 	<artifactId>maven-antrun-plugin</artifactId>
@@ -47,7 +47,7 @@
 
 產生程式碼覆蓋率報表
 
-```
+```xml
 <plugin>
 	<groupId>org.codehaus.mojo</groupId>
 	<artifactId>cobertura-maven-plugin</artifactId>
@@ -79,7 +79,7 @@ mvn help:expressions
 
 將 pom.xml 上的相依 jar 檔，複製到指定目錄
 
-```
+```xml
 <plugin>
 	<groupId>org.apache.maven.plugins</groupId>
 	<artifactId>maven-dependency-plugin</artifactId>
@@ -90,6 +90,8 @@ mvn help:expressions
 </plugin>
 ```
 
+清除 eclipse 原本的設定重新設定
 
-
-
+```sh
+eclipse:clean eclipse:eclipse eclipse:configure-workspace  -Declipse.workspace="your Eclipse Workspace"
+```
