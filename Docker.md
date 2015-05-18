@@ -16,6 +16,20 @@ boot2docker stop # 停止 boot2docker
 boot2docker upgrade # 更新 boot2docker
 ```
 
+## docker 指令
+
+```sh
+
+docker ps # 顯示執行中的 container 
+docker ps -a  # 顯示執行過的 docker container 
+docker run ubuntu:14.04 # 安裝和執行 ubuntu:14.04
+docker run ubuntu:14.04 -d -p 9999:80 -v /usr:/web  # -d 背景執行 ，-p 對外的 Port:內部的 Port 、-v 參數要同步的資料夾、。
+docker stop  ${container id or name}# 停止指定的 container
+docker rm    ${container id or name}# 刪除指定的 container
+docker start ${container id or name}# 啟動已經停止的 container
+docker logs  ${container id or name}# 顯示 container 執行的 log 
+```
+
 ## 設定靜態網路
 
 增加 VirtualBox 的網路介面，橋接介面卡。
@@ -50,7 +64,7 @@ sudo chmod 755 /var/lib/boot2docker/bootlocal.sh
 啟動 jenkins 在 8080 port ，對外為 9000 , 設定 jenkins_homme 目錄
 
 ``` sh
-docker run -p 9000:8080 -v /your/home:/var/jenkins_home jenkins
+docker run --name=jenkins -p 9000:8080 -v /Users/rex/Downloads/jenkins:/var/jenkins_home jenkins
 ```
 
 設定到本機指定目錄
@@ -61,27 +75,44 @@ docker run -p 9000:8080 -v /your/home:/var/jenkins_home jenkins
 
 [sameersbn/docker-redmine · GitHub](https://github.com/sameersbn/docker-redmine)
 
-啟動 postgresql db
+第一次啟動和安裝 postgresql db
 
 ```sh
 docker run --name=postgresql-redmine -d \
   --env='DB_NAME=redmine_production' \
   --env='DB_USER=redmine' --env='DB_PASS=password' \
-  --volume=/srv/docker/redmine/postgresql:/var/lib/postgresql \
+  -v=/srv/docker/redmine/postgresql:/var/lib/postgresql \
   sameersbn/postgresql:9.4  
 ```
 
 設定到本機指定目錄
-  --volume=virtualbox 掛載位置 :/var/lib/postgresql
+ 	-v=virtualbox 掛載位置 :/var/lib/postgresql
 
-啟動 redmine
+第一次啟動和安裝 redmine
 
 ```sh
 docker run --name=redmine -d \
-  --link=postgresql-redmine:postgresql --publish=10083:80 \
+  --link=postgresql-redmine:postgresql -p=10083:80 \
   --env='REDMINE_PORT=10083' \
-  --volume=/srv/docker/redmine/redmine:/home/redmine/data \
+  -v=/srv/docker/redmine/redmine:/home/redmine/data \
   sameersbn/redmine:3.0.3
 ```
+
+以後只要執行
+
+```sh
+docker start postgresql-redmine
+
+docker start redmine
+
+```
+停止 container
+
+```sh
+docker stop redmine
+
+docker stop postgresql-redmine
+```
+
 設定到本機指定目錄
-  --volume=virtualbox 掛載位置 :/home/redmine/data
+  -v=virtualbox 掛載位置 :/home/redmine/data
