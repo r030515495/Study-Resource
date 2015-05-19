@@ -28,6 +28,7 @@ docker stop  ${container id or name}# 停止指定的 container
 docker rm    ${container id or name}# 刪除指定的 container
 docker start ${container id or name}# 啟動已經停止的 container
 docker logs  ${container id or name}# 顯示 container 執行的 log 
+docker run -i -t ubuntu /bin/bash # ssh 一個 container
 ```
 
 ## 設定靜態網路
@@ -92,8 +93,8 @@ docker run --name=postgresql-redmine -d \
 
 ```sh
 docker run --name=redmine -d \
-  --link=postgresql-redmine:postgresql -p=10083:80 \
-  --env='REDMINE_PORT=10083' \
+  --link=postgresql-redmine:postgresql -p=9001:80 \
+  --env='REDMINE_PORT=9001' \
   -v=/srv/docker/redmine/redmine:/home/redmine/data \
   sameersbn/redmine:3.0.3
 ```
