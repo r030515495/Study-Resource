@@ -117,3 +117,13 @@ docker stop postgresql-redmine
 
 設定到本機指定目錄
   -v=virtualbox 掛載位置 :/home/redmine/data
+  
+  
+## 問題
+- 遇到 -v 參數沒有作用時，要指定該目錄的權限
+
+```sh  
+sudo chown 1000 /home/core/jenkins/
+
+sudo usermod -a -G docker root
+```
