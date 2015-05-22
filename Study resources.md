@@ -183,6 +183,9 @@
 - [55 New Features in Java SE 8](http://www.slideshare.net/SimonRitter/javase8-55thingsv2-sritter?related=1)
 - [Java Tutorial - Tutorial on Java, Spring, Web Services and Open source technologies](http://javahash.com/)
 - [Spring Security + Hibernate XML Example](http://www.mkyong.com/spring-security/spring-security-hibernate-xml-example/)
+- [HtmlUnit – Welcome to HtmlUnit](http://htmlunit.sourceforge.net/)
+- [Selenium WebDriver](http://docs.seleniumhq.org/projects/webdriver/)
+- [jsoup Java HTML Parser, with best of DOM, CSS, and jquery](http://jsoup.org/)
 
 ### <A NAME="JAVA Template"></A>JAVA Template
 - [JHipster home page Maven + Spring + AngularJS](http://jhipster.github.io/)

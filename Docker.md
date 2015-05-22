@@ -28,7 +28,8 @@ docker stop  ${container id or name}# 停止指定的 container
 docker rm    ${container id or name}# 刪除指定的 container
 docker start ${container id or name}# 啟動已經停止的 container
 docker logs  ${container id or name}# 顯示 container 執行的 log 
-docker run -i -t ubuntu /bin/bash # ssh 一個 container
+docker exec -it jenkins bash # ssh 一個 name 為 jenkins 的 container
+docker cp postgresql-redmine:/var/lib/postgresql ~/redmine/postgresql # 複製 postgresql-redmine contaniner 的內容到 本機目錄 ~/redmine/postgresql 下
 ```
 
 ## 設定靜態網路
@@ -62,14 +63,19 @@ sudo chmod 755 /var/lib/boot2docker/bootlocal.sh
 
 [jenkinsci/docker · GitHub](https://github.com/jenkinsci/docker)
 
-啟動 jenkins 在 8080 port ，對外為 9000 , 設定 jenkins_homme 目錄
 
 ``` sh
-docker run --name=jenkins -p 9000:8080 -v /Users/rex/Downloads/jenkins:/var/jenkins_home jenkins
+docker run --name=jenkins -d -p 9000:8080 \
+	-v /etc/localtime:/etc/localtime   \
+	-v ~/jenkins:/var/jenkins_home jenkins
 ```
 
 設定到本機指定目錄
-  --volume=virtualbox 掛載位置 :/var/jenkins_home
+-d 背景執行
+-p 啟動 jenkins 在 8080 port ，對外為 9000 
+-v 等於  --volume=virtualbox 掛載位置 :/var/jenkins_home
+
+localtime 是為了讓與 host 時區相同
 
 
 ## 增加 redmin Docker
@@ -82,12 +88,10 @@ docker run --name=jenkins -p 9000:8080 -v /Users/rex/Downloads/jenkins:/var/jenk
 docker run --name=postgresql-redmine -d \
   --env='DB_NAME=redmine_production' \
   --env='DB_USER=redmine' --env='DB_PASS=password' \
-  -v=/srv/docker/redmine/postgresql:/var/lib/postgresql \
-  sameersbn/postgresql:9.4  
+  -v ~/redmine/postgresql:/var/lib/postgresql \
+  -v /etc/localtime:/etc/localtime \
+  sameersbn/postgresql:9.4
 ```
-
-設定到本機指定目錄
- 	-v=virtualbox 掛載位置 :/var/lib/postgresql
 
 第一次啟動和安裝 redmine
 
@@ -95,7 +99,7 @@ docker run --name=postgresql-redmine -d \
 docker run --name=redmine -d \
   --link=postgresql-redmine:postgresql -p=9001:80 \
   --env='REDMINE_PORT=9001' \
-  -v=/srv/docker/redmine/redmine:/home/redmine/data \
+  -v=~/redmine/redmine:/home/redmine/data \
   sameersbn/redmine:3.0.3
 ```
 
@@ -108,19 +112,16 @@ docker start redmine
 
 ```
 停止 container
-
+re
 ```sh
 docker stop redmine
 
 docker stop postgresql-redmine
-```
-
-設定到本機指定目錄
-  -v=virtualbox 掛載位置 :/home/redmine/data
-  
+```  
   
 ## 問題
-- 遇到 -v 參數沒有作用時，要指定該目錄的權限
+
+- 遇到 -v 參數沒有作用或 Permission denied 時，要指定該目錄的權限
 
 ```sh  
 sudo chown 1000 /home/core/jenkins/
