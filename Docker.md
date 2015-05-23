@@ -99,8 +99,9 @@ docker run --name=postgresql-redmine -d \
 docker run --name=redmine -d \
   --link=postgresql-redmine:postgresql -p=9001:80 \
   --env='REDMINE_PORT=9001' \
-  -v=~/redmine/redmine:/home/redmine/data \
-  sameersbn/redmine:3.0.3
+  -v ~/redmine/redmine:/home/redmine/data \
+  -v /etc/localtime:/etc/localtime \
+  sameersbn/redmine:3.0.3pwd
 ```
 
 以後只要執行
