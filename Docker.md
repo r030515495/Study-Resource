@@ -101,7 +101,7 @@ docker run --name=redmine -d \
   --env='REDMINE_PORT=9001' \
   -v ~/redmine/redmine:/home/redmine/data \
   -v /etc/localtime:/etc/localtime \
-  sameersbn/redmine:3.0.3pwd
+  sameersbn/redmine:3.0.3
 ```
 
 以後只要執行
