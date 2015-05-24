@@ -87,12 +87,12 @@
 	;;
 
 	stop)
-	        exec ~/stop-service.sh
+	    exec ~/stop-service.sh
 	;;
 
 	restart)
-	        $0 stop
-	        $0 start
+	    $0 stop
+	    $0 start
 	;;
 
 	status)
@@ -100,14 +100,15 @@
 	;;
 
 	*)
-	        echo "Usage: $0 {start|stop|restart|status}"
-	        exit 1
+	    echo "Usage: $0 {start|stop|restart|status}"
+	    exit 1
 	esac
 	```
 	
 	註冊服務
 	
 	```sh
+	sudo chmod 755 testService
 	sudo chmod -x testService
 	sudo /sbin/chkconfig --add testService
 	sudo /sbin/chkconfig --list testService

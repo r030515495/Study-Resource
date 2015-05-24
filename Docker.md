@@ -112,8 +112,11 @@ docker start postgresql-redmine
 docker start redmine
 
 ```
+
+
 停止 container
-re
+
+
 ```sh
 docker stop redmine
 
@@ -125,7 +128,9 @@ docker stop postgresql-redmine
 - 遇到 -v 參數沒有作用或 Permission denied 時，要指定該目錄的權限
 
 ```sh  
-sudo chown 1000 /home/core/jenkins/
+sudo chown 1000 ~/jenkins # 修改目錄的擁有者
 
-sudo usermod -a -G docker root
+sudo usermod -a -G docker root # 把 root 權限加入到 docker 的群組裡
+
+chgrp -hR  1000 ~/jenkins # 修改改目錄擁有的群組，包括子目錄。
 ```
