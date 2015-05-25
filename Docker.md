@@ -66,12 +66,14 @@ sudo chmod 755 /var/lib/boot2docker/bootlocal.sh
 
 ``` sh
 docker run --name=jenkins -d -p 9000:8080 \
-	-v /etc/localtime:/etc/localtime   \
+	--env JAVA_OPTS=-Duser.timezone=Asia/Taipei \
+	-v /etc/localtime:/etc/localtime \
 	-v ~/jenkins:/var/jenkins_home jenkins
 ```
 
 設定到本機指定目錄
 -d 背景執行
+-- env 設定 jenkins 使用的時區
 -p 啟動 jenkins 在 8080 port ，對外為 9000 
 -v 等於  --volume=virtualbox 掛載位置 :/var/jenkins_home
 
