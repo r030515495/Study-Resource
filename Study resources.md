@@ -186,6 +186,7 @@
 - [HtmlUnit – Welcome to HtmlUnit](http://htmlunit.sourceforge.net/)
 - [Selenium WebDriver](http://docs.seleniumhq.org/projects/webdriver/)
 - [jsoup Java HTML Parser, with best of DOM, CSS, and jquery](http://jsoup.org/)
+- [Videos](http://kotlinlang.org/docs/videos.html)
 
 ### <A NAME="JAVA Template"></A>JAVA Template
 - [JHipster home page Maven + Spring + AngularJS](http://jhipster.github.io/)
@@ -365,6 +366,7 @@
 - [Coursera：一流大學免費在線課程平台 | Coursera](https://zh-tw.coursera.org/)
 - [前端网址导航 - WHYCSS](http://www.whycss.com/)
 - [the Open Tutorials](http://theopentutorials.com/)
+- [Learn X in Y Minutes: Scenic Programming Language Tours](http://learnxinyminutes.com/)
 
 ## <A NAME="Other"></A>Other
 

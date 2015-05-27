@@ -1,5 +1,20 @@
 # MAVEN 筆記
 
+
+設定 properties 這些是 maven 預設抓取的值，沒有設定的話會使用系統設定
+
+```xml
+<properties>
+	<!-- 專案的編碼設定 -->
+	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	<!-- 專案的預設 java 版本 -->
+	<maven.compiler.source>1.8</maven.compiler.source>
+	<maven.compiler.target>1.8</maven.compiler.target>
+	<maven.compiler.compilerVersion>1.8</maven.compiler.compilerVersion>
+</properties>
+
+```
+
 可以將相依的 jar 也包進去的
 
 ```xml
