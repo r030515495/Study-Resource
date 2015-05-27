@@ -110,3 +110,10 @@ mvn help:expressions
 ```sh
 eclipse:clean eclipse:eclipse eclipse:configure-workspace  -Declipse.workspace="your Eclipse Workspace"
 ```
+
+- 如果遇到 No plugin found for prefix 'wildfly' ，要在 maven 的 setting.xml 加入以下，maven 才有辦法辨識
+```xml
+<pluginGroups>
+  <pluginGroup>org.wildfly.plugins</pluginGroup>
+</pluginGroups>
+```
