@@ -15,7 +15,7 @@
     - [AngularJs](#AngularJs)
     - [HTML5](#HTML5)
 - [後端](#後端)
-    - [Rbuy](#Rbuy)
+    - [Ruby](#Ruby)
     - [Python](#Python)
     - [NodeJs](#NodeJs)
     - [DotNet](#DotNet)
@@ -106,6 +106,7 @@
 - [React Native Fundamentals - Video Tutorial Series @eggheadio](https://egghead.io/series/react-native-fundamentals)
 - [JSX · Babel](https://babeljs.io/docs/usage/jsx/)
 - [Creating A Simple Shopping Cart with React.js and Flux | Scotch](https://scotch.io/tutorials/creating-a-simple-shopping-cart-with-react-js-and-flux)
+- [ele828/React-Native学习指南 · GitHub](https://github.com/ele828/react-native-guide)
 
 #### <A NAME="AngularJs"></A>AngularJs
 - [johnpapa/angularjs-styleguide · GitHub](https://github.com/johnpapa/angularjs-styleguide)
@@ -123,11 +124,15 @@
 ## <A NAME="後端"></A>後端
 
 
-### <A NAME="Rbuy"></A>Rbuy
+### <A NAME="Ruby"></A>Ruby
 
 - [Learn Ruby The Hard Way — Learn Ruby The Hard Way](http://ruby.learncodethehardway.org/book/)
 - [railsbridge-docs-zh-tw](http://railsbridge-docs-zh-tw.herokuapp.com/)
 - [我是這樣學會 Ruby on Rails：12 個星期打造 12 個網頁 APP - Inside 硬塞的網路趨勢觀察](http://www.inside.com.tw/2015/01/27/how-i-finally-learned-to-build-stuff-with-rails)
+- [Land Dream Rails Job | Growth School](http://growth.xdite.net/courses/land-dream-rails-job)
+- [Rails 101 | Growth School](http://growth.xdite.net/courses/rails-101)
+- [RSpec on Rails Tutorial](http://www.slideshare.net/ihower/rspec-on-rails)
+- [RSpec-Rails (基礎篇) | 特快車 | Ruby, Rails, 各種技術教學分享](http://motion-express.com/trainings/rspec-rails-1)
 
 
 ### <A NAME="Python"></A>Python
@@ -287,6 +292,7 @@
 
 - [DevOps：持續整合＆持續交付（Docker、CircleCI、AWS）](http://blog.amowu.com/2015/04/devops-continuous-integration-delivery-docker-circleci-aws-beanstalk.html)
 - [CI Server 30 - Jenkins總回顧 - iT邦幫忙::IT知識分享社群](http://ithelp.ithome.com.tw/question/10109773)
+- [幾霸摳 有很多 jenkins 的相關資訊](http://www.gibar.co/?view=timeslide)
 
 ## <A NAME="理念"></A>理念
 
@@ -311,6 +317,7 @@
 - [猴子都能懂的GIT入门 | 贝格乐（Backlog）](http://backlogtool.com/git-guide/cn/)
 - [打造專屬於你的 Git 工作流程 — Alias、Commands、Hooks | Mozilla Tech | 謀智台客](http://tech.mozilla.com.tw/posts/5306/%E6%89%93%E9%80%A0%E5%B0%88%E5%B1%AC%E6%96%BC%E4%BD%A0%E7%9A%84-git-%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%A8%8B-alias%E3%80%81commands%E3%80%81hooks)
 - [Most common git screwups/questions and solutions - 41J Blog](http://41j.com/blog/2015/02/common-git-screwupsquestions-solutions/)
+- [Git rebase 和 merge 合併操作示範錄影 | ihower { blogging }](https://ihower.tw/blog/archives/6704)
 
 ## <A NAME="Regulex"></A>Regulex
 
@@ -367,6 +374,7 @@
 - [前端网址导航 - WHYCSS](http://www.whycss.com/)
 - [the Open Tutorials](http://theopentutorials.com/)
 - [Learn X in Y Minutes: Scenic Programming Language Tours](http://learnxinyminutes.com/)
+- [Courses | Scotch](https://scotch.io/courses)
 
 ## <A NAME="Other"></A>Other
 
@@ -396,6 +404,7 @@
 - [Recordit: Record screencasts fast & free! with GIF Support!](http://recordit.co/)
 - [Top Java GitHub developers in Taiwan](http://github-awards.com/users?utf8=%E2%9C%93&type=country&language=Java&country=Taiwan)
 - [好厲害的 coding 終極技術指南！Google 工程師都照做練功的 | TechOrange](http://buzzorange.com/techorange/2015/05/17/google-engineer-pack/)
+- [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-4.html#%_toc_start)
 
 ## <A NAME="股票投資"></A>股票投資
 
