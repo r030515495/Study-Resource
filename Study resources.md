@@ -93,6 +93,8 @@
 - [现代JavaScript开发者的工具箱](http://www.infoq.com/cn/articles/modern-javascript-toolbox)
 - [Common Misconceptions About Inheritance in JavaScript — JavaScript Scene — Medium](https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a)
 - [JavaScript判断IE各版本最完美解决方案 · Issue #12 · nioteam/jquery-plugins · GitHub](https://github.com/nioteam/jquery-plugins/issues/12)
+- [coodoo/webpack-guide · GitHub](https://github.com/coodoo/webpack-guide)
+- [bl.ocks.org - mbostock](http://bl.ocks.org/mbostock)
 
 
 #### <A NAME="ReactJS"></A>ReactJS
