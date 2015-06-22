@@ -76,19 +76,26 @@
 </plugin>
 ```
 
+產生 jenkins 用的 xml
+
+```sh
+cobertura:cobertura -Dcobertura.report.format=xml
+```
+
 分析 Pom.xml 的相依情形
 
 
-```
+```sh
 mvn dependency:analyze
 
 Used undeclared dependencies  表示有使用但沒有定義在自己的 pom 上	
 
 Unused declared dependencies 沒有使用到的 dependencies
 ```
+
 顯示 Maven Properties 可用的
 
-```
+```sh
 mvn help:expressions
 ```
 
@@ -112,6 +119,7 @@ eclipse:clean eclipse:eclipse eclipse:configure-workspace  -Declipse.workspace="
 ```
 
 - 如果遇到 No plugin found for prefix 'wildfly' ，要在 maven 的 setting.xml 加入以下，maven 才有辦法辨識
+
 ```xml
 <pluginGroups>
   <pluginGroup>org.wildfly.plugins</pluginGroup>

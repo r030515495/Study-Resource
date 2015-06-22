@@ -74,6 +74,9 @@
 - [Free Vectors, Stock Vector Images, Art and Graphics - Vectorportal](http://www.vectorportal.com/)
 - [Pixabay - Free Images](http://pixabay.com/)
 - [Bootstrap中文网](http://www.bootcss.com/)
+- [Home of free code snippets for Bootstrap | Bootsnipp.com](http://bootsnipp.com/)
+- [WrapBootstrap - Bootstrap Themes & Templates](https://wrapbootstrap.com/)
+- [Black Tie – Free Handsome Bootstrap Themes](http://www.blacktie.co/)
 
 ### <A NAME="Color"></A>Color
 
@@ -109,6 +112,7 @@
 - [JSX · Babel](https://babeljs.io/docs/usage/jsx/)
 - [Creating A Simple Shopping Cart with React.js and Flux | Scotch](https://scotch.io/tutorials/creating-a-simple-shopping-cart-with-react-js-and-flux)
 - [ele828/React-Native学习指南 · GitHub](https://github.com/ele828/react-native-guide)
+- [React and ES6 - Part 1, Introduction](http://egorsmirnov.me/2015/05/22/react-and-es6-part1.html)
 
 #### <A NAME="AngularJs"></A>AngularJs
 - [johnpapa/angularjs-styleguide · GitHub](https://github.com/johnpapa/angularjs-styleguide)
