@@ -19,9 +19,12 @@ D:\mongodb_log
 將 mongodb 變成服務
 
 ```bash
-mongod.exe --dbpath=D:\Mongodb_data --logpath=D:\Mongodb_log\mongodb.log --install
-
+mongod.exe --dbpath=D:\mongodb_data --logpath=D:\mongodb_log\mongodb.log --auth --install 
 ```
+
+- --auth 啟用帳號驗證
+- --dbpath 資料儲存的位置
+- --logpath log的輸出位置
 
 啟動 mongodb
 
