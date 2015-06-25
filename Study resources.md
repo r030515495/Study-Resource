@@ -385,6 +385,7 @@
 ## <A NAME="Other"></A>Other
 
 - [IT eBooks - Free Download - Big Library 免費電子書](http://it-ebooks.info/)
+- [Ebook-dl | Free Download Ebooks & Video Tutorials](http://ebook-dl.com/)
 - [Free Usenet Tools - Online Base64 Encoder and Decoder. Usenet newsgroups binaries.](http://www.webutils.pl/index.php?idx=base64)
 - [Problems | LeetCode OJ](https://oj.leetcode.com/problems/)
 - [How to Install Asterisk 11 on CentOS 6 | Inside the Asterisk](http://blogs.digium.com/2012/11/05/how-to-install-asterisk-11-on-centos-6/)
