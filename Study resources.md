@@ -98,6 +98,7 @@
 - [JavaScript判断IE各版本最完美解决方案 · Issue #12 · nioteam/jquery-plugins · GitHub](https://github.com/nioteam/jquery-plugins/issues/12)
 - [coodoo/webpack-guide · GitHub](https://github.com/coodoo/webpack-guide)
 - [bl.ocks.org - mbostock](http://bl.ocks.org/mbostock)
+- [Learn ECMAScript6 by doing it](http://es6katas.org/)
 
 
 #### <A NAME="ReactJS"></A>ReactJS
@@ -199,6 +200,7 @@
 - [jsoup Java HTML Parser, with best of DOM, CSS, and jquery](http://jsoup.org/)
 - [Videos](http://kotlinlang.org/docs/videos.html)
 
+
 ### <A NAME="JAVA Template"></A>JAVA Template
 - [JHipster home page Maven + Spring + AngularJS](http://jhipster.github.io/)
 
@@ -273,6 +275,7 @@
 - [Material Design 引領的設計趨勢 - Inside 硬塞的網路趨勢觀察](http://www.inside.com.tw/2014/08/15/material-design-trend)
 - [Android Design](http://mirrors.segmentfault.com/adchs/index.html)
 - [推薦五個熱門 Google 材質設計框架 (Material Design Framework) « 關於網路那些事...](http://adon988.logdown.com/posts/263691-recommend-some-good-google-material-design-framework)
+- [Android Testing](http://www.slideshare.net/EvanLin3/android-testing-50032623)
 
 ### <A NAME="IOS"></A>IOS 
 
