@@ -37,7 +37,7 @@
 	# 修改大小為 80GB
 	VBoxManage modifyhd out.vdi --resize 81920
 	# 在圖型介面掛載新磁碟
- ```
+	```
  
 - 取得目前 Mac 版本
 
