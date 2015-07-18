@@ -199,7 +199,8 @@
 - [Selenium WebDriver](http://docs.seleniumhq.org/projects/webdriver/)
 - [jsoup Java HTML Parser, with best of DOM, CSS, and jquery](http://jsoup.org/)
 - [Videos](http://kotlinlang.org/docs/videos.html)
-
+- [Read What's New in Java 8 | Leanpub](https://leanpub.com/whatsnewinjava8/read)
+- [Blog - Benjamin Winterberg](http://winterbe.com/java/)
 
 ### <A NAME="JAVA Template"></A>JAVA Template
 - [JHipster home page Maven + Spring + AngularJS](http://jhipster.github.io/)
