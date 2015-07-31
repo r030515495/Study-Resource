@@ -201,6 +201,7 @@
 - [Videos](http://kotlinlang.org/docs/videos.html)
 - [Read What's New in Java 8 | Leanpub](https://leanpub.com/whatsnewinjava8/read)
 - [Blog - Benjamin Winterberg](http://winterbe.com/java/)
+- [jinahya/proguard-with-maven-example · GitHub ](https://github.com/jinahya/proguard-with-maven-example)
 
 ### <A NAME="JAVA Template"></A>JAVA Template
 - [JHipster home page Maven + Spring + AngularJS](http://jhipster.github.io/)
