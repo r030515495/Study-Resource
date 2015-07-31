@@ -59,6 +59,7 @@ Mac key image
  Restore Last Selection <br> 漸進還原選取 | ⇧ + ⌥ + D | Alt + Shift +  ↓
  Quick hierarchy <br> 顯示程式階層| ⌘ + T | Ctrl + T
  Open Type hierarchy<br> 顯示該 Class jar 檔位置| F4 | F4
+ Toggle block / column selection in the current text editor <br> 區塊選取 | ⌥ + ⌘ + A | Alt + Shift + A |按第一次變成十字符號選取，在按一次取消
  快速打開 Preferences| ⌘ + , | 未知| 這其實是 Mac 的預設，不確定 Windows 有沒有
 
 ## 沒有設定快捷鍵的方法
