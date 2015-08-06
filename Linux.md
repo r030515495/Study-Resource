@@ -134,8 +134,8 @@
 	範例
 	
 	```
-	## 每週 1-5 晚上七點執行
-		* 19 * * 1-5 sh /root/rsync-folder.sh >> /root/rsync-log/rsync.log
+	## 每週 1-5 晚上七點執行 shell
+	* 19 * * 1-5 sh /root/rsync-folder.sh
 	```
 	
 - 同步時間
