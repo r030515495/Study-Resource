@@ -114,3 +114,32 @@
 	sudo /sbin/chkconfig --list testService
 	sudo /sbin/chkconfig testService on # 設定開機啟動
 	```
+	
+- 鏡像備份資料夾
+
+	``` sh
+	rsync -av --delete /root/b /root/b /media/folor
+	# -a, --archive 備份模式，表示以遞迴方式傳輸文件，並保持所有文件屬性，等於 -rlptgoD（沒有 -H）
+	# -v, --verbose 詳細模式輸出訊息
+	# --delete 刪除傳送端已經不存在，而目的端存在的檔案
+	```
+- 執行排程
+
+	```
+	crontab -e 設定
+	crontab -l # 顯示目前所有排程
+	tail -f /var/log/cron # 查看排程執行情況
+	```
+	
+	範例
+	
+	```
+	## 每週 1-5 晚上七點執行
+		* 19 * * 1-5 sh /root/rsync-folder.sh >> /root/rsync-log/rsync.log
+	```
+	
+- 同步時間
+
+	``` sh 
+	ntpdate -s time.stdtime.gov.tw
+	```
