@@ -143,3 +143,11 @@
 	``` sh 
 	ntpdate -s time.stdtime.gov.tw
 	```
+- 依行數分割檔案
+
+	``` sh
+	split   --additional-suffix .sql -d -l 500000 output2.txt
+	# --additional-suffix 檔案後贅字
+	# -d 使用數字當做序列
+	# -l 分隔行數
+	```
