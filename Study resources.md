@@ -77,6 +77,7 @@
 - [Home of free code snippets for Bootstrap | Bootsnipp.com](http://bootsnipp.com/)
 - [WrapBootstrap - Bootstrap Themes & Templates](https://wrapbootstrap.com/)
 - [Black Tie – Free Handsome Bootstrap Themes](http://www.blacktie.co/)
+- [18 個 CSS 鬼斧神工之作! 用CSS打造出的小小兵，你看出來了嗎? « 關於網路那些事...](http://adon988.logdown.com/posts/291649-using-css-to-create-a-small-soldier-did-you-see-it)
 
 ### <A NAME="Color"></A>Color
 

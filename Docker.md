@@ -67,6 +67,7 @@ sudo chmod 755 /var/lib/boot2docker/bootlocal.sh
 ``` sh
 docker run --name=jenkins -d -p 9000:8080 \
 	--env JAVA_OPTS=-Duser.timezone=Asia/Taipei \
+	--env LANG=zh_TW.UTF-8 \
 	-v /etc/localtime:/etc/localtime \
 	-v ~/jenkins:/var/jenkins_home jenkins
 ```
