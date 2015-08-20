@@ -30,6 +30,7 @@ docker start ${container id or name}# 啟動已經停止的 container
 docker logs  ${container id or name}# 顯示 container 執行的 log 
 docker exec -it jenkins bash # ssh 一個 name 為 jenkins 的 container
 docker cp postgresql-redmine:/var/lib/postgresql ~/redmine/postgresql # 複製 postgresql-redmine contaniner 的內容到 本機目錄 ~/redmine/postgresql 下
+docker build -t jenkinsImages . # 在目前的目錄下建置 Dockerfile  變成一個 image -t 參數是別名可以用 docker run jenkinsImages 使用這個 image
 ```
 
 ## 設定靜態網路
