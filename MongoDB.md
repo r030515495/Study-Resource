@@ -44,3 +44,18 @@ http://localhost:28017/
 ```
 
 再輸入規則中要開啟這兩個 port
+
+
+
+
+
+建立使用者
+
+```bash
+mongo
+>use admin
+>db.addUser("aaa","123456")
+
+```
+
+admin 是所有 DB  控制權
