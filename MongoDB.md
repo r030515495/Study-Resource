@@ -59,3 +59,28 @@ mongo
 ```
 
 admin 是所有 DB  控制權
+
+
+匯出資料
+
+```bash
+
+mongoexport --db ga --collection UploadImage --out UploadImage.json
+
+```
+
+
+
+匯入資料
+
+```bash
+mongoimport --db db --collection UploadImage --file UploadImage.json
+```
+
+
+如果有加上 --auth 要換成 password 要用 '  包覆
+
+```base 
+mongoexport --db db  --username jcs --password 'password' --authenticationDatabase admin --collection CrawlerConfig --out CrawlerConfig.json
+
+```
