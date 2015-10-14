@@ -80,7 +80,17 @@ mongoimport --db db --collection UploadImage --file UploadImage.json
 
 如果有加上 --auth 要換成 password 要用 '  包覆
 
-```base 
+```bash 
 mongoexport --db db  --username jcs --password 'password' --authenticationDatabase admin --collection CrawlerConfig --out CrawlerConfig.json
 
+```
+
+如果要搜尋 obj 底下的 key 要用 {"chartOptions.type":"lineChart"}
+
+如果只要顯示特定欄位則是加再第二欄位 
+{"configKey":1}  只出現 configKey
+{"configKey":0}  只不出現 configKey
+
+``` bash
+db.getCollection('ModuleConfig').find({"chartOptions.type":"lineChart","showRate":true},{"configKey":1,"title":1,"module":1})
 ```
