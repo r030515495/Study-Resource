@@ -8,3 +8,10 @@
 ```xml
 <http-listener name="default" socket-binding="http" max-post-size="104857600"/>
 ```
+
+
+修改服務的使用 ram 大小 standalone.conf.bat
+
+```
+set "JAVA_OPTS=-Xms64M -Xmx1024M -XX:MaxPermSize=256M"
+```
