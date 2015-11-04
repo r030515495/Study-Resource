@@ -94,3 +94,20 @@ mongoexport --db db  --username jcs --password 'password' --authenticationDataba
 ``` bash
 db.getCollection('ModuleConfig').find({"chartOptions.type":"lineChart","showRate":true},{"configKey":1,"title":1,"module":1})
 ```
+
+group by 特定 key
+
+```
+db.getCollection('CrawlerConfig').aggregate({"$group":{"_id":"$type"}})
+```
+in 的下法
+
+```
+db.getCollection('CrawlerData').find({"number":{$in:['UK03','UK04','UK05']}})
+```
+
+like 的下法
+
+```
+db.getCollection('CrawlerData').find({"date":{$regex:'Q'}}})
+```
