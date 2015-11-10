@@ -101,6 +101,7 @@
 - [coodoo/webpack-guide · GitHub](https://github.com/coodoo/webpack-guide)
 - [bl.ocks.org - mbostock](http://bl.ocks.org/mbostock)
 - [Learn ECMAScript6 by doing it](http://es6katas.org/)
+- [react-d3](http://www.reactd3.org/)
 
 
 #### <A NAME="ReactJS"></A>ReactJS
@@ -117,6 +118,7 @@
 - [ele828/React-Native学习指南 · GitHub](https://github.com/ele828/react-native-guide)
 - [React and ES6 - Part 1, Introduction](http://egorsmirnov.me/2015/05/22/react-and-es6-part1.html)
 - [Create a character voting app using React, Node.js, MongoDB and Socket.IO](http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/)
+- [Full-Stack Redux Tutorial]http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html
 
 #### <A NAME="AngularJs"></A>AngularJs
 - [johnpapa/angularjs-styleguide · GitHub](https://github.com/johnpapa/angularjs-styleguide)
@@ -421,6 +423,7 @@
 - [Top Java GitHub developers in Taiwan](http://github-awards.com/users?utf8=%E2%9C%93&type=country&language=Java&country=Taiwan)
 - [好厲害的 coding 終極技術指南！Google 工程師都照做練功的 | TechOrange](http://buzzorange.com/techorange/2015/05/17/google-engineer-pack/)
 - [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-4.html#%_toc_start)
+- [WEB开发者应该有哪些必备的技能？ | Coder | 程序员资源网](http://info.9iphp.com/essential-skills-every-web-developer-should-have/)
 
 ## <A NAME="股票投資"></A>股票投資
 

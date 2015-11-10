@@ -111,3 +111,29 @@ like 的下法
 ```
 db.getCollection('CrawlerData').find({"date":{$regex:'Q'}}})
 ```
+
+判斷 key 值是否存在
+
+```
+db.getCollection('CrawlerData').find({"editUpdate":{$exists:true}})
+```
+
+刪除特定欄位
+
+```
+db.getCollection('CrawlerData').update(
+    // query 
+    {"editUpdate":{$exists:true}},
+    
+    // update 
+    {
+        $unset:{"editUpdate":""}
+    },
+    
+    // options 
+    {
+        "multi" : true,  // update only one document 
+        "upsert" : false  // insert a new document, if no existing document match the query 
+    }
+);
+```
