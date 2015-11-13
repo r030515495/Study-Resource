@@ -284,6 +284,7 @@
 - [Android Design](http://mirrors.segmentfault.com/adchs/index.html)
 - [推薦五個熱門 Google 材質設計框架 (Material Design Framework) « 關於網路那些事...](http://adon988.logdown.com/posts/263691-recommend-some-good-google-material-design-framework)
 - [Android Testing](http://www.slideshare.net/EvanLin3/android-testing-50032623)
+- [Android 6 Tutorial 第一堂（4）開發Android應用程式的準備工作 by Michael | CodeData](http://www.codedata.com.tw/mobile/android-6-tutorial-1-4/)
 
 ### <A NAME="IOS"></A>IOS 
 
@@ -424,6 +425,7 @@
 - [好厲害的 coding 終極技術指南！Google 工程師都照做練功的 | TechOrange](http://buzzorange.com/techorange/2015/05/17/google-engineer-pack/)
 - [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-4.html#%_toc_start)
 - [WEB开发者应该有哪些必备的技能？ | Coder | 程序员资源网](http://info.9iphp.com/essential-skills-every-web-developer-should-have/)
+- [我在用的mac软件(1)--终端环境之iTerm2 - Code Rush](http://foocoder.com/blog/wo-zai-yong-de-macruan-jian.html/)
 
 ## <A NAME="股票投資"></A>股票投資
 

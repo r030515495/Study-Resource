@@ -15,3 +15,17 @@
 ```
 set "JAVA_OPTS=-Xms64M -Xmx1024M -XX:MaxPermSize=256M"
 ```
+
+在 datasource 中加入這段，會自動在 DB 可以連線的時候自動連線
+
+``` xml
+<datasource>
+	<validation>
+		<check-valid-connection-sql>select 1</check-valid-connection-sql>
+		<validate-on-match>false</validate-on-match>
+		<background-validation>true</background-validation>
+		<background-validation-millis>10000</background-validation-millis>
+	</validation>
+	...
+</datasource>
+```

@@ -91,36 +91,36 @@ mongoexport --db db  --username jcs --password 'password' --authenticationDataba
 {"configKey":1}  只出現 configKey
 {"configKey":0}  只不出現 configKey
 
-``` bash
+```js
 db.getCollection('ModuleConfig').find({"chartOptions.type":"lineChart","showRate":true},{"configKey":1,"title":1,"module":1})
 ```
 
 group by 特定 key
 
-```
+```js
 db.getCollection('CrawlerConfig').aggregate({"$group":{"_id":"$type"}})
 ```
 in 的下法
 
-```
+```js
 db.getCollection('CrawlerData').find({"number":{$in:['UK03','UK04','UK05']}})
 ```
 
 like 的下法
 
-```
+```js
 db.getCollection('CrawlerData').find({"date":{$regex:'Q'}}})
 ```
 
 判斷 key 值是否存在
 
-```
+```js
 db.getCollection('CrawlerData').find({"editUpdate":{$exists:true}})
 ```
 
 刪除特定欄位
 
-```
+```js
 db.getCollection('CrawlerData').update(
     // query 
     {"editUpdate":{$exists:true}},
@@ -136,4 +136,16 @@ db.getCollection('CrawlerData').update(
         "upsert" : false  // insert a new document, if no existing document match the query 
     }
 );
+```
+
+查詢陣列某個大小
+
+```js
+db.getCollection('CrawlerConfig').find({$where:"this.dayHours.length > 1"})
+```
+
+排序特定欄位 1 遞增 ,-1 遞減
+
+```js
+db.getCollection('CrawlerConfig').find({},{"lastDate":1}).sort({"lastDate":-1})
 ```

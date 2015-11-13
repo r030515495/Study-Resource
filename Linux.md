@@ -151,3 +151,15 @@
 	# -d 使用數字當做序列
 	# -l 分隔行數
 	```
+	
+- 顯示當前目錄大小並排序
+
+	``` sh
+		du -h -d 1 |sort -rn
+	```
+
+- 找到特定名稱檔案並刪除
+
+	``` sh
+	find . -type f -name "FILE-TO-FIND" -exec rm -f {} \;
+	```
