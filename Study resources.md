@@ -285,6 +285,7 @@
 - [推薦五個熱門 Google 材質設計框架 (Material Design Framework) « 關於網路那些事...](http://adon988.logdown.com/posts/263691-recommend-some-good-google-material-design-framework)
 - [Android Testing](http://www.slideshare.net/EvanLin3/android-testing-50032623)
 - [Android 6 Tutorial 第一堂（4）開發Android應用程式的準備工作 by Michael | CodeData](http://www.codedata.com.tw/mobile/android-6-tutorial-1-4/)
+- [给 Android 开发者的 RxJava 详解]http://gank.io/post/560e15be2dca930e00da1083#toc_1
 
 ### <A NAME="IOS"></A>IOS 
 

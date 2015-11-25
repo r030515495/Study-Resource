@@ -29,3 +29,11 @@ set "JAVA_OPTS=-Xms64M -Xmx1024M -XX:MaxPermSize=256M"
 	...
 </datasource>
 ```
+
+修改 log 路徑 
+
+```
+wildfly-8.2.0.Final/standalone/configuration/logging.properties
+
+org.jboss.boot.log.file
+```

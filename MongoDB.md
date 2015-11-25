@@ -149,3 +149,9 @@ db.getCollection('CrawlerConfig').find({$where:"this.dayHours.length > 1"})
 ```js
 db.getCollection('CrawlerConfig').find({},{"lastDate":1}).sort({"lastDate":-1})
 ```
+
+not 的寫法
+
+```js
+db.getCollection('CrawlerLog').find({"status":{$ne:"執行成功"}})
+```
