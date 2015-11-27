@@ -129,3 +129,10 @@ Java -> Editor ->  Content Assist -> Favorites
 
 ```
 
+## 常見問題
+
+遇到專案打不開，刪除專案中底下的檔案
+
+```
+/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi
+```
