@@ -78,7 +78,8 @@
 - [WrapBootstrap - Bootstrap Themes & Templates](https://wrapbootstrap.com/)
 - [Black Tie – Free Handsome Bootstrap Themes](http://www.blacktie.co/)
 - [18 個 CSS 鬼斧神工之作! 用CSS打造出的小小兵，你看出來了嗎? « 關於網路那些事...](http://adon988.logdown.com/posts/291649-using-css-to-create-a-small-soldier-did-you-see-it)
-- [Coolors - The super fast color schemes generator!]https://coolors.co/app
+- [Coolors - The super fast color schemes generator!](https://coolors.co/app)
+- [Comparing Bootstrap With MDL | Tutorialzine Demo](http://demo.tutorialzine.com/2015/07/comparing-bootstrap-with-mdl/?grid)
 
 ### <A NAME="Color"></A>Color
 
@@ -208,6 +209,7 @@
 - [Blog - Benjamin Winterberg](http://winterbe.com/java/)
 - [jinahya/proguard-with-maven-example · GitHub ](https://github.com/jinahya/proguard-with-maven-example)
 - [Java Design Patterns Tutorial | Java Code Geeks](http://www.javacodegeeks.com/2015/09/java-design-patterns.html)
+- [JUnit Lambda - The Prototype - blog@CodeFX](http://blog.codefx.org/libraries/junit-lambda-prototype/)
 
 ### <A NAME="JAVA Template"></A>JAVA Template
 - [JHipster home page Maven + Spring + AngularJS](http://jhipster.github.io/)
