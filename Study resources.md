@@ -133,6 +133,8 @@
 - [The Web Platform: Browser technologies](https://platform.html5.org/)
 - [第七屆iT邦幫忙鐵人賽 - 「30 天學會 Web 前端效能優化」系列文章整理 « 攝理生活記](http://blog.cgmlife.net/posts/2014/11/30/ironman-seventh-it-states-help-30-days-to-learn-web-front-end-performance-optimization)
 - [Your First Multi-device Site — Web Fundamentals](https://developers.google.com/web/fundamentals/getting-started/your-first-multi-screen-site/)
+- [What Web Can Do Today](https://whatwebcando.today)
+
 
 ## <A NAME="後端"></A>後端
 
