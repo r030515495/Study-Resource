@@ -95,10 +95,10 @@ mongoexport --db db  --username jcs --password 'password' --authenticationDataba
 db.getCollection('ModuleConfig').find({"chartOptions.type":"lineChart","showRate":true},{"configKey":1,"title":1,"module":1})
 ```
 
-group by 特定 key
+group by 特定 key 並做加總
 
 ```js
-db.getCollection('CrawlerConfig').aggregate({"$group":{"_id":"$type"}})
+db.getCollection('CrawlerConfig').aggregate({"$group":{"_id":"$type","count":{"$sum":1}}})
 ```
 in 的下法
 
@@ -154,4 +154,25 @@ not 的寫法
 
 ```js
 db.getCollection('CrawlerLog').find({"status":{$ne:"執行成功"}})
+```
+
+更新特定欄位
+```js
+db.getCollection('CrawlerData').update(
+    // query 
+    {
+
+    },
+    
+    // update 
+    {
+        "$set":{"colName":"123"}
+    },
+    
+    // options 
+    {
+        "multi" : true,  // update only one document 
+        "upsert" : false  // insert a new document, if no existing document 		  match the query 
+    }
+);
 ```
