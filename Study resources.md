@@ -84,6 +84,7 @@
 ### <A NAME="Color"></A>Color
 
 - [Color Scheme Designer 3](http://colorschemedesigner.com/)
+- [有这篇就够了！为零基础新手量身打造的安全配色指南](http://www.uisdc.com/safe-color-matching-guideline)
 
 ### <A NAME="JavaScript"></A>JavaScript
 
@@ -432,6 +433,7 @@
 - [WEB开发者应该有哪些必备的技能？ | Coder | 程序员资源网](http://info.9iphp.com/essential-skills-every-web-developer-should-have/)
 - [我在用的mac软件(1)--终端环境之iTerm2 - Code Rush](http://foocoder.com/blog/wo-zai-yong-de-macruan-jian.html/)
 - [MongoDB Tutorial 2](http://www.newthinktank.com/2015/12/mongodb-tutorial-2/)
+- [人人都能用英语 - 知笔墨](http://zhibimo.com/books/xiaolai/everyone-can-use-english)
 
 ## <A NAME="股票投資"></A>股票投資
 
