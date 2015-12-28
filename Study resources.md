@@ -213,6 +213,7 @@
 - [jinahya/proguard-with-maven-example · GitHub ](https://github.com/jinahya/proguard-with-maven-example)
 - [Java Design Patterns Tutorial | Java Code Geeks](http://www.javacodegeeks.com/2015/09/java-design-patterns.html)
 - [JUnit Lambda - The Prototype - blog@CodeFX](http://blog.codefx.org/libraries/junit-lambda-prototype/)
+- [Monad Design Pattern in Java](https://ingramchen.io/blog/2014/11/monad-design-pattern-in-java.html?utm)
 
 ### <A NAME="JAVA Template"></A>JAVA Template
 - [JHipster home page Maven + Spring + AngularJS](http://jhipster.github.io/)
@@ -290,7 +291,8 @@
 - [推薦五個熱門 Google 材質設計框架 (Material Design Framework) « 關於網路那些事...](http://adon988.logdown.com/posts/263691-recommend-some-good-google-material-design-framework)
 - [Android Testing](http://www.slideshare.net/EvanLin3/android-testing-50032623)
 - [Android 6 Tutorial 第一堂（4）開發Android應用程式的準備工作 by Michael | CodeData](http://www.codedata.com.tw/mobile/android-6-tutorial-1-4/)
-- [给 Android 开发者的 RxJava 详解]http://gank.io/post/560e15be2dca930e00da1083#toc_1
+- [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083#toc_1)
+- [Android开发中，有哪些让你觉得相见恨晚的方法、类或接口？ - 程序员 - 知乎](https://www.zhihu.com/question/33636939)
 
 ### <A NAME="IOS"></A>IOS 
 
