@@ -214,6 +214,7 @@
 - [Java Design Patterns Tutorial | Java Code Geeks](http://www.javacodegeeks.com/2015/09/java-design-patterns.html)
 - [JUnit Lambda - The Prototype - blog@CodeFX](http://blog.codefx.org/libraries/junit-lambda-prototype/)
 - [Monad Design Pattern in Java](https://ingramchen.io/blog/2014/11/monad-design-pattern-in-java.html?utm)
+- [Effective UI tests with Selenide | Java Code Geeks]http://www.javacodegeeks.com/2015/12/effective-ui-tests-selenide.html
 
 ### <A NAME="JAVA Template"></A>JAVA Template
 - [JHipster home page Maven + Spring + AngularJS](http://jhipster.github.io/)
