@@ -120,7 +120,9 @@
 - [ele828/React-Native学习指南 · GitHub](https://github.com/ele828/react-native-guide)
 - [React and ES6 - Part 1, Introduction](http://egorsmirnov.me/2015/05/22/react-and-es6-part1.html)
 - [Create a character voting app using React, Node.js, MongoDB and Socket.IO](http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/)
-- [Full-Stack Redux Tutorial]http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html
+- [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
+- [Read Me | Redux](http://chentsulin.github.io/redux/index.html)
+- [從<琅琊榜>學 Redux - andyyou 程序猿生活 - SegmentFault](http://segmentfault.com/a/1190000004257207)
 
 #### <A NAME="AngularJs"></A>AngularJs
 - [johnpapa/angularjs-styleguide · GitHub](https://github.com/johnpapa/angularjs-styleguide)

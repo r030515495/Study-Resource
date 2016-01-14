@@ -26,6 +26,14 @@ mongod.exe --dbpath=D:\mongodb_data --logpath=D:\mongodb_log\mongodb.log --auth 
 - --dbpath 資料儲存的位置
 - --logpath log的輸出位置
 
+刪除 mongodb 服務
+
+```
+net stop MongoDB
+
+"C:\mongodb\bin\mongod.exe" --remove
+```
+
 啟動 mongodb
 
 ```bash

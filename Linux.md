@@ -164,3 +164,9 @@
 	``` sh
 	find . -type f -name "FILE-TO-FIND" -exec rm -f {} \;
 	```
+	
+- 找當前目錄包含特定文字的檔案
+
+	``` sh
+	grep -i -R 'exception' .
+	```
