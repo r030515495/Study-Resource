@@ -304,6 +304,7 @@
 - [How To Make An iPhone App - Start Here](http://codewithchris.com/how-to-make-an-iphone-app/)
 - [iOS Human Interface Guidelines: Designing for iOS](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html#//apple_ref/doc/uid/TP40006556-CH66-SW1)
 - [[APP開發] Xcode透過Ad-Hoc發佈App給其它裝置測試使用 | ♣梅問題‧教學網【Minwt】♣](http://www.minwt.com/ios/4457.html)
+- [學習Swift的100天 – Soft & Share](https://softandshare.wordpress.com/2016/02/15/%E5%AD%B8%E7%BF%92swift%E7%9A%84100%E5%A4%A9/)
 
 ### <A NAME="Windows Phone"></A>Windows Phone
 - [Sending push notifications with WNS (XAML) (Windows)](https://msdn.microsoft.com/en-us/library/windows/apps/xaml/hh868244.aspx)
@@ -343,7 +344,7 @@
 
 ## <A NAME="版本控制"></A>版本控制
 
-- [猴子都能懂的GIT入门 | 贝格乐（Backlog）](http://backlogtool.com/git-guide/cn/)
+- [連猴子都能懂的Git入門指南 | 貝格樂（Backlog）](https://backlogtool.com/git-guide/tw/)
 - [打造專屬於你的 Git 工作流程 — Alias、Commands、Hooks | Mozilla Tech | 謀智台客](http://tech.mozilla.com.tw/posts/5306/%E6%89%93%E9%80%A0%E5%B0%88%E5%B1%AC%E6%96%BC%E4%BD%A0%E7%9A%84-git-%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%A8%8B-alias%E3%80%81commands%E3%80%81hooks)
 - [Most common git screwups/questions and solutions - 41J Blog](http://41j.com/blog/2015/02/common-git-screwupsquestions-solutions/)
 - [Git rebase 和 merge 合併操作示範錄影 | ihower { blogging }](https://ihower.tw/blog/archives/6704)

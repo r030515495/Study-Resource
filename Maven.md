@@ -125,3 +125,30 @@ eclipse:clean eclipse:eclipse eclipse:configure-workspace  -Declipse.workspace="
   <pluginGroup>org.wildfly.plugins</pluginGroup>
 </pluginGroups>
 ```
+
+
+可以將相依的 jar 也包進去的，並可以執行的 jar 檔
+
+```xml
+<plugin>
+	<artifactId>maven-assembly-plugin</artifactId>
+	<configuration>
+		<descriptorRefs>
+			<descriptorRef>jar-with-dependencies</descriptorRef>
+		</descriptorRefs>
+		<archive>
+			<manifest>
+				<mainClass>book.Main</mainClass>
+			</manifest>
+		</archive>
+	</configuration>
+	<executions>
+		<execution>
+			<phase>package</phase>
+			<goals>
+				<goal>single</goal>
+			</goals>
+		</execution>
+	</executions>
+</plugin>
+```
