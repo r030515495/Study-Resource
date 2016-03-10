@@ -216,7 +216,8 @@
 - [Java Design Patterns Tutorial | Java Code Geeks](http://www.javacodegeeks.com/2015/09/java-design-patterns.html)
 - [JUnit Lambda - The Prototype - blog@CodeFX](http://blog.codefx.org/libraries/junit-lambda-prototype/)
 - [Monad Design Pattern in Java](https://ingramchen.io/blog/2014/11/monad-design-pattern-in-java.html?utm)
-- [Effective UI tests with Selenide | Java Code Geeks]http://www.javacodegeeks.com/2015/12/effective-ui-tests-selenide.html
+- [Effective UI tests with Selenide | Java Code Geeks](http://www.javacodegeeks.com/2015/12/effective-ui-tests-selenide.html)
+- [写给java web一年左右工作经验的人 - 懒惰的完美主义者 - 开源中国社区](http://my.oschina.net/aaron74/blog/282304?fromerr=G2YPoTlh)
 
 ### <A NAME="JAVA Template"></A>JAVA Template
 - [JHipster home page Maven + Spring + AngularJS](http://jhipster.github.io/)
@@ -440,7 +441,7 @@
 - [我在用的mac软件(1)--终端环境之iTerm2 - Code Rush](http://foocoder.com/blog/wo-zai-yong-de-macruan-jian.html/)
 - [MongoDB Tutorial 2](http://www.newthinktank.com/2015/12/mongodb-tutorial-2/)
 - [人人都能用英语 - 知笔墨](http://zhibimo.com/books/xiaolai/everyone-can-use-english)
-
+- [Scrum與Agile敏捷開發書單和學習資源 « 敏捷進化趣 Agile FunEvo](http://funevo.com/2015/06/01/scrum-agile-shu-dan-book-list-training/)
 ## <A NAME="股票投資"></A>股票投資
 
 - [不看盤的投資術 - 股魚網](http://stocksardine.com/)

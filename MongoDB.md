@@ -165,12 +165,11 @@ db.getCollection('CrawlerLog').find({"status":{$ne:"執行成功"}})
 ```
 
 更新特定欄位
+
 ```js
 db.getCollection('CrawlerData').update(
     // query 
-    {
-
-    },
+    {},
     
     // update 
     {
@@ -180,7 +179,7 @@ db.getCollection('CrawlerData').update(
     // options 
     {
         "multi" : true,  // update only one document 
-        "upsert" : false  // insert a new document, if no existing document 		  match the query 
+        "upsert" : false  
     }
 );
 ```
