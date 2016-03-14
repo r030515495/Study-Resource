@@ -73,7 +73,7 @@ admin 是所有 DB  控制權
 
 ```bash
 
-mongoexport --db ga --collection UploadImage --out UploadImage.json
+mongoexport --db ga --collection CollectionName --out CollectionName
 
 ```
 
@@ -82,7 +82,7 @@ mongoexport --db ga --collection UploadImage --out UploadImage.json
 匯入資料
 
 ```bash
-mongoimport --db db --collection UploadImage --file UploadImage.json
+mongoimport --db db --collection CollectionName --file CollectionName
 ```
 
 
@@ -93,81 +93,86 @@ mongoexport --db db  --username jcs --password 'password' --authenticationDataba
 
 ```
 
-如果要搜尋 obj 底下的 key 要用 {"chartOptions.type":"lineChart"}
+
+## 查詢
+
+如果要搜尋 obj 底下的 key 要用 {"module.type":"line"}
 
 如果只要顯示特定欄位則是加再第二欄位 
+
+```json
 {"configKey":1}  只出現 configKey
 {"configKey":0}  只不出現 configKey
-
-```js
-db.getCollection('ModuleConfig').find({"chartOptions.type":"lineChart","showRate":true},{"configKey":1,"title":1,"module":1})
 ```
 
-group by 特定 key 並做加總
-
 ```js
-db.getCollection('CrawlerConfig').aggregate({"$group":{"_id":"$type","count":{"$sum":1}}})
-```
-in 的下法
-
-```js
-db.getCollection('CrawlerData').find({"number":{$in:['UK03','UK04','UK05']}})
+db.getCollection('CollectionName').find(
+	{"module.type":"line","showRate":true},
+	{"configKey":1,"title":1,"module":1}
+)
 ```
 
-like 的下法
+查詢陣列欄位長度
 
 ```js
-db.getCollection('CrawlerData').find({"date":{$regex:'Q'}}})
-```
-
-判斷 key 值是否存在
-
-```js
-db.getCollection('CrawlerData').find({"editUpdate":{$exists:true}})
-```
-
-刪除特定欄位
-
-```js
-db.getCollection('CrawlerData').update(
-    // query 
-    {"editUpdate":{$exists:true}},
-    
-    // update 
-    {
-        $unset:{"editUpdate":""}
-    },
-    
-    // options 
-    {
-        "multi" : true,  // update only one document 
-        "upsert" : false  // insert a new document, if no existing document match the query 
-    }
-);
-```
-
-查詢陣列某個大小
-
-```js
-db.getCollection('CrawlerConfig').find({$where:"this.dayHours.length > 1"})
+db.getCollection('CollectionName').find({$where:"this.days.length > 1"})
 ```
 
 排序特定欄位 1 遞增 ,-1 遞減
 
 ```js
-db.getCollection('CrawlerConfig').find({},{"lastDate":1}).sort({"lastDate":-1})
+db.getCollection('CollectionName').find({},{"lastDate":1}).sort({"lastDate":-1})
 ```
 
 not 的寫法
 
 ```js
-db.getCollection('CrawlerLog').find({"status":{$ne:"執行成功"}})
+db.getCollection('CollectionName').find({"status":{$ne:"someThing"}})
 ```
+
+in 的下法
+
+```js
+db.getCollection('CollectionName').find({"number":{$in:['AAA','BBB','CCC']}})
+```
+
+like 的下法
+
+```js
+db.getCollection('CollectionName').find({"date":{$regex:'Q'}}})
+```
+
+判斷 key 值是否存在
+
+```js
+db.getCollection('CollectionName').find({"editUpdate":{$exists:true}})
+```
+
+
+group by 特定 key 並做加總
+
+```js
+db.getCollection('CollectionName').aggregate(
+	{"$group":{"_id":"$type","count":{"$sum":1}}}
+)
+```
+
+group by 特定欄位，取出最小值，並排序
+
+```js
+	
+db.getCollection('CollectionName').aggregate([
+	{"$group":{"_id":"$groupbyColumn","minQuantity":{"$min":"$MinColumn"}}},
+	{"$sort":{_id:1}}
+	])
+```
+
+## 更新
 
 更新特定欄位
 
 ```js
-db.getCollection('CrawlerData').update(
+db.getCollection('CollectionName').update(
     // query 
     {},
     
@@ -178,8 +183,30 @@ db.getCollection('CrawlerData').update(
     
     // options 
     {
-        "multi" : true,  // update only one document 
+        "multi" : true,  // 是否為多筆更新
         "upsert" : false  
+    }
+);
+```
+
+## 刪除
+
+刪除特定欄位
+
+```js
+db.getCollection('CollectionName').update(
+    // query 
+    {"editUpdate":{$exists:true}},
+    
+    // update 
+    {
+        $unset:{"editUpdate":""}
+    },
+   
+    // options 
+    {
+        "multi" : true, 
+        "upsert" : false
     }
 );
 ```
