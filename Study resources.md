@@ -123,6 +123,8 @@
 - [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
 - [Read Me | Redux](http://chentsulin.github.io/redux/index.html)
 - [從<琅琊榜>學 Redux - andyyou 程序猿生活 - SegmentFault](http://segmentfault.com/a/1190000004257207)
+- [React Native Express](http://www.reactnativeexpress.com)
+
 
 #### <A NAME="AngularJs"></A>AngularJs
 - [johnpapa/angularjs-styleguide · GitHub](https://github.com/johnpapa/angularjs-styleguide)
@@ -297,6 +299,7 @@
 - [Android 6 Tutorial 第一堂（4）開發Android應用程式的準備工作 by Michael | CodeData](http://www.codedata.com.tw/mobile/android-6-tutorial-1-4/)
 - [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083#toc_1)
 - [Android开发中，有哪些让你觉得相见恨晚的方法、类或接口？ - 程序员 - 知乎](https://www.zhihu.com/question/33636939)
+- [如何自学Android](http://gityuan.com/2016/04/24/how-to-study-android/)
 
 ### <A NAME="IOS"></A>IOS 
 
@@ -442,6 +445,8 @@
 - [MongoDB Tutorial 2](http://www.newthinktank.com/2015/12/mongodb-tutorial-2/)
 - [人人都能用英语 - 知笔墨](http://zhibimo.com/books/xiaolai/everyone-can-use-english)
 - [Scrum與Agile敏捷開發書單和學習資源 « 敏捷進化趣 Agile FunEvo](http://funevo.com/2015/06/01/scrum-agile-shu-dan-book-list-training/)
+- [線上執行 java Codeboard · the IDE for the classroom](https://codeboard.io/projects/130)
+- [線上拉畫面UXPin: UX Design & Wireframing Tools As Beautiful As Your Work](https://www.uxpin.com/)
 ## <A NAME="股票投資"></A>股票投資
 
 - [不看盤的投資術 - 股魚網](http://stocksardine.com/)
