@@ -10,13 +10,13 @@
 ```
 
 
-## 修改服務的使用 ram 大小 standalone.conf.bat
+修改服務的使用 ram 大小 standalone.conf.bat
 
 ```
 set "JAVA_OPTS=-Xms64M -Xmx1024M -XX:MaxPermSize=256M"
 ```
 
-## 在 datasource 中加入這段，會自動在 DB 可以連線的時候自動連線
+在 datasource 中加入這段，會自動在 DB 可以連線的時候自動連線
 
 ``` xml
 <datasource>
@@ -30,10 +30,10 @@ set "JAVA_OPTS=-Xms64M -Xmx1024M -XX:MaxPermSize=256M"
 </datasource>
 ```
 
-## 將 wildfly 變成 windows service
-
-在指令列模式輸入下列指令
+修改 log 路徑 
 
 ```
-wildfly-8.2.0.Final/bin/service/service.bat /user window帳號 /password windows 密碼
+wildfly-8.2.0.Final/standalone/configuration/logging.properties
+
+org.jboss.boot.log.file
 ```
