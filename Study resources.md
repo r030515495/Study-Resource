@@ -220,6 +220,7 @@
 - [Monad Design Pattern in Java](https://ingramchen.io/blog/2014/11/monad-design-pattern-in-java.html?utm)
 - [Effective UI tests with Selenide | Java Code Geeks](http://www.javacodegeeks.com/2015/12/effective-ui-tests-selenide.html)
 - [写给java web一年左右工作经验的人 - 懒惰的完美主义者 - 开源中国社区](http://my.oschina.net/aaron74/blog/282304?fromerr=G2YPoTlh)
+- [Groovy on Grails lyhcode](https://rawgit.com/lyhcode/grails-realestate/master/slides.html#/)
 
 ### <A NAME="JAVA Template"></A>JAVA Template
 - [JHipster home page Maven + Spring + AngularJS](http://jhipster.github.io/)
