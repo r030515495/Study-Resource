@@ -221,6 +221,7 @@
 - [Effective UI tests with Selenide | Java Code Geeks](http://www.javacodegeeks.com/2015/12/effective-ui-tests-selenide.html)
 - [写给java web一年左右工作经验的人 - 懒惰的完美主义者 - 开源中国社区](http://my.oschina.net/aaron74/blog/282304?fromerr=G2YPoTlh)
 - [Groovy on Grails lyhcode](https://rawgit.com/lyhcode/grails-realestate/master/slides.html#/)
+- [BetterJava-如何更好的使用 Java – 字节流](http://blog.smoker.cc/translation/20160511.html)
 
 ### <A NAME="JAVA Template"></A>JAVA Template
 - [JHipster home page Maven + Spring + AngularJS](http://jhipster.github.io/)
