@@ -108,4 +108,9 @@
 	int width = dm.widthPixels;    
 	int height = dm.heightPixels;  
 	```
-	
+- 使用 Adb 將檔案放到虛擬機中
+
+	```
+	# -p 顯示進度條 將目前資料夾中的 test.pdf 放到 連接裝置的指定目錄
+	adb push -p  test.pdf /sdcard/test.pdf
+	```	

@@ -302,6 +302,7 @@
 - [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083#toc_1)
 - [Android开发中，有哪些让你觉得相见恨晚的方法、类或接口？ - 程序员 - 知乎](https://www.zhihu.com/question/33636939)
 - [如何自学Android](http://gityuan.com/2016/04/24/how-to-study-android/)
+- [Top Android Video Tutorials | Udemy](https://www.udemy.com/courses/development/mobile-development/Android-Video-Tutorials/)
 
 ### <A NAME="IOS"></A>IOS 
 
