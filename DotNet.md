@@ -28,6 +28,8 @@
 	- 區塊符號起始/結束位置切換 `Ctrl + ]`
 	- 快速 construct `ctor Tab Tab`
 	- 重構名稱 `Ctrl + R,Ctrl +R`
+	- 轉換小寫 `Ctrl + U`
+	- 轉換大寫 `Ctrl + Shift + U`
 
 ## 語法
  - 遞迭出目錄檔案
