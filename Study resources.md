@@ -304,6 +304,9 @@
 - [如何自学Android](http://gityuan.com/2016/04/24/how-to-study-android/)
 - [Top Android Video Tutorials | Udemy](https://www.udemy.com/courses/development/mobile-development/Android-Video-Tutorials/)
 - [Clean Android Code — Android & Tech Publication — Medium](https://medium.com/android-news/keep-your-droid-clean-e9c093140eb6#.gqpq0fcid)
+- [Android Tutorial For Beginners With Examples
+](https://examples.javacodegeeks.com/android/android-tutorial-beginners-with-examples/)
+- [Android Basics Nanodegree by Google | Udacity](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
 
 ### <A NAME="IOS"></A>IOS 
 
