@@ -222,6 +222,7 @@
 - [写给java web一年左右工作经验的人 - 懒惰的完美主义者 - 开源中国社区](http://my.oschina.net/aaron74/blog/282304?fromerr=G2YPoTlh)
 - [Groovy on Grails lyhcode](https://rawgit.com/lyhcode/grails-realestate/master/slides.html#/)
 - [BetterJava-如何更好的使用 Java – 字节流](http://blog.smoker.cc/translation/20160511.html)
+- [GitHub - jacksu/utils4s: scala、spark使用过程中，各种测试用例以及相关资料整理](https://github.com/jacksu/utils4s)
 
 ### <A NAME="JAVA Template"></A>JAVA Template
 - [JHipster home page Maven + Spring + AngularJS](http://jhipster.github.io/)
@@ -307,6 +308,7 @@
 - [Android Tutorial For Beginners With Examples
 ](https://examples.javacodegeeks.com/android/android-tutorial-beginners-with-examples/)
 - [Android Basics Nanodegree by Google | Udacity](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
+- [OkHttpUtils一个专注于让网络请求更简单的框架 - 简书](http://www.jianshu.com/p/4c17956fe3b4)
 
 ### <A NAME="IOS"></A>IOS 
 
