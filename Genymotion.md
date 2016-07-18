@@ -7,3 +7,4 @@
 - 後傾 Ctrl + 左鍵按下往下拖
 - 逆時鐘旋轉 Ctrl + Shift + 左鍵按下往左拖
 - 順時鐘旋轉 Ctrl + Shift + 左鍵按下往右拖
+- 切換語系 shift + space

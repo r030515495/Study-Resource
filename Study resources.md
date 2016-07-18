@@ -223,6 +223,7 @@
 - [Groovy on Grails lyhcode](https://rawgit.com/lyhcode/grails-realestate/master/slides.html#/)
 - [BetterJava-如何更好的使用 Java – 字节流](http://blog.smoker.cc/translation/20160511.html)
 - [GitHub - jacksu/utils4s: scala、spark使用过程中，各种测试用例以及相关资料整理](https://github.com/jacksu/utils4s)
+- [題庫解析 有 Java| MagicLen](https://magiclen.org/category/exams/)
 
 ### <A NAME="JAVA Template"></A>JAVA Template
 - [JHipster home page Maven + Spring + AngularJS](http://jhipster.github.io/)
@@ -309,6 +310,8 @@
 ](https://examples.javacodegeeks.com/android/android-tutorial-beginners-with-examples/)
 - [Android Basics Nanodegree by Google | Udacity](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
 - [OkHttpUtils一个专注于让网络请求更简单的框架 - 简书](http://www.jianshu.com/p/4c17956fe3b4)
+- [2016里一些Android最佳实践列表——Opinionated - 某熊的全栈之路 - SegmentFault](https://segmentfault.com/a/1190000005752066)
+- [倍数提高工作效率的Android Studio奇技 · Jeremy'Memo](http://zlv.me/posts/2015/07/13/14_android-studio-tips/)
 
 ### <A NAME="IOS"></A>IOS 
 
