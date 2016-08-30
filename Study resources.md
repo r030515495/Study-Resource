@@ -224,6 +224,8 @@
 - [BetterJava-如何更好的使用 Java – 字节流](http://blog.smoker.cc/translation/20160511.html)
 - [GitHub - jacksu/utils4s: scala、spark使用过程中，各种测试用例以及相关资料整理](https://github.com/jacksu/utils4s)
 - [題庫解析 有 Java| MagicLen](https://magiclen.org/category/exams/)
+- [简介（Introduction） · learning-java](https://jimmylv.gitbooks.io/learning-java/content/)
+- [Introduction 简介 | Better Java 中英对照译本](https://jimmylv.gitbooks.io/better-java-zh/content/)
 
 ### <A NAME="JAVA Template"></A>JAVA Template
 - [JHipster home page Maven + Spring + AngularJS](http://jhipster.github.io/)
@@ -312,6 +314,7 @@
 - [OkHttpUtils一个专注于让网络请求更简单的框架 - 简书](http://www.jianshu.com/p/4c17956fe3b4)
 - [2016里一些Android最佳实践列表——Opinionated - 某熊的全栈之路 - SegmentFault](https://segmentfault.com/a/1190000005752066)
 - [倍数提高工作效率的Android Studio奇技 · Jeremy'Memo](http://zlv.me/posts/2015/07/13/14_android-studio-tips/)
+- [博客 丨 程大治](http://blog.chengdazhi.com/)
 
 ### <A NAME="IOS"></A>IOS 
 
@@ -459,6 +462,7 @@
 - [Scrum與Agile敏捷開發書單和學習資源 « 敏捷進化趣 Agile FunEvo](http://funevo.com/2015/06/01/scrum-agile-shu-dan-book-list-training/)
 - [線上執行 java Codeboard · the IDE for the classroom](https://codeboard.io/projects/130)
 - [線上拉畫面UXPin: UX Design & Wireframing Tools As Beautiful As Your Work](https://www.uxpin.com/)
+- [TrendingDevs | Best devs in town! 開放原始碼排行榜](http://app.trendingdevs.com/countries/taiwan)
 ## <A NAME="股票投資"></A>股票投資
 
 - [不看盤的投資術 - 股魚網](http://stocksardine.com/)
