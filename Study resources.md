@@ -104,6 +104,7 @@
 - [bl.ocks.org - mbostock](http://bl.ocks.org/mbostock)
 - [Learn ECMAScript6 by doing it](http://es6katas.org/)
 - [react-d3](http://www.reactd3.org/)
+- [JavaScript + jQuery Design Pattern Framework - dofactory.com](http://www.dofactory.com/products/javascript-jquery-design-pattern-framework)
 
 
 #### <A NAME="ReactJS"></A>ReactJS
@@ -315,6 +316,8 @@
 - [2016里一些Android最佳实践列表——Opinionated - 某熊的全栈之路 - SegmentFault](https://segmentfault.com/a/1190000005752066)
 - [倍数提高工作效率的Android Studio奇技 · Jeremy'Memo](http://zlv.me/posts/2015/07/13/14_android-studio-tips/)
 - [博客 丨 程大治](http://blog.chengdazhi.com/)
+- [Android攻城狮—全套必备神级工具（开发，插件，效率） - 简书](http://www.jianshu.com/p/0911efbf8009)
+- [Great Code Examples & Snippets | Codota](https://www.codota.com/)
 
 ### <A NAME="IOS"></A>IOS 
 
