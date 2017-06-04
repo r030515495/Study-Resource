@@ -61,7 +61,9 @@
 {
   "vsicons.presets.hideFolders": false,
   "editor.formatOnSave": true,
-  "editor.wordWrap": true
+  "editor.wordWrap": true,
+   "editor.snippetSuggestions": "top" // 將 snippet 提到最上層
+   "editor.tabCompletion": true, 按下 tab 即完成
 }		
 ```
 

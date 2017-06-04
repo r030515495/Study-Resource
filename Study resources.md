@@ -105,7 +105,7 @@
 - [Learn ECMAScript6 by doing it](http://es6katas.org/)
 - [react-d3](http://www.reactd3.org/)
 - [JavaScript + jQuery Design Pattern Framework - dofactory.com](http://www.dofactory.com/products/javascript-jquery-design-pattern-framework)
-
+- [The Modern Javascript Tutorial](http://javascript.info/)
 
 #### <A NAME="ReactJS"></A>ReactJS
 
