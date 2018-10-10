@@ -52,3 +52,9 @@
 	VBoxManage startvm "VMname" # 啟動 vm
 	VBoxManage list vms #列出所有 VM
 	```
+	
+- 開啟安全性與隱私的任何來源(macOS Sierra 10.12) 之後會沒有此選項
+
+	```sh
+	sudo spctl --master-disable 
+	```
