@@ -327,6 +327,8 @@
 - [iOS Human Interface Guidelines: Designing for iOS](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html#//apple_ref/doc/uid/TP40006556-CH66-SW1)
 - [[APP開發] Xcode透過Ad-Hoc發佈App給其它裝置測試使用 | ♣梅問題‧教學網【Minwt】♣](http://www.minwt.com/ios/4457.html)
 - [學習Swift的100天 – Soft & Share](https://softandshare.wordpress.com/2016/02/15/%E5%AD%B8%E7%BF%92swift%E7%9A%84100%E5%A4%A9/)
+- [Introduction · GitBook](http://itisjoe.github.io/swiftgo/)
+
 
 ### <A NAME="Windows Phone"></A>Windows Phone
 - [Sending push notifications with WNS (XAML) (Windows)](https://msdn.microsoft.com/en-us/library/windows/apps/xaml/hh868244.aspx)

@@ -58,3 +58,13 @@
 	```sh
 	sudo spctl --master-disable 
 	```
+
+- 判斷藍牙滑鼠的電池量。
+
+	```sh
+	mbatt=`/usr/sbin/ioreg -c AppleDeviceManagementHIDEventService | grep BatteryPercent | grep -i '"BatteryPercent" ='|sed 's/[^[:digit:]]//g'`
+	
+	if [[ -n $mbatt ]] && (($mbatt <= 20)); then
+		osascript -e "display notification \"目前電量: $mbatt%\" with title \"滑鼠電池量過低\""
+	fi
+	```
